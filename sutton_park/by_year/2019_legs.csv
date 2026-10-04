@@ -1,0 +1,463 @@
+﻿year,venue,team_pos,club,team,team_status,team_time,leg,runner,leg_time,cumulative_time,pos_before_leg,pos_after_leg,places_gained,rank_all_legs_that_year,rank_on_this_leg_that_year,club_as_printed
+2019,Sutton Park,1,Leeds City AC,A,complete,1:44:46,1,Ossama Meslek,18:12,0:18:12,,29,,75,29,Leeds City AC
+2019,Sutton Park,1,Leeds City AC,A,complete,1:44:46,2,Matthew Grieve,17:46,0:35:58,29,14,15,34,3,Leeds City AC
+2019,Sutton Park,1,Leeds City AC,A,complete,1:44:46,3,Philip Sesemann,17:02,0:53:00,14,4,10,3,1,Leeds City AC
+2019,Sutton Park,1,Leeds City AC,A,complete,1:44:46,4,Oliver Lockley,17:26,1:10:26,4,3,1,20,3,Leeds City AC
+2019,Sutton Park,1,Leeds City AC,A,complete,1:44:46,5,Emile Cairess,17:02,1:27:28,3,3,0,3,2,Leeds City AC
+2019,Sutton Park,1,Leeds City AC,A,complete,1:44:46,6,Graham Rush,17:18,1:44:46,3,1,2,7,1,Leeds City AC
+2019,Sutton Park,2,Aldershot Farnham & District AC,A,complete,1:45:19,1,Joshua Grace,17:21,0:17:21,,3,,11,3,Aldershot Farnham & District
+2019,Sutton Park,2,Aldershot Farnham & District AC,A,complete,1:45:19,2,Gus Cockle,17:47,0:35:08,3,1,2,38,5,Aldershot Farnham & District
+2019,Sutton Park,2,Aldershot Farnham & District AC,A,complete,1:45:19,3,Adam Clarke,17:23,0:52:31,1,2,-1,16,4,Aldershot Farnham & District
+2019,Sutton Park,2,Aldershot Farnham & District AC,A,complete,1:45:19,4,Richard Allen,17:26,1:09:57,2,1,1,20,3,Aldershot Farnham & District
+2019,Sutton Park,2,Aldershot Farnham & District AC,A,complete,1:45:19,5,Joe Morwood,17:25,1:27:22,1,2,-1,17,4,Aldershot Farnham & District
+2019,Sutton Park,2,Aldershot Farnham & District AC,A,complete,1:45:19,6,Ellis Cross,17:57,1:45:19,2,2,0,49,4,Aldershot Farnham & District
+2019,Sutton Park,3,Cambridge & Coleridge AC,A,complete,1:45:37,1,Escalantephillip,17:19,0:17:19,,2,,9,2,Cambridge & Coleridge AC
+2019,Sutton Park,3,Cambridge & Coleridge AC,A,complete,1:45:37,2,James Dunce,18:23,0:35:42,2,6,-4,102,19,Cambridge & Coleridge AC
+2019,Sutton Park,3,Cambridge & Coleridge AC,A,complete,1:45:37,3,Jack Gray,17:30,0:53:12,6,5,1,24,6,Cambridge & Coleridge AC
+2019,Sutton Park,3,Cambridge & Coleridge AC,A,complete,1:45:37,4,Joe Smith,17:54,1:11:06,5,6,-1,45,7,Cambridge & Coleridge AC
+2019,Sutton Park,3,Cambridge & Coleridge AC,A,complete,1:45:37,5,Marc Scott,16:46,1:27:52,6,4,2,1,1,Cambridge & Coleridge AC
+2019,Sutton Park,3,Cambridge & Coleridge AC,A,complete,1:45:37,6,Thomas Keen,17:45,1:45:37,4,3,1,32,3,Cambridge & Coleridge AC
+2019,Sutton Park,4,Cardiff AAC,,complete,1:45:52,1,James Heneghan,17:51,0:17:51,,17,,44,17,Cardiff Aac
+2019,Sutton Park,4,Cardiff AAC,,complete,1:45:52,2,Michael Ward,17:22,0:35:13,17,3,14,13,1,Cardiff Aac
+2019,Sutton Park,4,Cardiff AAC,,complete,1:45:52,3,Ieuan Thomas,17:31,0:52:44,3,3,0,26,7,Cardiff Aac
+2019,Sutton Park,4,Cardiff AAC,,complete,1:45:52,4,Ciaran Lewis,17:20,1:10:04,3,2,1,10,2,Cardiff Aac
+2019,Sutton Park,4,Cardiff AAC,,complete,1:45:52,5,Jake Smith,17:04,1:27:08,2,1,1,5,3,Cardiff Aac
+2019,Sutton Park,4,Cardiff AAC,,complete,1:45:52,6,James Thie,18:44,1:45:52,1,4,-3,153,20,Cardiff Aac
+2019,Sutton Park,5,Shaftesbury Barnet Harriers,,complete,1:47:28,1,Jake Shelley,17:25,0:17:25,,5,,17,5,Shaftesbury Barnet Harriers
+2019,Sutton Park,5,Shaftesbury Barnet Harriers,,complete,1:47:28,2,Phillip Crout,17:47,0:35:12,5,2,3,38,5,Shaftesbury Barnet Harriers
+2019,Sutton Park,5,Shaftesbury Barnet Harriers,,complete,1:47:28,3,Liam Dee,17:12,0:52:24,2,1,1,6,2,Shaftesbury Barnet Harriers
+2019,Sutton Park,5,Shaftesbury Barnet Harriers,,complete,1:47:28,4,Dylan Evans,18:14,1:10:38,1,4,-3,79,12,Shaftesbury Barnet Harriers
+2019,Sutton Park,5,Shaftesbury Barnet Harriers,,complete,1:47:28,5,Mark Pearce,18:20,1:28:58,4,5,-1,95,11,Shaftesbury Barnet Harriers
+2019,Sutton Park,5,Shaftesbury Barnet Harriers,,complete,1:47:28,6,Thomas Butler,18:30,1:47:28,5,5,0,118,16,Shaftesbury Barnet Harriers
+2019,Sutton Park,6,Birchfield Harriers,A,complete,1:47:50,1,Alexander Tovey,17:48,0:17:48,,14,,41,14,Birchfield Harriers
+2019,Sutton Park,6,Birchfield Harriers,A,complete,1:47:50,2,Sam Johnson,18:31,0:36:19,14,18,-4,121,25,Birchfield Harriers
+2019,Sutton Park,6,Birchfield Harriers,A,complete,1:47:50,3,William Richards,17:21,0:53:40,18,7,11,11,3,Birchfield Harriers
+2019,Sutton Park,6,Birchfield Harriers,A,complete,1:47:50,4,Omar Ahmed,16:58,1:10:38,7,5,2,2,1,Birchfield Harriers
+2019,Sutton Park,6,Birchfield Harriers,A,complete,1:47:50,5,Michael Tanner,18:47,1:29:25,5,6,-1,161,16,Birchfield Harriers
+2019,Sutton Park,6,Birchfield Harriers,A,complete,1:47:50,6,Ed Banks,18:25,1:47:50,6,6,0,105,11,Birchfield Harriers
+2019,Sutton Park,7,Bristol & West AC,A,complete,1:48:43,1,Jack Millar,17:46,0:17:46,,11,,34,11,Bristol & West AC
+2019,Sutton Park,7,Bristol & West AC,A,complete,1:48:43,2,Andrew Watt,18:05,0:35:51,11,9,2,62,9,Bristol & West AC
+2019,Sutton Park,7,Bristol & West AC,A,complete,1:48:43,3,Adam Stokes,18:40,0:54:31,9,13,-4,138,19,Bristol & West AC
+2019,Sutton Park,7,Bristol & West AC,A,complete,1:48:43,4,Daniel Studley,17:57,1:12:28,13,10,3,49,8,Bristol & West AC
+2019,Sutton Park,7,Bristol & West AC,A,complete,1:48:43,5,Jarlath Mckenna,18:06,1:30:34,10,9,1,65,6,Bristol & West AC
+2019,Sutton Park,7,Bristol & West AC,A,complete,1:48:43,6,Kurt Taylor,18:09,1:48:43,9,7,2,72,6,Bristol & West AC
+2019,Sutton Park,8,Morpeth Harriers & AC,A,complete,1:48:52,1,Sam Hancox,18:05,0:18:05,,27,,62,27,Morpeth Harriers & AC
+2019,Sutton Park,8,Morpeth Harriers & AC,A,complete,1:48:52,2,Chris Parr,17:46,0:35:51,27,10,17,34,3,Morpeth Harriers & AC
+2019,Sutton Park,8,Morpeth Harriers & AC,A,complete,1:48:52,3,Phillip Winkler,18:55,0:54:46,10,16,-6,185,26,Morpeth Harriers & AC
+2019,Sutton Park,8,Morpeth Harriers & AC,A,complete,1:48:52,4,George Lowry,18:06,1:12:52,16,12,4,65,10,Morpeth Harriers & AC
+2019,Sutton Park,8,Morpeth Harriers & AC,A,complete,1:48:52,5,Alex Brown,18:38,1:31:30,12,11,1,133,13,Morpeth Harriers & AC
+2019,Sutton Park,8,Morpeth Harriers & AC,A,complete,1:48:52,6,Carl Avery,17:22,1:48:52,11,8,3,13,2,Morpeth Harriers & AC
+2019,Sutton Park,9,Sale Harriers Manchester,A,complete,1:48:55,1,Philip Robertson,17:49,0:17:49,,16,,43,16,Sale Harriers Manchester
+2019,Sutton Park,9,Sale Harriers Manchester,A,complete,1:48:55,2,Matthew Barnes,18:18,0:36:07,16,15,1,90,17,Sale Harriers Manchester
+2019,Sutton Park,9,Sale Harriers Manchester,A,complete,1:48:55,3,Gavin Hill,18:12,0:54:19,15,11,4,75,10,Sale Harriers Manchester
+2019,Sutton Park,9,Sale Harriers Manchester,A,complete,1:48:55,4,Nigel Martin,17:29,1:11:48,11,9,2,23,5,Sale Harriers Manchester
+2019,Sutton Park,9,Sale Harriers Manchester,A,complete,1:48:55,5,Daniel Kashi,18:40,1:30:28,9,7,2,138,14,Sale Harriers Manchester
+2019,Sutton Park,9,Sale Harriers Manchester,A,complete,1:48:55,6,William Onek,18:27,1:48:55,7,9,-2,109,14,Sale Harriers Manchester
+2019,Sutton Park,10,Southampton AC,,complete,1:48:57,1,Matthew Revier,17:58,0:17:58,,20,,53,20,Southampton AC
+2019,Sutton Park,10,Southampton AC,,complete,1:48:57,2,Ben Brewster,18:34,0:36:32,20,22,-2,125,28,Southampton AC
+2019,Sutton Park,10,Southampton AC,,complete,1:48:57,3,Alexander Teuten,17:27,0:53:59,22,8,14,22,5,Southampton AC
+2019,Sutton Park,10,Southampton AC,,complete,1:48:57,4,Mahamed Mahamed,17:41,1:11:40,8,8,0,30,6,Southampton AC
+2019,Sutton Park,10,Southampton AC,,complete,1:48:57,5,Max Costley,18:55,1:30:35,8,10,-2,185,20,Southampton AC
+2019,Sutton Park,10,Southampton AC,,complete,1:48:57,6,Jonathan Roberts,18:22,1:48:57,10,10,0,101,9,Southampton AC
+2019,Sutton Park,11,Bedford & County AC,A,complete,1:49:42,1,Matthew Bray,17:57,0:17:57,,19,,49,19,Bedford & County AC
+2019,Sutton Park,11,Bedford & County AC,A,complete,1:49:42,2,Matthew Bergin,17:25,0:35:22,19,4,15,17,2,Bedford & County AC
+2019,Sutton Park,11,Bedford & County AC,A,complete,1:49:42,3,Jack Goodwin,17:57,0:53:19,4,6,-2,49,9,Bedford & County AC
+2019,Sutton Park,11,Bedford & County AC,A,complete,1:49:42,4,Jonathan Janes,18:11,1:11:30,6,7,-1,74,11,Bedford & County AC
+2019,Sutton Park,11,Bedford & County AC,A,complete,1:49:42,5,Alfred Yabsley,19:03,1:30:33,7,8,-1,204,22,Bedford & County AC
+2019,Sutton Park,11,Bedford & County AC,A,complete,1:49:42,6,Michael Channing,19:09,1:49:42,8,11,-3,220,28,Bedford & County AC
+2019,Sutton Park,12,Tonbridge AC,A,complete,1:49:49,1,Ben Cole,17:38,0:17:38,,8,,29,8,Tonbridge AC
+2019,Sutton Park,12,Tonbridge AC,A,complete,1:49:49,2,Alasdair Kinloch,18:12,0:35:50,8,8,0,75,12,Tonbridge AC
+2019,Sutton Park,12,Tonbridge AC,A,complete,1:49:49,3,Jamie Goodge,18:49,0:54:39,8,14,-6,167,23,Tonbridge AC
+2019,Sutton Park,12,Tonbridge AC,A,complete,1:49:49,4,Jamie Bryant,18:45,1:13:24,14,15,-1,155,19,Tonbridge AC
+2019,Sutton Park,12,Tonbridge AC,A,complete,1:49:49,5,Ryan Driscoll,18:15,1:31:39,15,12,3,81,9,Tonbridge AC
+2019,Sutton Park,12,Tonbridge AC,A,complete,1:49:49,6,Kieran Reilly,18:10,1:49:49,12,12,0,73,7,Tonbridge AC
+2019,Sutton Park,13,Hercules Wimbledon AC,A,complete,1:49:52,1,Ross Franks,18:19,0:18:19,,34,,94,34,Hercules Wimbledon AC
+2019,Sutton Park,13,Hercules Wimbledon AC,A,complete,1:49:52,2,Charlie Eastaugh,18:29,0:36:48,34,24,10,114,22,Hercules Wimbledon AC
+2019,Sutton Park,13,Hercules Wimbledon AC,A,complete,1:49:52,3,Howell Craske,18:37,0:55:25,24,22,2,131,15,Hercules Wimbledon AC
+2019,Sutton Park,13,Hercules Wimbledon AC,A,complete,1:49:52,4,Alex Milne,18:15,1:13:40,22,19,3,81,13,Hercules Wimbledon AC
+2019,Sutton Park,13,Hercules Wimbledon AC,A,complete,1:49:52,5,Richard Mcdowell,18:06,1:31:46,19,15,4,65,6,Hercules Wimbledon AC
+2019,Sutton Park,13,Hercules Wimbledon AC,A,complete,1:49:52,6,Tom Jervis,18:06,1:49:52,15,13,2,65,5,Hercules Wimbledon AC
+2019,Sutton Park,14,Highgate Harriers,A,complete,1:50:10,1,Alex Lepretre,17:36,0:17:36,,7,,27,7,Highgate Harriers
+2019,Sutton Park,14,Highgate Harriers,A,complete,1:50:10,2,Robert Wilson,18:17,0:35:53,7,12,-5,88,16,Highgate Harriers
+2019,Sutton Park,14,Highgate Harriers,A,complete,1:50:10,3,Robel Bahelbi,18:15,0:54:08,12,9,3,81,12,Highgate Harriers
+2019,Sutton Park,14,Highgate Harriers,A,complete,1:50:10,4,Sean Renfer,18:42,1:12:50,9,11,-2,149,18,Highgate Harriers
+2019,Sutton Park,14,Highgate Harriers,A,complete,1:50:10,5,Peter Chambers,18:51,1:31:41,11,14,-3,177,18,Highgate Harriers
+2019,Sutton Park,14,Highgate Harriers,A,complete,1:50:10,6,Alex Crossland,18:29,1:50:10,14,14,0,114,15,Highgate Harriers
+2019,Sutton Park,15,Salford Harriers & AC,A,complete,1:50:14,1,Joseph Bailey,18:04,0:18:04,,26,,60,26,Salford Harriers & AC
+2019,Sutton Park,15,Salford Harriers & AC,A,complete,1:50:14,2,Elliot Palmer,18:47,0:36:51,26,27,-1,161,34,Salford Harriers & AC
+2019,Sutton Park,15,Salford Harriers & AC,A,complete,1:50:14,3,Carl Hardman,18:27,0:55:18,27,21,6,109,13,Salford Harriers & AC
+2019,Sutton Park,15,Salford Harriers & AC,A,complete,1:50:14,4,Karl Darcy,18:18,1:13:36,21,16,5,90,14,Salford Harriers & AC
+2019,Sutton Park,15,Salford Harriers & AC,A,complete,1:50:14,5,Gary Priestley,18:04,1:31:40,16,13,3,60,5,Salford Harriers & AC
+2019,Sutton Park,15,Salford Harriers & AC,A,complete,1:50:14,6,Tom Cornthwaite,18:34,1:50:14,13,15,-2,125,18,Salford Harriers & AC
+2019,Sutton Park,16,Aldershot Farnham & District AC,B,complete,1:50:20,1,Luke Prior,18:02,0:18:02,,23,,57,23,Aldershot Farnham & District
+2019,Sutton Park,16,Aldershot Farnham & District AC,B,complete,1:50:20,2,Ricky Harvie,17:54,0:35:56,23,13,10,45,7,Aldershot Farnham & District
+2019,Sutton Park,16,Aldershot Farnham & District AC,B,complete,1:50:20,3,Callum Charlesto,19:05,0:55:01,13,18,-5,207,31,Aldershot Farnham & District
+2019,Sutton Park,16,Aldershot Farnham & District AC,B,complete,1:50:20,4,Matthew Merrick,18:40,1:13:41,18,20,-2,138,15,Aldershot Farnham & District
+2019,Sutton Park,16,Aldershot Farnham & District AC,B,complete,1:50:20,5,Sam Eglen,18:18,1:31:59,20,18,2,90,10,Aldershot Farnham & District
+2019,Sutton Park,16,Aldershot Farnham & District AC,B,complete,1:50:20,6,Alex Pointon,18:21,1:50:20,18,16,2,99,8,Aldershot Farnham & District
+2019,Sutton Park,17,Kent AC,A,complete,1:50:22,1,Chris Busaileh,18:38,0:18:38,,44,,133,44,Kent AC
+2019,Sutton Park,17,Kent AC,A,complete,1:50:22,2,Owen Hind,18:07,0:36:45,44,23,21,70,11,Kent AC
+2019,Sutton Park,17,Kent AC,A,complete,1:50:22,3,C Greenwood,18:12,0:54:57,23,17,6,75,10,Kent AC
+2019,Sutton Park,17,Kent AC,A,complete,1:50:22,4,Dave Morgan,18:40,1:13:37,17,17,0,138,15,Kent AC
+2019,Sutton Park,17,Kent AC,A,complete,1:50:22,5,Jim Allchin,18:20,1:31:57,17,17,0,95,11,Kent AC
+2019,Sutton Park,17,Kent AC,A,complete,1:50:22,6,Ben Harding,18:25,1:50:22,17,17,0,105,11,Kent AC
+2019,Sutton Park,18,Brighton & Hove AC,,complete,1:50:43,1,Ian Crowewright,17:30,0:17:30,,6,,24,6,Brighton & Hove AC
+2019,Sutton Park,18,Brighton & Hove AC,,complete,1:50:43,2,Kevin Moore,18:05,0:35:35,6,5,1,62,9,Brighton & Hove AC
+2019,Sutton Park,18,Brighton & Hove AC,,complete,1:50:43,3,William Cork,18:40,0:54:15,5,10,-5,138,19,Brighton & Hove AC
+2019,Sutton Park,18,Brighton & Hove AC,,complete,1:50:43,4,James Turner,18:49,1:13:04,10,13,-3,167,21,Brighton & Hove AC
+2019,Sutton Park,18,Brighton & Hove AC,,complete,1:50:43,5,Tomer Tarragano,18:49,1:31:53,13,16,-3,167,17,Brighton & Hove AC
+2019,Sutton Park,18,Brighton & Hove AC,,complete,1:50:43,6,Tom Eames,18:50,1:50:43,16,18,-2,172,23,Brighton & Hove AC
+2019,Sutton Park,19,Marshall Milton Keynes AC,A,complete,1:51:38,1,James Tuttle,17:47,0:17:47,,13,,38,13,Marshall Milton Keynes AC
+2019,Sutton Park,19,Marshall Milton Keynes AC,A,complete,1:51:38,2,Paul Mizon,17:56,0:35:43,13,7,6,48,8,Marshall Milton Keynes AC
+2019,Sutton Park,19,Marshall Milton Keynes AC,A,complete,1:51:38,3,Elliot Hind,18:39,0:54:22,7,12,-5,136,17,Marshall Milton Keynes AC
+2019,Sutton Park,19,Marshall Milton Keynes AC,A,complete,1:51:38,4,Thomas Comerford,18:49,1:13:11,12,14,-2,167,21,Marshall Milton Keynes AC
+2019,Sutton Park,19,Marshall Milton Keynes AC,A,complete,1:51:38,5,Jamie Seddon,19:05,1:32:16,14,19,-5,207,23,Marshall Milton Keynes AC
+2019,Sutton Park,19,Marshall Milton Keynes AC,A,complete,1:51:38,6,Graham Jones,19:22,1:51:38,19,19,0,247,35,Marshall Milton Keynes AC
+2019,Sutton Park,20,Leeds City AC,B,complete,1:51:59,1,Alexander Bellew,18:08,0:18:08,,28,,71,28,Leeds City AC
+2019,Sutton Park,20,Leeds City AC,B,complete,1:51:59,2,J Woodcockshaw,18:54,0:37:02,28,29,-1,183,36,Leeds City AC
+2019,Sutton Park,20,Leeds City AC,B,complete,1:51:59,3,John Ashcroft,18:37,0:55:39,29,24,5,131,15,Leeds City AC
+2019,Sutton Park,20,Leeds City AC,B,complete,1:51:59,4,Linton Taylor,18:00,1:13:39,24,18,6,55,9,Leeds City AC
+2019,Sutton Park,20,Leeds City AC,B,complete,1:51:59,5,Ciaran Forde,19:32,1:33:11,18,20,-2,272,32,Leeds City AC
+2019,Sutton Park,20,Leeds City AC,B,complete,1:51:59,6,Mohamed Abshir,18:48,1:51:59,20,20,0,164,21,Leeds City AC
+2019,Sutton Park,21,Hallamshire Harriers Sheffield,,complete,1:52:04,1,Dave Archer,18:18,0:18:18,,33,,90,33,Hallamshire Harriers Sheffield
+2019,Sutton Park,21,Hallamshire Harriers Sheffield,,complete,1:52:04,2,John Birch,19:07,0:37:25,33,36,-3,214,44,Hallamshire Harriers Sheffield
+2019,Sutton Park,21,Hallamshire Harriers Sheffield,,complete,1:52:04,3,Andrew Heyes,17:37,0:55:02,36,19,17,28,8,Hallamshire Harriers Sheffield
+2019,Sutton Park,21,Hallamshire Harriers Sheffield,,complete,1:52:04,4,Cameron Bell,18:48,1:13:50,19,22,-3,164,20,Hallamshire Harriers Sheffield
+2019,Sutton Park,21,Hallamshire Harriers Sheffield,,complete,1:52:04,5,James Mccrae,19:25,1:33:15,22,22,0,251,28,Hallamshire Harriers Sheffield
+2019,Sutton Park,21,Hallamshire Harriers Sheffield,,complete,1:52:04,6,Connor Milnes,18:49,1:52:04,22,21,1,167,22,Hallamshire Harriers Sheffield
+2019,Sutton Park,22,Guildford & Godalming AC,,complete,1:52:35,1,John Sanderson,17:22,0:17:22,,4,,13,4,Guildford & Godalming AC
+2019,Sutton Park,22,Guildford & Godalming AC,,complete,1:52:35,2,Tom Foster,18:30,0:35:52,4,11,-7,118,24,Guildford & Godalming AC
+2019,Sutton Park,22,Guildford & Godalming AC,,complete,1:52:35,3,George Dollner,18:50,0:54:42,11,15,-4,172,24,Guildford & Godalming AC
+2019,Sutton Park,22,Guildford & Godalming AC,,complete,1:52:35,4,Sam Begg,19:00,1:13:42,15,21,-6,195,27,Guildford & Godalming AC
+2019,Sutton Park,22,Guildford & Godalming AC,,complete,1:52:35,5,James Share,19:32,1:33:14,21,21,0,272,32,Guildford & Godalming AC
+2019,Sutton Park,22,Guildford & Godalming AC,,complete,1:52:35,6,Matthew Mcdaniel,19:21,1:52:35,21,22,-1,246,34,Guildford & Godalming AC
+2019,Sutton Park,23,Tonbridge AC,B,complete,1:53:11,1,Will Beeston,18:50,0:18:50,,54,,172,54,Tonbridge AC
+2019,Sutton Park,23,Tonbridge AC,B,complete,1:53:11,2,James Puxty,18:57,0:37:47,54,45,9,191,39,Tonbridge AC
+2019,Sutton Park,23,Tonbridge AC,B,complete,1:53:11,3,James Kingston,18:50,0:56:37,45,34,11,172,24,Tonbridge AC
+2019,Sutton Park,23,Tonbridge AC,B,complete,1:53:11,4,Michael Ellis,19:01,1:15:38,34,28,6,198,28,Tonbridge AC
+2019,Sutton Park,23,Tonbridge AC,B,complete,1:53:11,5,Miles Weathersee,18:06,1:33:44,28,23,5,65,6,Tonbridge AC
+2019,Sutton Park,23,Tonbridge AC,B,complete,1:53:11,6,Dan Schofield,19:27,1:53:11,23,23,0,260,36,Tonbridge AC
+2019,Sutton Park,24,Tipton Harriers,A,complete,1:53:17,1,Ian Williams,18:14,0:18:14,,30,,79,30,Tipton Harriers
+2019,Sutton Park,24,Tipton Harriers,A,complete,1:53:17,2,Peter Brookes,18:16,0:36:30,30,21,9,85,13,Tipton Harriers
+2019,Sutton Park,24,Tipton Harriers,A,complete,1:53:17,3,Philip Nicholls,18:42,0:55:12,21,20,1,149,21,Tipton Harriers
+2019,Sutton Park,24,Tipton Harriers,A,complete,1:53:17,4,Ben Gamble,19:10,1:14:22,20,23,-3,223,30,Tipton Harriers
+2019,Sutton Park,24,Tipton Harriers,A,complete,1:53:17,5,Luke Vine,19:41,1:34:03,23,24,-1,293,37,Tipton Harriers
+2019,Sutton Park,24,Tipton Harriers,A,complete,1:53:17,6,Adam Soley,19:14,1:53:17,24,24,0,233,31,Tipton Harriers
+2019,Sutton Park,25,Liverpool Harriers & AC,,complete,1:53:38,1,Matthew Jackson,18:46,0:18:46,,51,,158,51,Liverpool Harriers & AC
+2019,Sutton Park,25,Liverpool Harriers & AC,,complete,1:53:38,2,Daniel Preston,18:28,0:37:14,51,30,21,113,21,Liverpool Harriers & AC
+2019,Sutton Park,25,Liverpool Harriers & AC,,complete,1:53:38,3,Richard Burney,19:25,0:56:39,30,35,-5,251,40,Liverpool Harriers & AC
+2019,Sutton Park,25,Liverpool Harriers & AC,,complete,1:53:38,4,A Rutherford,19:26,1:16:05,35,33,2,256,34,Liverpool Harriers & AC
+2019,Sutton Park,25,Liverpool Harriers & AC,,complete,1:53:38,5,Ben Russell,18:53,1:34:58,33,29,4,182,19,Liverpool Harriers & AC
+2019,Sutton Park,25,Liverpool Harriers & AC,,complete,1:53:38,6,Thomas Rogerson,18:40,1:53:38,29,25,4,138,19,Liverpool Harriers & AC
+2019,Sutton Park,26,Notts AC,A,complete,1:53:42,1,Douglas Musson,17:55,0:17:55,,18,,47,18,Notts AC
+2019,Sutton Park,26,Notts AC,A,complete,1:53:42,2,Freddie Hessian,18:16,0:36:11,18,17,1,85,13,Notts AC
+2019,Sutton Park,26,Notts AC,A,complete,1:53:42,3,Jarratt Perkins,19:38,0:55:49,17,26,-9,288,46,Notts AC
+2019,Sutton Park,26,Notts AC,A,complete,1:53:42,4,Stuart King,19:29,1:15:18,26,27,-1,265,36,Notts AC
+2019,Sutton Park,26,Notts AC,A,complete,1:53:42,5,Chris Mcgurk,19:12,1:34:30,27,25,2,230,26,Notts AC
+2019,Sutton Park,26,Notts AC,A,complete,1:53:42,6,Tim Hartley,19:12,1:53:42,25,26,-1,230,30,Notts AC
+2019,Sutton Park,27,Blackburn Harriers & AC,,complete,1:53:56,1,Robert Warner,17:46,0:17:46,,12,,34,11,Blackburn Harriers & AC
+2019,Sutton Park,27,Blackburn Harriers & AC,,complete,1:53:56,2,C Davies,19:49,0:37:35,12,40,-28,310,63,Blackburn Harriers & AC
+2019,Sutton Park,27,Blackburn Harriers & AC,,complete,1:53:56,3,Tim Raynes,18:27,0:56:02,40,28,12,109,13,Blackburn Harriers & AC
+2019,Sutton Park,27,Blackburn Harriers & AC,,complete,1:53:56,4,Ben Costello,19:44,1:15:46,28,29,-1,299,43,Blackburn Harriers & AC
+2019,Sutton Park,27,Blackburn Harriers & AC,,complete,1:53:56,5,Karl Billington,19:46,1:35:32,29,32,-3,300,40,Blackburn Harriers & AC
+2019,Sutton Park,27,Blackburn Harriers & AC,,complete,1:53:56,6,Ben Fish,18:24,1:53:56,32,27,5,103,10,Blackburn Harriers & AC
+2019,Sutton Park,28,Salford Harriers & AC,B,complete,1:53:58,1,Callum Rowlinson,19:16,0:19:16,,66,,237,66,Salford Harriers & AC
+2019,Sutton Park,28,Salford Harriers & AC,B,complete,1:53:58,2,C Richards,18:16,0:37:32,66,39,27,85,13,Salford Harriers & AC
+2019,Sutton Park,28,Salford Harriers & AC,B,complete,1:53:58,3,Adam Slodowicz,19:36,0:57:08,39,40,-1,282,44,Salford Harriers & AC
+2019,Sutton Park,28,Salford Harriers & AC,B,complete,1:53:58,4,Gamar Adam,18:51,1:15:59,40,31,9,177,24,Salford Harriers & AC
+2019,Sutton Park,28,Salford Harriers & AC,B,complete,1:53:58,5,David Rigby,18:40,1:34:39,31,27,4,138,14,Salford Harriers & AC
+2019,Sutton Park,28,Salford Harriers & AC,B,complete,1:53:58,6,Bruno Lima,19:19,1:53:58,27,28,-1,240,33,Salford Harriers & AC
+2019,Sutton Park,29,Coventry Godiva Harriers,,complete,1:54:07,1,Miles Clisham,18:30,0:18:30,,40,,118,40,Coventry Godiva Harriers
+2019,Sutton Park,29,Coventry Godiva Harriers,,complete,1:54:07,2,M Mohamed,18:20,0:36:50,40,25,15,95,18,Coventry Godiva Harriers
+2019,Sutton Park,29,Coventry Godiva Harriers,,complete,1:54:07,3,Oliver Paulin,18:39,0:55:29,25,23,2,136,17,Coventry Godiva Harriers
+2019,Sutton Park,29,Coventry Godiva Harriers,,complete,1:54:07,4,Matthew Battley,19:10,1:14:39,23,24,-1,223,30,Coventry Godiva Harriers
+2019,Sutton Park,29,Coventry Godiva Harriers,,complete,1:54:07,5,Harvey Speed,19:57,1:34:36,24,26,-2,327,44,Coventry Godiva Harriers
+2019,Sutton Park,29,Coventry Godiva Harriers,,complete,1:54:07,6,Joseph Mcleod,19:31,1:54:07,26,29,-3,271,38,Coventry Godiva Harriers
+2019,Sutton Park,30,Vale Royal AC,A,complete,1:54:30,1,Chris Perry,17:48,0:17:48,,15,,41,14,Vale Royal AC
+2019,Sutton Park,30,Vale Royal AC,A,complete,1:54:30,2,Arun Dight,18:33,0:36:21,15,20,-5,124,27,Vale Royal AC
+2019,Sutton Park,30,Vale Royal AC,A,complete,1:54:30,3,Matt Rowlinson,19:46,0:56:07,20,29,-9,300,47,Vale Royal AC
+2019,Sutton Park,30,Vale Royal AC,A,complete,1:54:30,4,John Humphries,19:47,1:15:54,29,30,-1,304,45,Vale Royal AC
+2019,Sutton Park,30,Vale Royal AC,A,complete,1:54:30,5,Andrew Miles,19:06,1:35:00,30,30,0,209,24,Vale Royal AC
+2019,Sutton Park,30,Vale Royal AC,A,complete,1:54:30,6,Ryan Moore,19:30,1:54:30,30,30,0,267,37,Vale Royal AC
+2019,Sutton Park,31,Rotherham Harriers & AC,,complete,1:54:40,1,Joseph Massingha,18:34,0:18:34,,41,,125,41,Rotherham Harriers & AC
+2019,Sutton Park,31,Rotherham Harriers & AC,,complete,1:54:40,2,Daniel Kestrel,18:45,0:37:19,41,31,10,155,32,Rotherham Harriers & AC
+2019,Sutton Park,31,Rotherham Harriers & AC,,complete,1:54:40,3,Arron Larkin,18:55,0:56:14,31,30,1,185,26,Rotherham Harriers & AC
+2019,Sutton Park,31,Rotherham Harriers & AC,,complete,1:54:40,4,Lee Milburn,18:51,1:15:05,30,25,5,177,24,Rotherham Harriers & AC
+2019,Sutton Park,31,Rotherham Harriers & AC,,complete,1:54:40,5,Aidan Johnson,19:37,1:34:42,25,28,-3,286,36,Rotherham Harriers & AC
+2019,Sutton Park,31,Rotherham Harriers & AC,,complete,1:54:40,6,Gareth Sampson,19:58,1:54:40,28,31,-3,335,49,Rotherham Harriers & AC
+2019,Sutton Park,32,Cambridge & Coleridge AC,B,complete,1:54:47,1,Michael Gilbert,18:41,0:18:41,,46,,146,46,Cambridge & Coleridge AC
+2019,Sutton Park,32,Cambridge & Coleridge AC,B,complete,1:54:47,2,Nicolas Harhalak,18:46,0:37:27,46,37,9,158,33,Cambridge & Coleridge AC
+2019,Sutton Park,32,Cambridge & Coleridge AC,B,complete,1:54:47,3,Oliver Newman,18:56,0:56:23,37,31,6,189,28,Cambridge & Coleridge AC
+2019,Sutton Park,32,Cambridge & Coleridge AC,B,complete,1:54:47,4,Jordan Wood,19:57,1:16:20,31,36,-5,327,47,Cambridge & Coleridge AC
+2019,Sutton Park,32,Cambridge & Coleridge AC,B,complete,1:54:47,5,Peter Miller,19:24,1:35:44,36,34,2,250,27,Cambridge & Coleridge AC
+2019,Sutton Park,32,Cambridge & Coleridge AC,B,complete,1:54:47,6,Duncan Coombs,19:03,1:54:47,34,32,2,204,25,Cambridge & Coleridge AC
+2019,Sutton Park,33,Liverpool Pembroke & Sefton Harriers,,complete,1:54:49,1,Daniel Slater,18:29,0:18:29,,39,,114,39,Liverpool Pembroke & Sefton H
+2019,Sutton Park,33,Liverpool Pembroke & Sefton Harriers,,complete,1:54:49,2,Ross Harrison,19:23,0:37:52,39,47,-8,249,50,Liverpool Pembroke & Sefton H
+2019,Sutton Park,33,Liverpool Pembroke & Sefton Harriers,,complete,1:54:49,3,Chris Maher,19:11,0:57:03,47,39,8,227,33,Liverpool Pembroke & Sefton H
+2019,Sutton Park,33,Liverpool Pembroke & Sefton Harriers,,complete,1:54:49,4,Mark Wynne,19:32,1:16:35,39,39,0,272,39,Liverpool Pembroke & Sefton H
+2019,Sutton Park,33,Liverpool Pembroke & Sefton Harriers,,complete,1:54:49,5,Luke Edwards,19:06,1:35:41,39,33,6,209,24,Liverpool Pembroke & Sefton H
+2019,Sutton Park,33,Liverpool Pembroke & Sefton Harriers,,complete,1:54:49,6,Tony Obrien,19:08,1:54:49,33,33,0,215,26,Liverpool Pembroke & Sefton H
+2019,Sutton Park,34,Birmingham Running Athletics & Triathlon (BRAT),,complete,1:54:59,1,Daniel Robinson,18:21,0:18:21,,36,,99,36,Birmingham Running Athletics &
+2019,Sutton Park,34,Birmingham Running Athletics & Triathlon (BRAT),,complete,1:54:59,2,Karl Welborn,18:29,0:36:50,36,26,10,114,22,Birmingham Running Athletics &
+2019,Sutton Park,34,Birmingham Running Athletics & Triathlon (BRAT),,complete,1:54:59,3,Steve Dunsby,20:25,0:57:15,26,41,-15,364,61,Birmingham Running Athletics &
+2019,Sutton Park,34,Birmingham Running Athletics & Triathlon (BRAT),,complete,1:54:59,4,Ben Carrington,19:41,1:16:56,41,44,-3,293,41,Birmingham Running Athletics &
+2019,Sutton Park,34,Birmingham Running Athletics & Triathlon (BRAT),,complete,1:54:59,5,Mark Ince,19:01,1:35:57,44,36,8,198,21,Birmingham Running Athletics &
+2019,Sutton Park,34,Birmingham Running Athletics & Triathlon (BRAT),,complete,1:54:59,6,Henry Brocklehur,19:02,1:54:59,36,34,2,202,24,Birmingham Running Athletics &
+2019,Sutton Park,35,Pontypridd Roadents AC,,complete,1:55:00,1,Paul Graham,18:03,0:18:03,,25,,58,24,Pontypridd Roadents AC
+2019,Sutton Park,35,Pontypridd Roadents AC,,complete,1:55:00,2,Andrew How,19:38,0:37:41,25,44,-19,288,58,Pontypridd Roadents AC
+2019,Sutton Park,35,Pontypridd Roadents AC,,complete,1:55:00,3,Symon Murphy,19:57,0:57:38,44,49,-5,327,52,Pontypridd Roadents AC
+2019,Sutton Park,35,Pontypridd Roadents AC,,complete,1:55:00,4,Jack Blackburn,19:14,1:16:52,49,42,7,233,33,Pontypridd Roadents AC
+2019,Sutton Park,35,Pontypridd Roadents AC,,complete,1:55:00,5,Juan Delgado,19:42,1:36:34,42,40,2,297,38,Pontypridd Roadents AC
+2019,Sutton Park,35,Pontypridd Roadents AC,,complete,1:55:00,6,Ewan Short,18:26,1:55:00,40,35,5,108,13,Pontypridd Roadents AC
+2019,Sutton Park,36,City Of Stoke AC,A,complete,1:55:40,1,David Sheldon,18:36,0:18:36,,42,,129,42,City Of Stoke AC
+2019,Sutton Park,36,City Of Stoke AC,A,complete,1:55:40,2,Ian Salt,18:56,0:37:32,42,38,4,189,38,City Of Stoke AC
+2019,Sutton Park,36,City Of Stoke AC,A,complete,1:55:40,3,Alexander Mayne,19:00,0:56:32,38,32,6,195,29,City Of Stoke AC
+2019,Sutton Park,36,City Of Stoke AC,A,complete,1:55:40,4,Cameron Muir,19:41,1:16:13,32,35,-3,293,41,City Of Stoke AC
+2019,Sutton Park,36,City Of Stoke AC,A,complete,1:55:40,5,Mike Harding,19:35,1:35:48,35,35,0,281,35,City Of Stoke AC
+2019,Sutton Park,36,City Of Stoke AC,A,complete,1:55:40,6,Dean Richardson,19:52,1:55:40,35,36,-1,317,45,City Of Stoke AC
+2019,Sutton Park,37,Birchfield Harriers,B,complete,1:55:54,1,Thomas Beasley,18:20,0:18:20,,35,,95,35,Birchfield Harriers
+2019,Sutton Park,37,Birchfield Harriers,B,complete,1:55:54,2,Jonathan Bradfor,18:32,0:36:52,35,28,7,123,26,Birchfield Harriers
+2019,Sutton Park,37,Birchfield Harriers,B,complete,1:55:54,3,Orlando Corea,19:08,0:56:00,28,27,1,215,32,Birchfield Harriers
+2019,Sutton Park,37,Birchfield Harriers,B,complete,1:55:54,4,Daniel Swain,20:11,1:16:11,27,34,-7,351,52,Birchfield Harriers
+2019,Sutton Park,37,Birchfield Harriers,B,complete,1:55:54,5,Ben Griffiths,20:02,1:36:13,34,38,-4,339,47,Birchfield Harriers
+2019,Sutton Park,37,Birchfield Harriers,B,complete,1:55:54,6,Andrew Ridley,19:41,1:55:54,38,37,1,293,43,Birchfield Harriers
+2019,Sutton Park,38,Bristol & West AC,B,complete,1:55:56,1,Jed Bartlett,19:04,0:19:04,,60,,206,60,Bristol & West AC
+2019,Sutton Park,38,Bristol & West AC,B,complete,1:55:56,2,Henry Cochrane,18:52,0:37:56,60,48,12,180,35,Bristol & West AC
+2019,Sutton Park,38,Bristol & West AC,B,complete,1:55:56,3,Adam Wilson,19:25,0:57:21,48,44,4,251,40,Bristol & West AC
+2019,Sutton Park,38,Bristol & West AC,B,complete,1:55:56,4,Nick Roberts,19:56,1:17:17,44,49,-5,324,46,Bristol & West AC
+2019,Sutton Park,38,Bristol & West AC,B,complete,1:55:56,5,Peter Bains,19:30,1:36:47,49,42,7,267,31,Bristol & West AC
+2019,Sutton Park,38,Bristol & West AC,B,complete,1:55:56,6,Harry Allen,19:09,1:55:56,42,38,4,220,28,Bristol & West AC
+2019,Sutton Park,39,Highgate Harriers,B,complete,1:55:58,1,Charlie Haywood,19:09,0:19:09,,63,,220,63,Highgate Harriers
+2019,Sutton Park,39,Highgate Harriers,B,complete,1:55:58,2,Niki Faulkner,18:59,0:38:08,63,50,13,192,40,Highgate Harriers
+2019,Sutton Park,39,Highgate Harriers,B,complete,1:55:58,3,Jonathan Laybour,19:26,0:57:34,50,47,3,256,42,Highgate Harriers
+2019,Sutton Park,39,Highgate Harriers,B,complete,1:55:58,4,Terence Fawden,18:50,1:16:24,47,37,10,172,23,Highgate Harriers
+2019,Sutton Park,39,Highgate Harriers,B,complete,1:55:58,5,Peter Hawkings,19:47,1:36:11,37,37,0,304,41,Highgate Harriers
+2019,Sutton Park,39,Highgate Harriers,B,complete,1:55:58,6,Oliver Kean,19:47,1:55:58,37,39,-2,304,44,Highgate Harriers
+2019,Sutton Park,40,Thames Valley Harriers,,complete,1:56:28,1,Daniel Mulryan,17:45,0:17:45,,10,,32,10,Thames Valley Harriers
+2019,Sutton Park,40,Thames Valley Harriers,,complete,1:56:28,2,Conor Kissanewoo,18:35,0:36:20,10,19,-9,128,29,Thames Valley Harriers
+2019,Sutton Park,40,Thames Valley Harriers,,complete,1:56:28,3,Toby Clyde,19:20,0:55:40,19,25,-6,244,38,Thames Valley Harriers
+2019,Sutton Park,40,Thames Valley Harriers,,complete,1:56:28,4,Michael Cameron,19:32,1:15:12,25,26,-1,272,39,Thames Valley Harriers
+2019,Sutton Park,40,Thames Valley Harriers,,complete,1:56:28,5,Michael Crone,19:58,1:35:10,26,31,-5,335,45,Thames Valley Harriers
+2019,Sutton Park,40,Thames Valley Harriers,,complete,1:56:28,6,Naol Abagibe,21:18,1:56:28,31,40,-9,413,58,Thames Valley Harriers
+2019,Sutton Park,41,Kent AC,B,complete,1:56:37,1,Neil Phillips,19:50,0:19:50,,72,,313,71,Kent AC
+2019,Sutton Park,41,Kent AC,B,complete,1:56:37,2,Cedric Hauben,19:06,0:38:56,72,61,11,209,42,Kent AC
+2019,Sutton Park,41,Kent AC,B,complete,1:56:37,3,Anthony Johnson,19:14,0:58:10,61,55,6,233,35,Kent AC
+2019,Sutton Park,41,Kent AC,B,complete,1:56:37,4,Robert Laing,19:46,1:17:56,55,52,3,300,44,Kent AC
+2019,Sutton Park,41,Kent AC,B,complete,1:56:37,5,Daniel Pettitt,19:26,1:37:22,52,45,7,256,30,Kent AC
+2019,Sutton Park,41,Kent AC,B,complete,1:56:37,6,Cameron Forrest,19:15,1:56:37,45,41,4,236,32,Kent AC
+2019,Sutton Park,42,Tipton Harriers,B,complete,1:56:42,1,Nick Hardy,18:59,0:18:59,,57,,192,57,Tipton Harriers
+2019,Sutton Park,42,Tipton Harriers,B,complete,1:56:42,2,Joe Smith,18:41,0:37:40,57,43,14,146,30,Tipton Harriers
+2019,Sutton Park,42,Tipton Harriers,B,complete,1:56:42,3,Tom Holden,20:16,0:57:56,43,52,-9,358,59,Tipton Harriers
+2019,Sutton Park,42,Tipton Harriers,B,complete,1:56:42,4,Stephen Corbishl,19:30,1:17:26,52,50,2,267,37,Tipton Harriers
+2019,Sutton Park,42,Tipton Harriers,B,complete,1:56:42,5,Robert Meredith,19:42,1:37:08,50,43,7,297,38,Tipton Harriers
+2019,Sutton Park,42,Tipton Harriers,B,complete,1:56:42,6,Harvey Maguire,19:34,1:56:42,43,42,1,279,40,Tipton Harriers
+2019,Sutton Park,43,Bedford & County AC,B,complete,1:56:44,1,Pete Benedickter,19:29,0:19:29,,67,,265,67,Bedford & County AC
+2019,Sutton Park,43,Bedford & County AC,B,complete,1:56:44,2,Harry Brodie,19:01,0:38:30,67,56,11,198,41,Bedford & County AC
+2019,Sutton Park,43,Bedford & County AC,B,complete,1:56:44,3,Richard Henderso,19:01,0:57:31,56,46,10,198,30,Bedford & County AC
+2019,Sutton Park,43,Bedford & County AC,B,complete,1:56:44,4,Ed Blythman,19:08,1:16:39,46,40,6,215,29,Bedford & County AC
+2019,Sutton Park,43,Bedford & County AC,B,complete,1:56:44,5,William Mullins,19:56,1:36:35,40,41,-1,324,43,Bedford & County AC
+2019,Sutton Park,43,Bedford & County AC,B,complete,1:56:44,6,Matthew Nicholso,20:09,1:56:44,41,43,-2,348,51,Bedford & County AC
+2019,Sutton Park,44,City of Norwich AC,,complete,1:57:19,1,Ben Spratling,18:44,0:18:44,,49,,153,49,City Of Norwich AC
+2019,Sutton Park,44,City of Norwich AC,,complete,1:57:19,2,Sam Coyne,19:28,0:38:12,49,52,-3,262,53,City Of Norwich AC
+2019,Sutton Park,44,City of Norwich AC,,complete,1:57:19,3,Gary Crush,19:18,0:57:30,52,45,7,239,36,City Of Norwich AC
+2019,Sutton Park,44,City of Norwich AC,,complete,1:57:19,4,Sean Watson,18:59,1:16:29,45,38,7,192,26,City Of Norwich AC
+2019,Sutton Park,44,City of Norwich AC,,complete,1:57:19,5,Sam Todd,21:18,1:37:47,38,49,-11,413,63,City Of Norwich AC
+2019,Sutton Park,44,City of Norwich AC,,complete,1:57:19,6,George Gay,19:32,1:57:19,49,44,5,272,39,City Of Norwich AC
+2019,Sutton Park,45,Hercules Wimbledon AC,B,complete,1:58:04,1,Frederick Slemec,18:42,0:18:42,,47,,149,47,Hercules Wimbledon AC
+2019,Sutton Park,45,Hercules Wimbledon AC,B,complete,1:58:04,2,Finn Johnson,18:41,0:37:23,47,34,13,146,30,Hercules Wimbledon AC
+2019,Sutton Park,45,Hercules Wimbledon AC,B,complete,1:58:04,3,Joseph Clark,19:11,0:56:34,34,33,1,227,33,Hercules Wimbledon AC
+2019,Sutton Park,45,Hercules Wimbledon AC,B,complete,1:58:04,4,Andrew Parker,20:06,1:16:40,33,41,-8,345,50,Hercules Wimbledon AC
+2019,Sutton Park,45,Hercules Wimbledon AC,B,complete,1:58:04,5,Robert Tuer,19:49,1:36:29,41,39,2,310,42,Hercules Wimbledon AC
+2019,Sutton Park,45,Hercules Wimbledon AC,B,complete,1:58:04,6,Matthew Gibbons,21:35,1:58:04,39,45,-6,422,61,Hercules Wimbledon AC
+2019,Sutton Park,46,Roundhay Runners,,complete,1:58:11,1,Callum Elson,18:03,0:18:03,,24,,58,24,Roundhay Runners
+2019,Sutton Park,46,Roundhay Runners,,complete,1:58:11,2,M Valeropalacios,19:17,0:37:20,24,32,-8,238,46,Roundhay Runners
+2019,Sutton Park,46,Roundhay Runners,,complete,1:58:11,3,Steve Pinn,19:57,0:57:17,32,42,-10,327,52,Roundhay Runners
+2019,Sutton Park,46,Roundhay Runners,,complete,1:58:11,4,Richard Gibbs,21:14,1:18:31,42,53,-11,407,65,Roundhay Runners
+2019,Sutton Park,46,Roundhay Runners,,complete,1:58:11,5,Franco Pardini,20:01,1:38:32,53,52,1,338,46,Roundhay Runners
+2019,Sutton Park,46,Roundhay Runners,,complete,1:58:11,6,Jonathan Wills,19:39,1:58:11,52,46,6,292,42,Roundhay Runners
+2019,Sutton Park,47,Trafford AC,,complete,1:58:21,1,Jay Ferns,18:01,0:18:01,,22,,56,22,Trafford AC
+2019,Sutton Park,47,Trafford AC,,complete,1:58:21,2,Jeff Prest,19:36,0:37:37,22,42,-20,282,56,Trafford AC
+2019,Sutton Park,47,Trafford AC,,complete,1:58:21,3,Xavier O'hare,19:19,0:56:56,42,38,4,240,37,Trafford AC
+2019,Sutton Park,47,Trafford AC,,complete,1:58:21,4,Matthew Kotara,19:57,1:16:53,38,43,-5,327,47,Trafford AC
+2019,Sutton Park,47,Trafford AC,,complete,1:58:21,5,Alex Jones,20:40,1:37:33,43,46,-3,380,53,Trafford AC
+2019,Sutton Park,47,Trafford AC,,complete,1:58:21,6,Greg Kelly,20:48,1:58:21,46,47,-1,387,54,Trafford AC
+2019,Sutton Park,48,Aberdare Valley AAC,,complete,1:58:35,1,Daniel Bodman,18:36,0:18:36,,43,,129,42,Aberdare Valley Aac
+2019,Sutton Park,48,Aberdare Valley AAC,,complete,1:58:35,2,Joseph Reardon,19:56,0:38:32,43,57,-14,324,64,Aberdare Valley Aac
+2019,Sutton Park,48,Aberdare Valley AAC,,complete,1:58:35,3,Rhys Boorman,18:48,0:57:20,57,43,14,164,22,Aberdare Valley Aac
+2019,Sutton Park,48,Aberdare Valley AAC,,complete,1:58:35,4,Adam Bull,18:40,1:16:00,43,32,11,138,15,Aberdare Valley Aac
+2019,Sutton Park,48,Aberdare Valley AAC,,complete,1:58:35,5,Jacob Griffiths,21:16,1:37:16,32,44,-12,411,61,Aberdare Valley Aac
+2019,Sutton Park,48,Aberdare Valley AAC,,complete,1:58:35,6,Shaun Pinch,21:19,1:58:35,44,48,-4,415,59,Aberdare Valley Aac
+2019,Sutton Park,49,Tyne Bridge Harriers,,complete,1:59:13,1,Tom Charlton,18:15,0:18:15,,31,,81,31,Tyne Bridge Harriers
+2019,Sutton Park,49,Tyne Bridge Harriers,,complete,1:59:13,2,Kieran Reay,19:10,0:37:25,31,35,-4,223,45,Tyne Bridge Harriers
+2019,Sutton Park,49,Tyne Bridge Harriers,,complete,1:59:13,3,Michael Hedley,19:20,0:56:45,35,37,-2,244,38,Tyne Bridge Harriers
+2019,Sutton Park,49,Tyne Bridge Harriers,,complete,1:59:13,4,Jevan Robertson,20:14,1:16:59,37,45,-8,354,53,Tyne Bridge Harriers
+2019,Sutton Park,49,Tyne Bridge Harriers,,complete,1:59:13,5,Paul Turnbull,20:38,1:37:37,45,47,-2,377,52,Tyne Bridge Harriers
+2019,Sutton Park,49,Tyne Bridge Harriers,,complete,1:59:13,6,Tony Carter,21:36,1:59:13,47,49,-2,423,62,Tyne Bridge Harriers
+2019,Sutton Park,50,Sale Harriers Manchester,B,complete,1:59:43,1,Joseph Vis,18:55,0:18:55,,56,,185,56,Sale Harriers Manchester
+2019,Sutton Park,50,Sale Harriers Manchester,B,complete,1:59:43,2,James Wignall,18:54,0:37:49,56,46,10,183,36,Sale Harriers Manchester
+2019,Sutton Park,50,Sale Harriers Manchester,B,complete,1:59:43,3,Alex Bradford,19:54,0:57:43,46,50,-4,320,50,Sale Harriers Manchester
+2019,Sutton Park,50,Sale Harriers Manchester,B,complete,1:59:43,4,Daniel Gray,19:30,1:17:13,50,47,3,267,37,Sale Harriers Manchester
+2019,Sutton Park,50,Sale Harriers Manchester,B,complete,1:59:43,5,Ibrahima Diallo,20:32,1:37:45,47,48,-1,371,50,Sale Harriers Manchester
+2019,Sutton Park,50,Sale Harriers Manchester,B,complete,1:59:43,6,Rob Fairbanks,21:58,1:59:43,48,50,-2,438,69,Sale Harriers Manchester
+2019,Sutton Park,51,Stroud & District AC,,complete,1:59:54,1,Thomas Mortimer,17:43,0:17:43,,9,,31,9,Stroud & District AC
+2019,Sutton Park,51,Stroud & District AC,,complete,1:59:54,2,Lee Stopford,18:27,0:36:10,9,16,-7,109,20,Stroud & District AC
+2019,Sutton Park,51,Stroud & District AC,,complete,1:59:54,3,Ian Newns,20:32,0:56:42,16,36,-20,371,64,Stroud & District AC
+2019,Sutton Park,51,Stroud & District AC,,complete,1:59:54,4,Liam Dailey,20:30,1:17:12,36,46,-10,367,58,Stroud & District AC
+2019,Sutton Park,51,Stroud & District AC,,complete,1:59:54,5,Lee Rankin,21:02,1:38:14,46,50,-4,397,57,Stroud & District AC
+2019,Sutton Park,51,Stroud & District AC,,complete,1:59:54,6,Jason Barry,21:40,1:59:54,50,51,-1,427,65,Stroud & District AC
+2019,Sutton Park,52,Marshall Milton Keynes AC,B,complete,2:00:03,1,Samuel Winters,18:43,0:18:43,,48,,152,48,Marshall Milton Keynes AC
+2019,Sutton Park,52,Marshall Milton Keynes AC,B,complete,2:00:03,2,Chad Lambert,19:38,0:38:21,48,55,-7,288,58,Marshall Milton Keynes AC
+2019,Sutton Park,52,Marshall Milton Keynes AC,B,complete,2:00:03,3,Ian Wood,19:28,0:57:49,55,51,4,262,43,Marshall Milton Keynes AC
+2019,Sutton Park,52,Marshall Milton Keynes AC,B,complete,2:00:03,4,Steve Tuttle,19:26,1:17:15,51,48,3,256,34,Marshall Milton Keynes AC
+2019,Sutton Park,52,Marshall Milton Keynes AC,B,complete,2:00:03,5,Jeremy Vick,21:00,1:38:15,48,51,-3,396,56,Marshall Milton Keynes AC
+2019,Sutton Park,52,Marshall Milton Keynes AC,B,complete,2:00:03,6,Stephen Ratcliff,21:48,2:00:03,51,52,-1,431,67,Marshall Milton Keynes AC
+2019,Sutton Park,53,Ealing Southall & Middlesex AC,,complete,2:00:10,1,Ben Waterman,18:45,0:18:45,,50,,155,50,Ealing Southall & Middlesex AC
+2019,Sutton Park,53,Ealing Southall & Middlesex AC,,complete,2:00:10,2,Oliver Way,19:28,0:38:13,50,53,-3,262,53,Ealing Southall & Middlesex AC
+2019,Sutton Park,53,Ealing Southall & Middlesex AC,,complete,2:00:10,3,C Hepworth,19:52,0:58:05,53,53,0,317,49,Ealing Southall & Middlesex AC
+2019,Sutton Park,53,Ealing Southall & Middlesex AC,,complete,2:00:10,4,Mukhtar Farah,21:24,1:19:29,53,56,-3,416,67,Ealing Southall & Middlesex AC
+2019,Sutton Park,53,Ealing Southall & Middlesex AC,,complete,2:00:10,5,Nick Steel,21:07,1:40:36,56,56,0,403,59,Ealing Southall & Middlesex AC
+2019,Sutton Park,53,Ealing Southall & Middlesex AC,,complete,2:00:10,6,J Taylorcaldwell,19:34,2:00:10,56,53,3,279,40,Ealing Southall & Middlesex AC
+2019,Sutton Park,54,Charnwood AC,,complete,2:00:28,1,K Colemansmith,19:08,0:19:08,,62,,215,62,Charnwood A C
+2019,Sutton Park,54,Charnwood AC,,complete,2:00:28,2,Mark Couldwell,19:38,0:38:46,62,60,2,288,58,Charnwood A C
+2019,Sutton Park,54,Charnwood AC,,complete,2:00:28,3,Paul Harmer,21:39,1:00:25,60,67,-7,424,73,Charnwood A C
+2019,Sutton Park,54,Charnwood AC,,complete,2:00:28,4,Luke Nuttall,20:30,1:20:55,67,66,1,367,58,Charnwood A C
+2019,Sutton Park,54,Charnwood AC,,complete,2:00:28,5,Ethan O'shea,19:25,1:40:20,66,55,11,251,28,Charnwood A C
+2019,Sutton Park,54,Charnwood AC,,complete,2:00:28,6,Stephen Mears,20:08,2:00:28,55,54,1,347,50,Charnwood A C
+2019,Sutton Park,55,Valley Striders AC,,complete,2:00:46,1,John Hobbs,19:10,0:19:10,,64,,223,64,Valley Striders AC
+2019,Sutton Park,55,Valley Striders AC,,complete,2:00:46,2,David Song,20:02,0:39:12,64,64,0,339,66,Valley Striders AC
+2019,Sutton Park,55,Valley Striders AC,,complete,2:00:46,3,Rav Panesar,20:25,0:59:37,64,62,2,364,61,Valley Striders AC
+2019,Sutton Park,55,Valley Striders AC,,complete,2:00:46,4,Daniel Grant,20:22,1:19:59,62,60,2,361,56,Valley Striders AC
+2019,Sutton Park,55,Valley Striders AC,,complete,2:00:46,5,Daryl Hibberd,20:53,1:40:52,60,59,1,392,55,Valley Striders AC
+2019,Sutton Park,55,Valley Striders AC,,complete,2:00:46,6,Jonathan Young,19:54,2:00:46,59,55,4,320,47,Valley Striders AC
+2019,Sutton Park,56,Gateshead Harriers & AC,,complete,2:00:52,1,James Cripwell,19:11,0:19:11,,65,,227,65,Gateshead Harriers & AC
+2019,Sutton Park,56,Gateshead Harriers & AC,,complete,2:00:52,2,Matthew Linsley,19:27,0:38:38,65,58,7,260,52,Gateshead Harriers & AC
+2019,Sutton Park,56,Gateshead Harriers & AC,,complete,2:00:52,3,Charlie Mcmillan,20:05,0:58:43,58,57,1,344,55,Gateshead Harriers & AC
+2019,Sutton Park,56,Gateshead Harriers & AC,,complete,2:00:52,4,Jonathan Malley,20:57,1:19:40,57,58,-1,394,64,Gateshead Harriers & AC
+2019,Sutton Park,56,Gateshead Harriers & AC,,complete,2:00:52,5,Steven Medd,20:32,1:40:12,58,54,4,371,50,Gateshead Harriers & AC
+2019,Sutton Park,56,Gateshead Harriers & AC,,complete,2:00:52,6,Steven Asquith,20:40,2:00:52,54,56,-2,380,53,Gateshead Harriers & AC
+2019,Sutton Park,57,Bury AC,,complete,2:01:21,1,Benjamin Coop,18:17,0:18:17,,32,,88,32,Bury AC
+2019,Sutton Park,57,Bury AC,,complete,2:01:21,2,Josh Birmingham,19:06,0:37:23,32,33,-1,209,42,Bury AC
+2019,Sutton Park,57,Bury AC,,complete,2:01:21,3,Luke Harreld,20:13,0:57:36,33,48,-15,353,57,Bury AC
+2019,Sutton Park,57,Bury AC,,complete,2:01:21,4,Byron Edwards,19:57,1:17:33,48,51,-3,327,47,Bury AC
+2019,Sutton Park,57,Bury AC,,complete,2:01:21,5,Jack Griffiths,21:49,1:39:22,51,53,-2,433,67,Bury AC
+2019,Sutton Park,57,Bury AC,,complete,2:01:21,6,Paul Johnston,21:59,2:01:21,53,57,-4,440,70,Bury AC
+2019,Sutton Park,58,Swindon Harriers,,complete,2:01:47,1,Courtney Chessel,19:51,0:19:51,,73,,315,73,Swindon Harriers
+2019,Sutton Park,58,Swindon Harriers,,complete,2:01:47,2,Ethan Pierce,19:33,0:39:24,73,65,8,277,55,Swindon Harriers
+2019,Sutton Park,58,Swindon Harriers,,complete,2:01:47,3,Ben Lines,20:48,1:00:12,65,65,0,387,67,Swindon Harriers
+2019,Sutton Park,58,Swindon Harriers,,complete,2:01:47,4,Luke Byrne,20:33,1:20:45,65,64,1,374,60,Swindon Harriers
+2019,Sutton Park,58,Swindon Harriers,,complete,2:01:47,5,Simon Byrne,20:09,1:40:54,64,60,4,348,48,Swindon Harriers
+2019,Sutton Park,58,Swindon Harriers,,complete,2:01:47,6,Omer Homer,20:53,2:01:47,60,58,2,392,56,Swindon Harriers
+2019,Sutton Park,59,Chorlton Runners,,complete,2:02:15,1,James Savage,19:54,0:19:54,,75,,320,75,Chorlton Runners
+2019,Sutton Park,59,Chorlton Runners,,complete,2:02:15,2,Ben Hobson,19:47,0:39:41,75,68,7,304,61,Chorlton Runners
+2019,Sutton Park,59,Chorlton Runners,,complete,2:02:15,3,Matthew Devlin,19:46,0:59:27,68,61,7,300,47,Chorlton Runners
+2019,Sutton Park,59,Chorlton Runners,,complete,2:02:15,4,Andrew Haney,20:15,1:19:42,61,59,2,356,55,Chorlton Runners
+2019,Sutton Park,59,Chorlton Runners,,complete,2:02:15,5,Daniel Vasey,21:55,1:41:37,59,61,-2,436,69,Chorlton Runners
+2019,Sutton Park,59,Chorlton Runners,,complete,2:02:15,6,F Macdonaldoulds,20:38,2:02:15,61,59,2,377,52,Chorlton Runners
+2019,Sutton Park,60,Newcastle (Staffs) AC,,complete,2:02:17,1,Felix Mcgrath,17:59,0:17:59,,21,,54,21,Newcastle Staffs AC
+2019,Sutton Park,60,Newcastle (Staffs) AC,,complete,2:02:17,2,Lewis Nagington,19:37,0:37:36,21,41,-20,286,57,Newcastle Staffs AC
+2019,Sutton Park,60,Newcastle (Staffs) AC,,complete,2:02:17,3,Jacob Droogmans,21:10,0:58:46,41,58,-17,405,72,Newcastle Staffs AC
+2019,Sutton Park,60,Newcastle (Staffs) AC,,complete,2:02:17,4,Ian Bayliss,20:49,1:19:35,58,57,1,391,63,Newcastle Staffs AC
+2019,Sutton Park,60,Newcastle (Staffs) AC,,complete,2:02:17,5,Tim Sharman,21:03,1:40:38,57,57,0,399,58,Newcastle Staffs AC
+2019,Sutton Park,60,Newcastle (Staffs) AC,,complete,2:02:17,6,Andrew Walker,21:39,2:02:17,57,60,-3,424,63,Newcastle Staffs AC
+2019,Sutton Park,61,Worcester AC,,complete,2:02:28,1,Benedict Duncan,19:36,0:19:36,,68,,282,68,Worcester AC
+2019,Sutton Park,61,Worcester AC,,complete,2:02:28,2,Finley Smith,20:04,0:39:40,68,67,1,342,68,Worcester AC
+2019,Sutton Park,61,Worcester AC,,complete,2:02:28,3,Robbie Campbell,21:09,1:00:49,67,70,-3,404,71,Worcester AC
+2019,Sutton Park,61,Worcester AC,,complete,2:02:28,4,James Dale,20:14,1:21:03,70,67,3,354,53,Worcester AC
+2019,Sutton Park,61,Worcester AC,,complete,2:02:28,5,Chris Harle,21:28,1:42:31,67,65,2,419,66,Worcester AC
+2019,Sutton Park,61,Worcester AC,,complete,2:02:28,6,Luke Sheppard,19:57,2:02:28,65,61,4,327,48,Worcester AC
+2019,Sutton Park,62,Vale Royal AC,B,complete,2:02:34,1,Matthew Mccormac,18:52,0:18:52,,55,,180,55,Vale Royal AC
+2019,Sutton Park,62,Vale Royal AC,B,complete,2:02:34,2,Alexander Doyle,19:22,0:38:14,55,54,1,247,49,Vale Royal AC
+2019,Sutton Park,62,Vale Royal AC,B,complete,2:02:34,3,Stuart Doyle,19:54,0:58:08,54,54,0,320,50,Vale Royal AC
+2019,Sutton Park,62,Vale Royal AC,B,complete,2:02:34,4,Josh Betteley,20:48,1:18:56,54,54,0,387,62,Vale Royal AC
+2019,Sutton Park,62,Vale Royal AC,B,complete,2:02:34,5,William Mckay,21:51,1:40:47,54,58,-4,435,68,Vale Royal AC
+2019,Sutton Park,62,Vale Royal AC,B,complete,2:02:34,6,Gareth Williams,21:47,2:02:34,58,62,-4,430,66,Vale Royal AC
+2019,Sutton Park,63,Medway & Maidstone AC,,complete,2:02:49,1,Tom Collins,19:48,0:19:48,,69,,309,69,Medway & Maidstone AC
+2019,Sutton Park,63,Medway & Maidstone AC,,complete,2:02:49,2,Chris Rampling,20:43,0:40:31,69,74,-5,385,75,Medway & Maidstone AC
+2019,Sutton Park,63,Medway & Maidstone AC,,complete,2:02:49,3,Mark Wilkins,20:15,1:00:46,74,69,5,356,58,Medway & Maidstone AC
+2019,Sutton Park,63,Medway & Maidstone AC,,complete,2:02:49,4,Quinn Austin,23:59,1:24:45,69,73,-4,456,75,Medway & Maidstone AC
+2019,Sutton Park,63,Medway & Maidstone AC,,complete,2:02:49,5,Marley Godden,19:33,1:44:18,73,68,5,277,34,Medway & Maidstone AC
+2019,Sutton Park,63,Medway & Maidstone AC,,complete,2:02:49,6,Robert Meyer,18:31,2:02:49,68,63,5,121,17,Medway & Maidstone AC
+2019,Sutton Park,64,Holme Pierrepont RC,,complete,2:03:42,1,Daniel Bagley,18:47,0:18:47,,53,,161,53,Holme Pierrepont RC
+2019,Sutton Park,64,Holme Pierrepont RC,,complete,2:03:42,2,Andrew Soley,21:59,0:40:46,53,76,-23,440,78,Holme Pierrepont RC
+2019,Sutton Park,64,Holme Pierrepont RC,,complete,2:03:42,3,Oliver Matharu,19:36,1:00:22,76,66,10,282,44,Holme Pierrepont RC
+2019,Sutton Park,64,Holme Pierrepont RC,,complete,2:03:42,4,Eddie George,20:07,1:20:29,66,62,4,346,51,Holme Pierrepont RC
+2019,Sutton Park,64,Holme Pierrepont RC,,complete,2:03:42,5,Michael Miller,21:25,1:41:54,62,62,0,417,64,Holme Pierrepont RC
+2019,Sutton Park,64,Holme Pierrepont RC,,complete,2:03:42,6,James Kirkwood,21:48,2:03:42,62,64,-2,431,67,Holme Pierrepont RC
+2019,Sutton Park,65,Dudley & Stourbridge Harriers,,complete,2:04:13,1,Tom Isherwood,20:04,0:20:04,,76,,342,76,Dudley & Stourbridge Harriers
+2019,Sutton Park,65,Dudley & Stourbridge Harriers,,complete,2:04:13,2,T Osborne,19:25,0:39:29,76,66,10,251,51,Dudley & Stourbridge Harriers
+2019,Sutton Park,65,Dudley & Stourbridge Harriers,,complete,2:04:13,3,Ben Foster,20:30,0:59:59,66,63,3,367,63,Dudley & Stourbridge Harriers
+2019,Sutton Park,65,Dudley & Stourbridge Harriers,,complete,2:04:13,4,David Nation,20:38,1:20:37,63,63,0,377,61,Dudley & Stourbridge Harriers
+2019,Sutton Park,65,Dudley & Stourbridge Harriers,,complete,2:04:13,5,David Ratcliffe,21:27,1:42:04,63,64,-1,418,65,Dudley & Stourbridge Harriers
+2019,Sutton Park,65,Dudley & Stourbridge Harriers,,complete,2:04:13,6,Adam Bodin,22:09,2:04:13,64,65,-1,445,71,Dudley & Stourbridge Harriers
+2019,Sutton Park,66,Bolton United Harriers & AC,,complete,2:04:51,1,Jonothan Kay,18:38,0:18:38,,45,,133,44,Bolton United Harriers & AC
+2019,Sutton Park,66,Bolton United Harriers & AC,,complete,2:04:51,2,Declan Toomey,20:02,0:38:40,45,59,-14,339,66,Bolton United Harriers & AC
+2019,Sutton Park,66,Bolton United Harriers & AC,,complete,2:04:51,3,Anthony Valentin,20:19,0:58:59,59,59,0,359,60,Bolton United Harriers & AC
+2019,Sutton Park,66,Bolton United Harriers & AC,,complete,2:04:51,4,Martin Reid,20:25,1:19:24,59,55,4,364,57,Bolton United Harriers & AC
+2019,Sutton Park,66,Bolton United Harriers & AC,,complete,2:04:51,5,David Chrystal,23:14,1:42:38,55,66,-11,454,74,Bolton United Harriers & AC
+2019,Sutton Park,66,Bolton United Harriers & AC,,complete,2:04:51,6,Chris Povey,22:13,2:04:51,66,66,0,447,72,Bolton United Harriers & AC
+2019,Sutton Park,67,Warrington AC,,complete,2:05:12,1,Tom Greaves,21:15,0:21:15,,78,,409,78,Warrington A C
+2019,Sutton Park,67,Warrington AC,,complete,2:05:12,2,Paul Bagan,20:31,0:41:46,78,78,0,370,71,Warrington A C
+2019,Sutton Park,67,Warrington AC,,complete,2:05:12,3,Stephen Watmough,20:41,1:02:27,78,75,3,383,66,Warrington A C
+2019,Sutton Park,67,Warrington AC,,complete,2:05:12,4,Benjamin Webb,21:14,1:23:41,75,71,4,407,65,Warrington A C
+2019,Sutton Park,67,Warrington AC,,complete,2:05:12,5,Leighton Sharman,20:43,1:44:24,71,69,2,385,54,Warrington A C
+2019,Sutton Park,67,Warrington AC,,complete,2:05:12,6,Luke Gamble,20:48,2:05:12,69,67,2,387,54,Warrington A C
+2019,Sutton Park,68,Knowle & Dorridge RC,,complete,2:05:18,1,Gareth Wainwrigh,19:50,0:19:50,,71,,313,71,Knowle & Dorridge RC
+2019,Sutton Park,68,Knowle & Dorridge RC,,complete,2:05:18,2,Chris Morgan,19:57,0:39:47,71,70,1,327,65,Knowle & Dorridge RC
+2019,Sutton Park,68,Knowle & Dorridge RC,,complete,2:05:18,3,David Carbutt,21:58,1:01:45,70,74,-4,438,75,Knowle & Dorridge RC
+2019,Sutton Park,68,Knowle & Dorridge RC,,complete,2:05:18,4,Daniel Malone,21:41,1:23:26,74,70,4,428,69,Knowle & Dorridge RC
+2019,Sutton Park,68,Knowle & Dorridge RC,,complete,2:05:18,5,Steven Whatmore,21:59,1:45:25,70,71,-1,440,70,Knowle & Dorridge RC
+2019,Sutton Park,68,Knowle & Dorridge RC,,complete,2:05:18,6,Nick Woolley,19:53,2:05:18,71,68,3,319,46,Knowle & Dorridge RC
+2019,Sutton Park,69,Mansfield Harriers,,complete,2:05:28,1,Ben Burnham,20:22,0:20:22,,77,,361,77,Mansfield Harriers
+2019,Sutton Park,69,Mansfield Harriers,,complete,2:05:28,2,Neil Cope,20:19,0:40:41,77,75,2,359,69,Mansfield Harriers
+2019,Sutton Park,69,Mansfield Harriers,,complete,2:05:28,3,Gary Morley,22:49,1:03:30,75,76,-1,451,76,Mansfield Harriers
+2019,Sutton Park,69,Mansfield Harriers,,complete,2:05:28,4,Martin Fickling,21:34,1:25:04,76,74,2,420,68,Mansfield Harriers
+2019,Sutton Park,69,Mansfield Harriers,,complete,2:05:28,5,Jordan Boam,21:16,1:46:20,74,72,2,411,61,Mansfield Harriers
+2019,Sutton Park,69,Mansfield Harriers,,complete,2:05:28,6,Paul Wright,19:08,2:05:28,72,69,3,215,26,Mansfield Harriers
+2019,Sutton Park,70,Heanor RC,,complete,2:06:10,1,Dale Annable,19:02,0:19:02,,59,,202,59,Heanor RC
+2019,Sutton Park,70,Heanor RC,,complete,2:06:10,2,C Patterson,20:42,0:39:44,59,69,-10,384,74,Heanor RC
+2019,Sutton Park,70,Heanor RC,,complete,2:06:10,3,Robert Plant,21:50,1:01:34,69,73,-4,434,74,Heanor RC
+2019,Sutton Park,70,Heanor RC,,complete,2:06:10,4,Kristian Watson,19:13,1:20:47,73,65,8,232,32,Heanor RC
+2019,Sutton Park,70,Heanor RC,,complete,2:06:10,5,Shane Rice,21:10,1:41:57,65,63,2,405,60,Heanor RC
+2019,Sutton Park,70,Heanor RC,,complete,2:06:10,6,Ryan Blake,24:13,2:06:10,63,70,-7,458,75,Heanor RC
+2019,Sutton Park,71,Wallasey AC,,complete,2:06:55,1,Joseph Boden,18:46,0:18:46,,52,,158,51,Wallasey AC
+2019,Sutton Park,71,Wallasey AC,,complete,2:06:55,2,Tom Gillbanks,21:15,0:40:01,52,71,-19,409,77,Wallasey AC
+2019,Sutton Park,71,Wallasey AC,,complete,2:06:55,3,Jack Poland,20:35,1:00:36,71,68,3,376,65,Wallasey AC
+2019,Sutton Park,71,Wallasey AC,,complete,2:06:55,4,Greg Jones,21:44,1:22:20,68,69,-1,429,70,Wallasey AC
+2019,Sutton Park,71,Wallasey AC,,complete,2:06:55,5,Steve Brealey,22:05,1:44:25,69,70,-1,444,72,Wallasey AC
+2019,Sutton Park,71,Wallasey AC,,complete,2:06:55,6,Alex Norton,22:30,2:06:55,70,71,-1,449,73,Wallasey AC
+2019,Sutton Park,72,Rushcliffe AC,,complete,2:07:44,1,Joseph Tuffin,18:24,0:18:24,,37,,103,37,Rushcliffe AC
+2019,Sutton Park,72,Rushcliffe AC,,complete,2:07:44,2,Stephen Dickens,19:47,0:38:11,37,51,-14,304,61,Rushcliffe AC
+2019,Sutton Park,72,Rushcliffe AC,,complete,2:07:44,3,Marlon Dunkley,20:09,0:58:20,51,56,-5,348,56,Rushcliffe AC
+2019,Sutton Park,72,Rushcliffe AC,,complete,2:07:44,4,Graham Moffatt,21:57,1:20:17,56,61,-5,437,71,Rushcliffe AC
+2019,Sutton Park,72,Rushcliffe AC,,complete,2:07:44,5,Morgan Alexander,23:18,1:43:35,61,67,-6,455,75,Rushcliffe AC
+2019,Sutton Park,72,Rushcliffe AC,,complete,2:07:44,6,Kevin Baker,24:09,2:07:44,67,72,-5,457,74,Rushcliffe AC
+2019,Sutton Park,73,Royal Sutton Coldfield AC,,complete,2:08:45,1,Oliver Harradenc,19:06,0:19:06,,61,,209,61,Royal Sutton Coldfield AC
+2019,Sutton Park,73,Royal Sutton Coldfield AC,,complete,2:08:45,2,Nick Blunt,20:59,0:40:05,61,72,-11,395,76,Royal Sutton Coldfield AC
+2019,Sutton Park,73,Royal Sutton Coldfield AC,,complete,2:08:45,3,John Hayman,21:05,1:01:10,72,71,1,402,70,Royal Sutton Coldfield AC
+2019,Sutton Park,73,Royal Sutton Coldfield AC,,complete,2:08:45,4,Ben Horton,23:12,1:24:22,71,72,-1,453,74,Royal Sutton Coldfield AC
+2019,Sutton Park,73,Royal Sutton Coldfield AC,,complete,2:08:45,5,Martin Clutterbu,22:49,1:47:11,72,73,-1,451,73,Royal Sutton Coldfield AC
+2019,Sutton Park,73,Royal Sutton Coldfield AC,,complete,2:08:45,6,Sam Crawford,21:34,2:08:45,73,73,0,420,60,Royal Sutton Coldfield AC
+2019,Sutton Park,74,City Of Stoke AC,B,complete,2:09:08,1,Jake Spilsbury,19:51,0:19:51,,74,,315,73,City Of Stoke AC
+2019,Sutton Park,74,City Of Stoke AC,B,complete,2:09:08,2,James Condlyffe,20:23,0:40:14,74,73,1,363,70,City Of Stoke AC
+2019,Sutton Park,74,City Of Stoke AC,B,complete,2:09:08,3,Matt Eardley,21:02,1:01:16,73,72,1,397,68,City Of Stoke AC
+2019,Sutton Park,74,City Of Stoke AC,B,complete,2:09:08,4,Roger Grand,24:48,1:26:04,72,75,-3,459,76,City Of Stoke AC
+2019,Sutton Park,74,City Of Stoke AC,B,complete,2:09:08,5,Ashley Dennett,22:00,1:48:04,75,74,1,443,71,City Of Stoke AC
+2019,Sutton Park,74,City Of Stoke AC,B,complete,2:09:08,6,Jordan Thomas,21:04,2:09:08,74,74,0,400,57,City Of Stoke AC
+2019,Sutton Park,75,Holmfirth Harriers AC,,complete,2:11:24,1,Aaron Kettlewell,18:25,0:18:25,,38,,105,38,Holmfirth Harriers AC
+2019,Sutton Park,75,Holmfirth Harriers AC,,complete,2:11:24,2,Fionn Kerry,20:33,0:38:58,38,62,-24,374,72,Holmfirth Harriers AC
+2019,Sutton Park,75,Holmfirth Harriers AC,,complete,2:11:24,3,Clark Hind,21:04,1:00:02,62,64,-2,400,69,Holmfirth Harriers AC
+2019,Sutton Park,75,Holmfirth Harriers AC,,complete,2:11:24,4,Jacob Harman,22:15,1:22:17,64,68,-4,448,72,Holmfirth Harriers AC
+2019,Sutton Park,75,Holmfirth Harriers AC,,complete,2:11:24,5,Craig Sheard,27:28,1:49:45,68,75,-7,462,76,Holmfirth Harriers AC
+2019,Sutton Park,75,Holmfirth Harriers AC,,complete,2:11:24,6,Alex Robinson,21:39,2:11:24,75,75,0,424,63,Holmfirth Harriers AC
+2019,Sutton Park,76,Notts AC,B,complete,2:16:45,1,Sam Godwin,22:10,0:22:10,,79,,446,79,Notts AC
+2019,Sutton Park,76,Notts AC,B,complete,2:16:45,2,Bruce Raeside,19:19,0:41:29,79,77,2,240,47,Notts AC
+2019,Sutton Park,76,Notts AC,B,complete,2:16:45,3,Bill Speake,26:28,1:07:57,77,77,0,461,77,Notts AC
+2019,Sutton Park,76,Notts AC,B,complete,2:16:45,4,Joshua Gardiner,22:41,1:30:38,77,76,1,450,73,Notts AC
+2019,Sutton Park,76,Notts AC,B,complete,2:16:45,5,Steve Long,20:12,1:50:50,76,76,0,352,49,Notts AC
+2019,Sutton Park,76,Notts AC,B,complete,2:16:45,6,Steven Leek,25:55,2:16:45,76,76,0,460,76,Notts AC
+2019,Sutton Park,,Altrincham & District AC,,incomplete,,1,Adam Gooch,19:49,0:19:49,,70,,310,70,Altrincham & District AC
+2019,Sutton Park,,Altrincham & District AC,,incomplete,,2,David Norman,19:19,0:39:08,70,63,7,240,47,Altrincham & District AC
+2019,Sutton Park,,Altrincham & District AC,,incomplete,,3,Michael Berks,19:58,0:59:06,63,60,3,335,54,Altrincham & District AC
+2019,Sutton Park,,Morpeth Harriers & AC,B,incomplete,,1,Daniel Melling,19:00,0:19:00,,58,,195,58,Morpeth Harriers & AC
+2019,Sutton Park,,Newham & Essex Beagles AC,,incomplete,,1,Frank Baddick,17:18,0:17:18,,1,,7,1,Newham & Essex Beagles AC
+2019,Sutton Park,,Newham & Essex Beagles AC,,incomplete,,2,Wayne Bell,20:40,0:37:58,1,49,-48,380,73,Newham & Essex Beagles AC

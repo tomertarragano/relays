@@ -1,0 +1,470 @@
+﻿year,venue,team_pos,club,team,team_status,team_time,leg,runner,leg_time,cumulative_time,pos_before_leg,pos_after_leg,places_gained,rank_all_legs_that_year,rank_on_this_leg_that_year,club_as_printed
+2011,Sutton Park,1,Aldershot Farnham & District AC,A,complete,1:44:51,1,Joshua Gorecki,17:19,0:17:19,,5,,12,4,Aldershot Farnham & District
+2011,Sutton Park,1,Aldershot Farnham & District AC,A,complete,1:44:51,2,Martin Mashford,17:57,0:35:16,5,7,-2,93,21,Aldershot Farnham & District
+2011,Sutton Park,1,Aldershot Farnham & District AC,A,complete,1:44:51,3,Jonathan Hay,17:26,0:52:42,7,4,3,22,5,Aldershot Farnham & District
+2011,Sutton Park,1,Aldershot Farnham & District AC,A,complete,1:44:51,4,Andrew Vernon,16:58,1:09:40,4,1,3,2,1,Aldershot Farnham & District
+2011,Sutton Park,1,Aldershot Farnham & District AC,A,complete,1:44:51,5,Stephen Scullion,17:43,1:27:23,1,2,-1,53,5,Aldershot Farnham & District
+2011,Sutton Park,1,Aldershot Farnham & District AC,A,complete,1:44:51,6,Ben Moreau,17:28,1:44:51,2,1,1,25,4,Aldershot Farnham & District
+2011,Sutton Park,2,Birchfield Harriers,,complete,1:45:22,1,Ben Livesey,17:30,0:17:30,,12,,33,12,Birchfield
+2011,Sutton Park,2,Birchfield Harriers,,complete,1:45:22,2,Elliot Giles,17:53,0:35:23,12,10,2,83,19,Birchfield
+2011,Sutton Park,2,Birchfield Harriers,,complete,1:45:22,3,Zak Kihara,17:02,0:52:25,10,1,9,4,1,Birchfield
+2011,Sutton Park,2,Birchfield Harriers,,complete,1:45:22,4,Biniam Ande,17:29,1:09:54,1,2,-1,28,3,Birchfield
+2011,Sutton Park,2,Birchfield Harriers,,complete,1:45:22,5,James Trollope,17:25,1:27:19,2,1,1,21,3,Birchfield
+2011,Sutton Park,2,Birchfield Harriers,,complete,1:45:22,6,Warren Frey,18:03,1:45:22,1,2,-1,104,11,Birchfield
+2011,Sutton Park,3,Newham & Essex Beagles AC,,complete,1:45:30,1,Rory Chesser,17:28,0:17:28,,9,,25,8,Newham And Essex Beagles
+2011,Sutton Park,3,Newham & Essex Beagles AC,,complete,1:45:30,2,Dave Mitchinson,17:44,0:35:12,9,6,3,57,15,Newham And Essex Beagles
+2011,Sutton Park,3,Newham & Essex Beagles AC,,complete,1:45:30,3,Kairn Stone,17:46,0:52:58,6,8,-2,64,9,Newham And Essex Beagles
+2011,Sutton Park,3,Newham & Essex Beagles AC,,complete,1:45:30,4,Lee Merrien,17:33,1:10:31,8,3,5,37,4,Newham And Essex Beagles
+2011,Sutton Park,3,Newham & Essex Beagles AC,,complete,1:45:30,5,James Ellis,17:52,1:28:23,3,3,0,77,10,Newham And Essex Beagles
+2011,Sutton Park,3,Newham & Essex Beagles AC,,complete,1:45:30,6,Keith Gerrard,17:07,1:45:30,3,3,0,6,2,Newham And Essex Beagles
+2011,Sutton Park,4,Leeds City AC,A,complete,1:45:33,1,Joe Townsend,17:49,0:17:49,,26,,69,26,Leeds City
+2011,Sutton Park,4,Leeds City AC,A,complete,1:45:33,2,Carl Smith,18:16,0:36:05,26,23,3,135,28,Leeds City
+2011,Sutton Park,4,Leeds City AC,A,complete,1:45:33,3,Gordon Benson,18:13,0:54:18,23,19,4,128,18,Leeds City
+2011,Sutton Park,4,Leeds City AC,A,complete,1:45:33,4,Simon Deakin,17:21,1:11:39,19,12,7,16,2,Leeds City
+2011,Sutton Park,4,Leeds City AC,A,complete,1:45:33,5,James Walsh,17:16,1:28:55,12,6,6,10,1,Leeds City
+2011,Sutton Park,4,Leeds City AC,A,complete,1:45:33,6,James Wilkinson,16:38,1:45:33,6,4,2,1,1,Leeds City
+2011,Sutton Park,5,Swansea Harriers,A,complete,1:46:15,1,Dewi Griffiths,17:07,0:17:07,,2,,6,2,Swansea Harriers
+2011,Sutton Park,5,Swansea Harriers,A,complete,1:46:15,2,Phillip Matthews,17:39,0:34:46,2,3,-1,45,10,Swansea Harriers
+2011,Sutton Park,5,Swansea Harriers,A,complete,1:46:15,3,Marc Hobbs,18:12,0:52:58,3,7,-4,126,16,Swansea Harriers
+2011,Sutton Park,5,Swansea Harriers,A,complete,1:46:15,4,Brian Maher,17:35,1:10:33,7,4,3,38,5,Swansea Harriers
+2011,Sutton Park,5,Swansea Harriers,A,complete,1:46:15,5,Simon Jones,17:50,1:28:23,4,4,0,71,8,Swansea Harriers
+2011,Sutton Park,5,Swansea Harriers,A,complete,1:46:15,6,Matthew Dumegan,17:52,1:46:15,4,5,-1,77,6,Swansea Harriers
+2011,Sutton Park,6,Bristol & West AC,A,complete,1:46:48,1,Jonathan Wills,17:29,0:17:29,,11,,28,10,Bristol & West AC
+2011,Sutton Park,6,Bristol & West AC,A,complete,1:46:48,2,Charlie MacLean,17:36,0:35:05,11,5,6,40,7,Bristol & West AC
+2011,Sutton Park,6,Bristol & West AC,A,complete,1:46:48,3,Stephen Mitchell,17:49,0:52:54,5,6,-1,69,10,Bristol & West AC
+2011,Sutton Park,6,Bristol & West AC,A,complete,1:46:48,4,Tom Merson,18:26,1:11:20,6,9,-3,154,17,Bristol & West AC
+2011,Sutton Park,6,Bristol & West AC,A,complete,1:46:48,5,Phil Wylie,17:48,1:29:08,9,7,2,67,7,Bristol & West AC
+2011,Sutton Park,6,Bristol & West AC,A,complete,1:46:48,6,Tom Russell,17:40,1:46:48,7,6,1,48,5,Bristol & West AC
+2011,Sutton Park,7,Tipton Harriers,,complete,1:46:56,1,Ian Williams,17:44,0:17:44,,22,,57,21,Tipton Harriers
+2011,Sutton Park,7,Tipton Harriers,,complete,1:46:56,2,Adrian Holliday,17:43,0:35:27,22,11,11,53,14,Tipton Harriers
+2011,Sutton Park,7,Tipton Harriers,,complete,1:46:56,3,Josh Lilly,17:54,0:53:21,11,10,1,84,13,Tipton Harriers
+2011,Sutton Park,7,Tipton Harriers,,complete,1:46:56,4,Michael Aspinall,17:56,1:11:17,10,8,2,90,10,Tipton Harriers
+2011,Sutton Park,7,Tipton Harriers,,complete,1:46:56,5,Ryan McLeod,17:19,1:28:36,8,5,3,12,2,Tipton Harriers
+2011,Sutton Park,7,Tipton Harriers,,complete,1:46:56,6,Martin Williams,18:20,1:46:56,5,7,-2,142,17,Tipton Harriers
+2011,Sutton Park,8,Morpeth Harriers & AC,,complete,1:47:14,1,Jonathan Taylor,17:23,0:17:23,,6,,19,6,Morpeth H &ac
+2011,Sutton Park,8,Morpeth Harriers & AC,,complete,1:47:14,2,Matthew Nicholso,18:32,0:35:55,6,21,-15,172,38,Morpeth H &ac
+2011,Sutton Park,8,Morpeth Harriers & AC,,complete,1:47:14,3,Lewis Timmins,18:06,0:54:01,21,17,4,109,15,Morpeth H &ac
+2011,Sutton Park,8,Morpeth Harriers & AC,,complete,1:47:14,4,Ian Harding,18:10,1:12:11,17,15,2,119,13,Morpeth H &ac
+2011,Sutton Park,8,Morpeth Harriers & AC,,complete,1:47:14,5,Peter Newton,17:46,1:29:57,15,14,1,64,6,Morpeth H &ac
+2011,Sutton Park,8,Morpeth Harriers & AC,,complete,1:47:14,6,Ian Hudspith,17:17,1:47:14,14,8,6,11,3,Morpeth H &ac
+2011,Sutton Park,9,Shettleston Harriers,,complete,1:47:20,1,Tewelde Mengiste,17:43,0:17:43,,20,,53,19,Shettleston Harriers
+2011,Sutton Park,9,Shettleston Harriers,,complete,1:47:20,2,Michael Gillespi,17:48,0:35:31,20,12,8,67,17,Shettleston Harriers
+2011,Sutton Park,9,Shettleston Harriers,,complete,1:47:20,3,Matthew Gillespi,17:14,0:52:45,12,5,7,9,2,Shettleston Harriers
+2011,Sutton Park,9,Shettleston Harriers,,complete,1:47:20,4,Michael Deason,18:30,1:11:15,5,7,-2,168,19,Shettleston Harriers
+2011,Sutton Park,9,Shettleston Harriers,,complete,1:47:20,5,Allan Adams,17:55,1:29:10,7,8,-1,88,12,Shettleston Harriers
+2011,Sutton Park,9,Shettleston Harriers,,complete,1:47:20,6,Paul Sorrie,18:10,1:47:20,8,9,-1,119,14,Shettleston Harriers
+2011,Sutton Park,10,Salford Harriers & AC,A,complete,1:47:33,1,Carl Hardman,17:52,0:17:52,,27,,77,27,Salford Harriers & AC
+2011,Sutton Park,10,Salford Harriers & AC,A,complete,1:47:33,2,Joseph Bailey,17:26,0:35:18,27,8,19,22,3,Salford Harriers & AC
+2011,Sutton Park,10,Salford Harriers & AC,A,complete,1:47:33,3,Benjamin Riddell,18:12,0:53:30,8,12,-4,126,16,Salford Harriers & AC
+2011,Sutton Park,10,Salford Harriers & AC,A,complete,1:47:33,4,Andrew Jones,17:52,1:11:22,12,10,2,77,8,Salford Harriers & AC
+2011,Sutton Park,10,Salford Harriers & AC,A,complete,1:47:33,5,Tarus Elly,17:58,1:29:20,10,9,1,94,14,Salford Harriers & AC
+2011,Sutton Park,10,Salford Harriers & AC,A,complete,1:47:33,6,Tom Cornthwaite,18:13,1:47:33,9,10,-1,128,15,Salford Harriers & AC
+2011,Sutton Park,11,Cardiff AAC,A,complete,1:47:49,1,Adam Bitchell,17:39,0:17:39,,16,,45,16,Cardiff Aac
+2011,Sutton Park,11,Cardiff AAC,A,complete,1:47:49,2,Ieuan Thomas,18:27,0:36:06,16,24,-8,155,35,Cardiff Aac
+2011,Sutton Park,11,Cardiff AAC,A,complete,1:47:49,3,Alex Hains,17:45,0:53:51,24,15,9,60,8,Cardiff Aac
+2011,Sutton Park,11,Cardiff AAC,A,complete,1:47:49,4,Tommy Davies,17:54,1:11:45,15,13,2,84,9,Cardiff Aac
+2011,Sutton Park,11,Cardiff AAC,A,complete,1:47:49,5,Kevin Seaward,17:55,1:29:40,13,11,2,88,12,Cardiff Aac
+2011,Sutton Park,11,Cardiff AAC,A,complete,1:47:49,6,James Thie,18:09,1:47:49,11,11,0,113,12,Cardiff Aac
+2011,Sutton Park,12,Notts AC,A,complete,1:48:44,1,Aaron Scott,17:45,0:17:45,,23,,60,23,Notts AC
+2011,Sutton Park,12,Notts AC,A,complete,1:48:44,2,Martin Whitehous,18:03,0:35:48,23,19,4,104,23,Notts AC
+2011,Sutton Park,12,Notts AC,A,complete,1:48:44,3,Matt Blunden,18:43,0:54:31,19,24,-5,206,36,Notts AC
+2011,Sutton Park,12,Notts AC,A,complete,1:48:44,4,Tim Hartley,18:10,1:12:41,24,18,6,119,13,Notts AC
+2011,Sutton Park,12,Notts AC,A,complete,1:48:44,5,Kevin Farrow,18:09,1:30:50,18,15,3,113,17,Notts AC
+2011,Sutton Park,12,Notts AC,A,complete,1:48:44,6,Matthew O'Dowd,17:54,1:48:44,15,12,3,84,7,Notts AC
+2011,Sutton Park,13,Bedford & County AC,,complete,1:48:45,1,Jack Goodwin,17:29,0:17:29,,10,,28,10,Bedford And County AC
+2011,Sutton Park,13,Bedford & County AC,,complete,1:48:45,2,Neilson Hall,17:30,0:34:59,10,4,6,33,6,Bedford And County AC
+2011,Sutton Park,13,Bedford & County AC,,complete,1:48:45,3,Matthew Bergin,18:29,0:53:28,4,11,-7,163,23,Bedford And County AC
+2011,Sutton Park,13,Bedford & County AC,,complete,1:48:45,4,Ryan Parker,18:09,1:11:37,11,11,0,113,12,Bedford And County AC
+2011,Sutton Park,13,Bedford & County AC,,complete,1:48:45,5,Matthew Janes,18:03,1:29:40,11,10,1,104,15,Bedford And County AC
+2011,Sutton Park,13,Bedford & County AC,,complete,1:48:45,6,Patrick Stuart,19:05,1:48:45,10,13,-3,255,31,Bedford And County AC
+2011,Sutton Park,14,Belgrave Harriers,,complete,1:48:57,1,James Kelly,17:44,0:17:44,,21,,57,21,Belgrave Harriers
+2011,Sutton Park,14,Belgrave Harriers,,complete,1:48:57,2,Steve Davies,17:38,0:35:22,21,9,12,42,8,Belgrave Harriers
+2011,Sutton Park,14,Belgrave Harriers,,complete,1:48:57,3,Richard Ward,18:17,0:53:39,9,13,-4,136,20,Belgrave Harriers
+2011,Sutton Park,14,Belgrave Harriers,,complete,1:48:57,4,Mark Pollard,18:48,1:12:27,13,17,-4,215,27,Belgrave Harriers
+2011,Sutton Park,14,Belgrave Harriers,,complete,1:48:57,5,Paskar Owor,17:29,1:29:56,17,13,4,28,4,Belgrave Harriers
+2011,Sutton Park,14,Belgrave Harriers,,complete,1:48:57,6,William Cockerel,19:01,1:48:57,13,14,-1,244,28,Belgrave Harriers
+2011,Sutton Park,15,New Marske Harriers,,complete,1:49:01,1,Ricky Stevenson,17:06,0:17:06,,1,,5,1,New Marske Harriers
+2011,Sutton Park,15,New Marske Harriers,,complete,1:49:01,2,Andrew Wiles,17:39,0:34:45,1,2,-1,45,10,New Marske Harriers
+2011,Sutton Park,15,New Marske Harriers,,complete,1:49:01,3,Mark Shaw,17:50,0:52:35,2,3,-1,71,11,New Marske Harriers
+2011,Sutton Park,15,New Marske Harriers,,complete,1:49:01,4,Russell Best,18:27,1:11:02,3,5,-2,155,18,New Marske Harriers
+2011,Sutton Park,15,New Marske Harriers,,complete,1:49:01,5,Richard Morrell,18:44,1:29:46,5,12,-7,207,25,New Marske Harriers
+2011,Sutton Park,15,New Marske Harriers,,complete,1:49:01,6,Shaun OGrady,19:15,1:49:01,12,15,-3,274,37,New Marske Harriers
+2011,Sutton Park,16,Highgate Harriers,,complete,1:49:04,1,Henry Dodwell,18:25,0:18:25,,45,,152,45,Highgate Harriers
+2011,Sutton Park,16,Highgate Harriers,,complete,1:49:04,2,Shaun Dixon,17:45,0:36:10,45,26,19,60,16,Highgate Harriers
+2011,Sutton Park,16,Highgate Harriers,,complete,1:49:04,3,Ben Pochee,18:29,0:54:39,26,25,1,163,23,Highgate Harriers
+2011,Sutton Park,16,Highgate Harriers,,complete,1:49:04,4,Benjamin Noad,18:11,1:12:50,25,21,4,123,15,Highgate Harriers
+2011,Sutton Park,16,Highgate Harriers,,complete,1:49:04,5,David Bruce,18:05,1:30:55,21,16,5,107,16,Highgate Harriers
+2011,Sutton Park,16,Highgate Harriers,,complete,1:49:04,6,Danny Russell,18:09,1:49:04,16,16,0,113,12,Highgate Harriers
+2011,Sutton Park,17,Stroud & District AC,,complete,1:49:31,1,Thomas Purnell,17:59,0:17:59,,30,,97,30,Stroud And District AC
+2011,Sutton Park,17,Stroud & District AC,,complete,1:49:31,2,Joseph Dalgleish,18:36,0:36:35,30,35,-5,189,41,Stroud And District AC
+2011,Sutton Park,17,Stroud & District AC,,complete,1:49:31,3,Greg Haliwell,18:33,0:55:08,35,34,1,176,28,Stroud And District AC
+2011,Sutton Park,17,Stroud & District AC,,complete,1:49:31,4,Ben Coldray,18:32,1:13:40,34,26,8,172,20,Stroud And District AC
+2011,Sutton Park,17,Stroud & District AC,,complete,1:49:31,5,Ander Russell,17:50,1:31:30,26,20,6,71,8,Stroud And District AC
+2011,Sutton Park,17,Stroud & District AC,,complete,1:49:31,6,Matthew Withey,18:01,1:49:31,20,17,3,100,10,Stroud And District AC
+2011,Sutton Park,18,Aldershot Farnham & District AC,B,complete,1:49:36,1,Neil Phillips,18:34,0:18:34,,49,,181,49,Aldershot Farnham & District
+2011,Sutton Park,18,Aldershot Farnham & District AC,B,complete,1:49:36,2,Joshua Grace,17:52,0:36:26,49,30,19,77,18,Aldershot Farnham & District
+2011,Sutton Park,18,Aldershot Farnham & District AC,B,complete,1:49:36,3,Ian Bailey,18:33,0:54:59,30,30,0,176,28,Aldershot Farnham & District
+2011,Sutton Park,18,Aldershot Farnham & District AC,B,complete,1:49:36,4,Fraser Thompson,17:50,1:12:49,30,20,10,71,6,Aldershot Farnham & District
+2011,Sutton Park,18,Aldershot Farnham & District AC,B,complete,1:49:36,5,Paul Rodgers,18:18,1:31:07,20,18,2,138,19,Aldershot Farnham & District
+2011,Sutton Park,18,Aldershot Farnham & District AC,B,complete,1:49:36,6,Joe Morwood,18:29,1:49:36,18,18,0,163,19,Aldershot Farnham & District
+2011,Sutton Park,19,Coventry Godiva Harriers,A,complete,1:49:45,1,Benjamin Jones,17:45,0:17:45,,24,,60,23,Coventry Godiva Harriers
+2011,Sutton Park,19,Coventry Godiva Harriers,A,complete,1:49:45,2,Toby Spencer,18:01,0:35:46,24,16,8,100,22,Coventry Godiva Harriers
+2011,Sutton Park,19,Coventry Godiva Harriers,A,complete,1:49:45,3,James Griggs,18:24,0:54:10,16,18,-2,150,21,Coventry Godiva Harriers
+2011,Sutton Park,19,Coventry Godiva Harriers,A,complete,1:49:45,4,Richard Taylor,18:33,1:12:43,18,19,-1,176,21,Coventry Godiva Harriers
+2011,Sutton Park,19,Coventry Godiva Harriers,A,complete,1:49:45,5,Harvey Speed,19:03,1:31:46,19,21,-2,251,32,Coventry Godiva Harriers
+2011,Sutton Park,19,Coventry Godiva Harriers,A,complete,1:49:45,6,Matthew Armstron,17:59,1:49:45,21,19,2,97,9,Coventry Godiva Harriers
+2011,Sutton Park,20,Liverpool Harriers & AC,A,complete,1:50:10,1,Daniel Cliffe,17:40,0:17:40,,18,,48,17,Liverpool Harriers & AC
+2011,Sutton Park,20,Liverpool Harriers & AC,A,complete,1:50:10,2,Johnny Mellor,16:59,0:34:39,18,1,17,3,1,Liverpool Harriers & AC
+2011,Sutton Park,20,Liverpool Harriers & AC,A,complete,1:50:10,3,Matt Jackson,17:51,0:52:30,1,2,-1,76,12,Liverpool Harriers & AC
+2011,Sutton Park,20,Liverpool Harriers & AC,A,complete,1:50:10,4,James Horman,19:35,1:12:05,2,14,-12,321,47,Liverpool Harriers & AC
+2011,Sutton Park,20,Liverpool Harriers & AC,A,complete,1:50:10,5,Harry Harper,19:00,1:31:05,14,17,-3,239,31,Liverpool Harriers & AC
+2011,Sutton Park,20,Liverpool Harriers & AC,A,complete,1:50:10,6,Steve Broadhurst,19:05,1:50:10,17,20,-3,255,31,Liverpool Harriers & AC
+2011,Sutton Park,21,Derby AC (inc. Derby & County AC),,complete,1:50:17,1,Jonathan Gilby,17:43,0:17:43,,19,,53,19,Derby AC
+2011,Sutton Park,21,Derby AC (inc. Derby & County AC),,complete,1:50:17,2,Niall Maguire,18:47,0:36:30,19,32,-13,213,46,Derby AC
+2011,Sutton Park,21,Derby AC (inc. Derby & County AC),,complete,1:50:17,3,Richard Weir,17:22,0:53:52,32,16,16,17,3,Derby AC
+2011,Sutton Park,21,Derby AC (inc. Derby & County AC),,complete,1:50:17,4,Tom Phillips,19:13,1:13:05,16,23,-7,271,33,Derby AC
+2011,Sutton Park,21,Derby AC (inc. Derby & County AC),,complete,1:50:17,5,Joshua Bull,18:41,1:31:46,23,22,1,200,24,Derby AC
+2011,Sutton Park,21,Derby AC (inc. Derby & County AC),,complete,1:50:17,6,David Westbury,18:31,1:50:17,22,21,1,170,20,Derby AC
+2011,Sutton Park,22,Central AC,,complete,1:50:29,1,Alexander Hendry,17:38,0:17:38,,15,,42,15,Central AC
+2011,Sutton Park,22,Central AC,,complete,1:50:29,2,Scott Green,19:06,0:36:44,15,38,-23,258,54,Central AC
+2011,Sutton Park,22,Central AC,,complete,1:50:29,3,Lewis Millar,18:55,0:55:39,38,38,0,230,38,Central AC
+2011,Sutton Park,22,Central AC,,complete,1:50:29,4,Alistair Hay,19:00,1:14:39,38,36,2,239,30,Central AC
+2011,Sutton Park,22,Central AC,,complete,1:50:29,5,John Newsom,17:52,1:32:31,36,24,12,77,10,Central AC
+2011,Sutton Park,22,Central AC,,complete,1:50:29,6,Ross Houston,17:58,1:50:29,24,22,2,94,8,Central AC
+2011,Sutton Park,23,Woodford Green AC with Essex Ladies,,complete,1:50:39,1,Daniel Agustus,18:02,0:18:02,,32,,103,32,Woodford Green & Essex Ladies
+2011,Sutton Park,23,Woodford Green AC with Essex Ladies,,complete,1:50:39,2,Hywel Care,18:09,0:36:11,32,27,5,113,26,Woodford Green & Essex Ladies
+2011,Sutton Park,23,Woodford Green AC with Essex Ladies,,complete,1:50:39,3,Alexander Cornwe,18:13,0:54:24,27,22,5,128,18,Woodford Green & Essex Ladies
+2011,Sutton Park,23,Woodford Green AC with Essex Ladies,,complete,1:50:39,4,Tom Beedell,18:37,1:13:01,22,22,0,190,23,Woodford Green & Essex Ladies
+2011,Sutton Park,23,Woodford Green AC with Essex Ladies,,complete,1:50:39,5,Matthew Shone,18:27,1:31:28,22,19,3,155,20,Woodford Green & Essex Ladies
+2011,Sutton Park,23,Woodford Green AC with Essex Ladies,,complete,1:50:39,6,Oliver Heeks,19:11,1:50:39,19,23,-4,267,35,Woodford Green & Essex Ladies
+2011,Sutton Park,24,Tonbridge AC,,complete,1:51:38,1,Luca Russo,18:21,0:18:21,,43,,145,43,Tonbridge AC
+2011,Sutton Park,24,Tonbridge AC,,complete,1:51:38,2,Robbie Farnham-R,18:37,0:36:58,43,42,1,190,42,Tonbridge AC
+2011,Sutton Park,24,Tonbridge AC,,complete,1:51:38,3,Daniel Bradley,18:40,0:55:38,42,37,5,199,34,Tonbridge AC
+2011,Sutton Park,24,Tonbridge AC,,complete,1:51:38,4,Ryan Driscoll,19:20,1:14:58,37,38,-1,290,37,Tonbridge AC
+2011,Sutton Park,24,Tonbridge AC,,complete,1:51:38,5,Henry Pearce,18:27,1:33:25,38,33,5,155,20,Tonbridge AC
+2011,Sutton Park,24,Tonbridge AC,,complete,1:51:38,6,Steven Fennell,18:13,1:51:38,33,24,9,128,15,Tonbridge AC
+2011,Sutton Park,25,Serpentine,,complete,1:52:11,1,Richard Phillips,18:15,0:18:15,,39,,134,39,Serpentine
+2011,Sutton Park,25,Serpentine,,complete,1:52:11,2,Nicholas Torry,17:41,0:35:56,39,22,17,52,13,Serpentine
+2011,Sutton Park,25,Serpentine,,complete,1:52:11,3,Will Jones,18:46,0:54:42,22,26,-4,211,37,Serpentine
+2011,Sutton Park,25,Serpentine,,complete,1:52:11,4,Tiago Branco,19:19,1:14:01,26,30,-4,286,36,Serpentine
+2011,Sutton Park,25,Serpentine,,complete,1:52:11,5,Hendrik Zietsman,19:11,1:33:12,30,31,-1,267,36,Serpentine
+2011,Sutton Park,25,Serpentine,,complete,1:52:11,6,Hugh Torry,18:59,1:52:11,31,25,6,237,25,Serpentine
+2011,Sutton Park,26,Wells City Harriers,,complete,1:52:20,1,Ben Tickner,17:08,0:17:08,,3,,8,3,Wells City Harriers
+2011,Sutton Park,26,Wells City Harriers,,complete,1:52:20,2,Jack Bancroft,19:20,0:36:28,3,31,-28,290,59,Wells City Harriers
+2011,Sutton Park,26,Wells City Harriers,,complete,1:52:20,3,Francis Tickner,17:22,0:53:50,31,14,17,17,3,Wells City Harriers
+2011,Sutton Park,26,Wells City Harriers,,complete,1:52:20,4,Eliot Haimes,19:29,1:13:19,14,24,-10,306,41,Wells City Harriers
+2011,Sutton Park,26,Wells City Harriers,,complete,1:52:20,5,Andrew Hennessy,19:28,1:32:47,24,26,-2,304,41,Wells City Harriers
+2011,Sutton Park,26,Wells City Harriers,,complete,1:52:20,6,Jon James,19:33,1:52:20,26,26,0,313,40,Wells City Harriers
+2011,Sutton Park,27,Luton Athletic Club,,complete,1:52:28,1,Thomas Mead,19:16,0:19:16,,66,,279,66,Luton AC
+2011,Sutton Park,27,Luton Athletic Club,,complete,1:52:28,2,Daniel Woodgate,18:07,0:37:23,66,46,20,110,24,Luton AC
+2011,Sutton Park,27,Luton Athletic Club,,complete,1:52:28,3,John McDonnell,17:35,0:54:58,46,29,17,38,7,Luton AC
+2011,Sutton Park,27,Luton Athletic Club,,complete,1:52:28,4,Andrew McMulkin,19:27,1:14:25,29,34,-5,301,39,Luton AC
+2011,Sutton Park,27,Luton Athletic Club,,complete,1:52:28,5,Peter Bridger,18:33,1:32:58,34,27,7,176,22,Luton AC
+2011,Sutton Park,27,Luton Athletic Club,,complete,1:52:28,6,Liam McNabola,19:30,1:52:28,27,27,0,307,39,Luton AC
+2011,Sutton Park,28,Kent AC,,complete,1:52:32,1,John Gilbert,17:37,0:17:37,,14,,41,14,Kent AC
+2011,Sutton Park,28,Kent AC,,complete,1:52:32,2,Chris Greenwood,18:48,0:36:25,14,29,-15,215,47,Kent AC
+2011,Sutton Park,28,Kent AC,,complete,1:52:32,3,Jermaine Mays,17:58,0:54:23,29,21,8,94,14,Kent AC
+2011,Sutton Park,28,Kent AC,,complete,1:52:32,4,James Connor,17:50,1:12:13,21,16,5,71,6,Kent AC
+2011,Sutton Park,28,Kent AC,,complete,1:52:32,5,Stuart Beaney,20:23,1:32:36,16,25,-9,402,57,Kent AC
+2011,Sutton Park,28,Kent AC,,complete,1:52:32,6,Rich Munn,19:56,1:52:32,25,28,-3,358,45,Kent AC
+2011,Sutton Park,29,Swansea Harriers,B,complete,1:52:42,1,Afan Humphries,18:23,0:18:23,,44,,147,44,Swansea Harriers
+2011,Sutton Park,29,Swansea Harriers,B,complete,1:52:42,2,Guy Smith,19:15,0:37:38,44,51,-7,274,56,Swansea Harriers
+2011,Sutton Park,29,Swansea Harriers,B,complete,1:52:42,3,Chris Gowell,19:01,0:56:39,51,49,2,244,41,Swansea Harriers
+2011,Sutton Park,29,Swansea Harriers,B,complete,1:52:42,4,Christopher Thom,18:42,1:15:21,49,41,8,204,25,Swansea Harriers
+2011,Sutton Park,29,Swansea Harriers,B,complete,1:52:42,5,Lewys Hobbs,18:47,1:34:08,41,36,5,213,27,Swansea Harriers
+2011,Sutton Park,29,Swansea Harriers,B,complete,1:52:42,6,Sullivan Smith,18:34,1:52:42,36,29,7,181,22,Swansea Harriers
+2011,Sutton Park,30,Bristol & West AC,B,complete,1:52:52,1,Rhys Park,18:30,0:18:30,,48,,168,48,Bristol & West AC
+2011,Sutton Park,30,Bristol & West AC,B,complete,1:52:52,2,Shaun Antell,18:23,0:36:53,48,41,7,147,32,Bristol & West AC
+2011,Sutton Park,30,Bristol & West AC,B,complete,1:52:52,3,Stephen Francis,19:01,0:55:54,41,40,1,244,41,Bristol & West AC
+2011,Sutton Park,30,Bristol & West AC,B,complete,1:52:52,4,Philip Parry,19:32,1:15:26,40,42,-2,311,44,Bristol & West AC
+2011,Sutton Park,30,Bristol & West AC,B,complete,1:52:52,5,Oliver Mott,18:55,1:34:21,42,41,1,230,30,Bristol & West AC
+2011,Sutton Park,30,Bristol & West AC,B,complete,1:52:52,6,Chris Dodd,18:31,1:52:52,41,30,11,170,20,Bristol & West AC
+2011,Sutton Park,31,Birmingham Running Athletics & Triathlon (BRAT),A,complete,1:53:04,1,Martin Matthews,19:13,0:19:13,,65,,271,65,Birmingham Running Athletic An
+2011,Sutton Park,31,Birmingham Running Athletics & Triathlon (BRAT),A,complete,1:53:04,2,Paul Thompson,17:38,0:36:51,65,39,26,42,8,Birmingham Running Athletic An
+2011,Sutton Park,31,Birmingham Running Athletics & Triathlon (BRAT),A,complete,1:53:04,3,Jack Gray,18:32,0:55:23,39,35,4,172,26,Birmingham Running Athletic An
+2011,Sutton Park,31,Birmingham Running Athletics & Triathlon (BRAT),A,complete,1:53:04,4,Timothy Griffith,18:41,1:14:04,35,31,4,200,24,Birmingham Running Athletic An
+2011,Sutton Park,31,Birmingham Running Athletics & Triathlon (BRAT),A,complete,1:53:04,5,Edward Banks,19:06,1:33:10,31,30,1,258,35,Birmingham Running Athletic An
+2011,Sutton Park,31,Birmingham Running Athletics & Triathlon (BRAT),A,complete,1:53:04,6,Richard White,19:54,1:53:04,30,31,-1,356,44,Birmingham Running Athletic An
+2011,Sutton Park,32,Phoenix AC,,complete,1:53:09,1,Tom Hopkins,18:58,0:18:58,,63,,236,63,Phoenix AC
+2011,Sutton Park,32,Phoenix AC,,complete,1:53:09,2,Max Pickard,18:39,0:37:37,63,50,13,195,44,Phoenix AC
+2011,Sutton Park,32,Phoenix AC,,complete,1:53:09,3,Samuel Wade,19:06,0:56:43,50,50,0,258,45,Phoenix AC
+2011,Sutton Park,32,Phoenix AC,,complete,1:53:09,4,Charlie Grice,18:21,1:15:04,50,39,11,145,16,Phoenix AC
+2011,Sutton Park,32,Phoenix AC,,complete,1:53:09,5,Josh Guilmant,19:05,1:34:09,39,37,2,255,34,Phoenix AC
+2011,Sutton Park,32,Phoenix AC,,complete,1:53:09,6,Finn McNally,19:00,1:53:09,37,32,5,239,27,Phoenix AC
+2011,Sutton Park,33,Gateshead Harriers & AC,,complete,1:53:22,1,Ryan Stephenson,18:13,0:18:13,,37,,128,37,Gateshead Harriers & Athletics
+2011,Sutton Park,33,Gateshead Harriers & AC,,complete,1:53:22,2,Ross Murray,17:40,0:35:53,37,20,17,48,12,Gateshead Harriers & Athletics
+2011,Sutton Park,33,Gateshead Harriers & AC,,complete,1:53:22,3,Marc Elliott,18:38,0:54:31,20,23,-3,193,32,Gateshead Harriers & Athletics
+2011,Sutton Park,33,Gateshead Harriers & AC,,complete,1:53:22,4,Timmy Calder,19:08,1:13:39,23,25,-2,262,32,Gateshead Harriers & Athletics
+2011,Sutton Park,33,Gateshead Harriers & AC,,complete,1:53:22,5,David Old,19:35,1:33:14,25,32,-7,321,43,Gateshead Harriers & Athletics
+2011,Sutton Park,33,Gateshead Harriers & AC,,complete,1:53:22,6,Robbie Costello,20:08,1:53:22,32,33,-1,380,48,Gateshead Harriers & Athletics
+2011,Sutton Park,34,Cardiff AAC,B,complete,1:53:29,1,Michael Kershaw,18:52,0:18:52,,58,,222,58,Cardiff Aac
+2011,Sutton Park,34,Cardiff AAC,B,complete,1:53:29,2,Rowan Axe,18:10,0:37:02,58,44,14,119,27,Cardiff Aac
+2011,Sutton Park,34,Cardiff AAC,B,complete,1:53:29,3,Shane Kerr,18:32,0:55:34,44,36,8,172,26,Cardiff Aac
+2011,Sutton Park,34,Cardiff AAC,B,complete,1:53:29,4,James Mills,19:04,1:14:38,36,35,1,254,31,Cardiff Aac
+2011,Sutton Park,34,Cardiff AAC,B,complete,1:53:29,5,Chris Green,19:41,1:34:19,35,40,-5,332,45,Cardiff Aac
+2011,Sutton Park,34,Cardiff AAC,B,complete,1:53:29,6,Michael Kallenbe,19:10,1:53:29,40,34,6,264,34,Cardiff Aac
+2011,Sutton Park,35,City of Norwich AC,,complete,1:53:36,1,Stuart Huntingto,18:18,0:18:18,,40,,138,40,City Of Norwich A C
+2011,Sutton Park,35,City of Norwich AC,,complete,1:53:36,2,Ashley Harrell,17:29,0:35:47,40,18,22,28,5,City Of Norwich A C
+2011,Sutton Park,35,City of Norwich AC,,complete,1:53:36,3,Carl Goose,19:01,0:54:48,18,28,-10,244,41,City Of Norwich A C
+2011,Sutton Park,35,City of Norwich AC,,complete,1:53:36,4,Joshua Entwistle,19:35,1:14:23,28,33,-5,321,47,City Of Norwich A C
+2011,Sutton Park,35,City of Norwich AC,,complete,1:53:36,5,Wayne Lincoln,19:23,1:33:46,33,35,-2,294,40,City Of Norwich A C
+2011,Sutton Park,35,City of Norwich AC,,complete,1:53:36,6,Damian Rogers,19:50,1:53:36,35,35,0,350,43,City Of Norwich A C
+2011,Sutton Park,36,Leeds City AC,B,complete,1:53:36,1,Michael Burrett,18:50,0:18:50,,57,,219,57,Leeds City
+2011,Sutton Park,36,Leeds City AC,B,complete,1:53:36,2,Michael Wood,18:35,0:37:25,57,47,10,186,40,Leeds City
+2011,Sutton Park,36,Leeds City AC,B,complete,1:53:36,3,Dale Worton,18:42,0:56:07,47,42,5,204,35,Leeds City
+2011,Sutton Park,36,Leeds City AC,B,complete,1:53:36,4,Christopher Wrig,18:33,1:14:40,42,37,5,176,21,Leeds City
+2011,Sutton Park,36,Leeds City AC,B,complete,1:53:36,5,Fergus Meade,18:49,1:33:29,37,34,3,217,28,Leeds City
+2011,Sutton Park,36,Leeds City AC,B,complete,1:53:36,6,Michael Salter,20:07,1:53:36,34,36,-2,379,47,Leeds City
+2011,Sutton Park,37,Altrincham & District AC,,complete,1:53:40,1,Matthew Barnes,17:30,0:17:30,,13,,33,12,Altrincham & District AC
+2011,Sutton Park,37,Altrincham & District AC,,complete,1:53:40,2,David Norman,18:07,0:35:37,13,13,0,110,24,Altrincham & District AC
+2011,Sutton Park,37,Altrincham & District AC,,complete,1:53:40,3,Marius Ionescu,17:30,0:53:07,13,9,4,33,6,Altrincham & District AC
+2011,Sutton Park,37,Altrincham & District AC,,complete,1:53:40,4,James Reed,18:01,1:11:08,9,6,3,100,11,Altrincham & District AC
+2011,Sutton Park,37,Altrincham & District AC,,complete,1:53:40,5,Adrian Fuller,21:14,1:32:22,6,23,-17,437,69,Altrincham & District AC
+2011,Sutton Park,37,Altrincham & District AC,,complete,1:53:40,6,Ryan Ganose,21:18,1:53:40,23,37,-14,439,66,Altrincham & District AC
+2011,Sutton Park,38,Notts AC,B,complete,1:53:54,1,C Warburton,17:54,0:17:54,,28,,84,28,Notts AC
+2011,Sutton Park,38,Notts AC,B,complete,1:53:54,2,Tom Crowley,18:41,0:36:35,28,36,-8,200,45,Notts AC
+2011,Sutton Park,38,Notts AC,B,complete,1:53:54,3,Blayne Pick,18:28,0:55:03,36,31,5,162,22,Notts AC
+2011,Sutton Park,38,Notts AC,B,complete,1:53:54,4,Mark Thompson,19:14,1:14:17,31,32,-1,273,34,Notts AC
+2011,Sutton Park,38,Notts AC,B,complete,1:53:54,5,Jarrat Perkins,18:44,1:33:01,32,28,4,207,25,Notts AC
+2011,Sutton Park,38,Notts AC,B,complete,1:53:54,6,Matthew Judson,20:53,1:53:54,28,38,-10,427,62,Notts AC
+2011,Sutton Park,39,Shaftesbury Barnet Harriers,,complete,1:54:36,1,Anthony Whiteman,18:20,0:18:20,,42,,142,42,Shaftesbury Barnet
+2011,Sutton Park,39,Shaftesbury Barnet Harriers,,complete,1:54:36,2,Niall Fleming,17:27,0:35:47,42,17,25,24,4,Shaftesbury Barnet
+2011,Sutton Park,39,Shaftesbury Barnet Harriers,,complete,1:54:36,3,Matthew Sullivan,19:00,0:54:47,17,27,-10,239,39,Shaftesbury Barnet
+2011,Sutton Park,39,Shaftesbury Barnet Harriers,,complete,1:54:36,4,James Trapmore,18:56,1:13:43,27,27,0,232,29,Shaftesbury Barnet
+2011,Sutton Park,39,Shaftesbury Barnet Harriers,,complete,1:54:36,5,Anthony Jackson,20:31,1:34:14,27,39,-12,412,59,Shaftesbury Barnet
+2011,Sutton Park,39,Shaftesbury Barnet Harriers,,complete,1:54:36,6,Tadhg Grant,20:22,1:54:36,39,39,0,399,57,Shaftesbury Barnet
+2011,Sutton Park,40,Harrow AC,,complete,1:54:49,1,Matthew Carey,18:11,0:18:11,,36,,123,36,Harrow AC
+2011,Sutton Park,40,Harrow AC,,complete,1:54:49,2,Jim Cooper,18:53,0:37:04,36,45,-9,225,49,Harrow AC
+2011,Sutton Park,40,Harrow AC,,complete,1:54:49,3,Peter Norris,19:18,0:56:22,45,45,0,284,49,Harrow AC
+2011,Sutton Park,40,Harrow AC,,complete,1:54:49,4,Matthew Judson,20:11,1:16:33,45,48,-3,384,66,Harrow AC
+2011,Sutton Park,40,Harrow AC,,complete,1:54:49,5,Damian Nevins,19:15,1:35:48,48,44,4,274,37,Harrow AC
+2011,Sutton Park,40,Harrow AC,,complete,1:54:49,6,Richard Franzese,19:01,1:54:49,44,40,4,244,28,Harrow AC
+2011,Sutton Park,41,Bideford AAC,,complete,1:54:51,1,Kevin Heywood,17:28,0:17:28,,8,,25,8,Bideford Aac
+2011,Sutton Park,41,Bideford AAC,,complete,1:54:51,2,Steve Gallienne,18:17,0:35:45,8,14,-6,136,29,Bideford Aac
+2011,Sutton Park,41,Bideford AAC,,complete,1:54:51,3,Mark Jenkin,18:34,0:54:19,14,20,-6,181,30,Bideford Aac
+2011,Sutton Park,41,Bideford AAC,,complete,1:54:51,4,Chris Sellens,19:34,1:13:53,20,28,-8,316,46,Bideford Aac
+2011,Sutton Park,41,Bideford AAC,,complete,1:54:51,5,Andrew Ingle,19:16,1:33:09,28,29,-1,279,38,Bideford Aac
+2011,Sutton Park,41,Bideford AAC,,complete,1:54:51,6,Chris Stone,21:42,1:54:51,29,41,-12,448,70,Bideford Aac
+2011,Sutton Park,42,Coventry Godiva Harriers,B,complete,1:54:57,1,Alistair Smith,19:43,0:19:43,,77,,337,77,Coventry Godiva Harriers
+2011,Sutton Park,42,Coventry Godiva Harriers,B,complete,1:54:57,2,Thomas Madden,19:39,0:39:22,77,71,6,327,63,Coventry Godiva Harriers
+2011,Sutton Park,42,Coventry Godiva Harriers,B,complete,1:54:57,3,Mathew Almond,19:00,0:58:22,71,64,7,239,39,Coventry Godiva Harriers
+2011,Sutton Park,42,Coventry Godiva Harriers,B,complete,1:54:57,4,Matthew Lole,19:30,1:17:52,64,59,5,307,42,Coventry Godiva Harriers
+2011,Sutton Park,42,Coventry Godiva Harriers,B,complete,1:54:57,5,Matthew Rose,18:11,1:36:03,59,47,12,123,18,Coventry Godiva Harriers
+2011,Sutton Park,42,Coventry Godiva Harriers,B,complete,1:54:57,6,Tom Bark,18:54,1:54:57,47,42,5,228,24,Coventry Godiva Harriers
+2011,Sutton Park,43,Holmfirth Harriers AC,,complete,1:55:00,1,Matthew Pierson,17:19,0:17:19,,4,,12,4,Holmfirth Harriers
+2011,Sutton Park,43,Holmfirth Harriers AC,,complete,1:55:00,2,Max Kaye,18:27,0:35:46,4,15,-11,155,35,Holmfirth Harriers
+2011,Sutton Park,43,Holmfirth Harriers AC,,complete,1:55:00,3,David Watson,19:21,0:55:07,15,33,-18,293,51,Holmfirth Harriers
+2011,Sutton Park,43,Holmfirth Harriers AC,,complete,1:55:00,4,Richard Smith,18:51,1:13:58,33,29,4,221,28,Holmfirth Harriers
+2011,Sutton Park,43,Holmfirth Harriers AC,,complete,1:55:00,5,Paul Smith,20:15,1:34:13,29,38,-9,391,55,Holmfirth Harriers
+2011,Sutton Park,43,Holmfirth Harriers AC,,complete,1:55:00,6,Julian Rose,20:47,1:55:00,38,43,-5,422,61,Holmfirth Harriers
+2011,Sutton Park,44,Salford Harriers & AC,B,complete,1:55:15,1,Nathan Kilcourse,18:45,0:18:45,,54,,209,54,Salford Harriers & AC
+2011,Sutton Park,44,Salford Harriers & AC,B,complete,1:55:15,2,Robert Hughes,19:10,0:37:55,54,58,-4,264,55,Salford Harriers & AC
+2011,Sutton Park,44,Salford Harriers & AC,B,complete,1:55:15,3,Josh Tighe,19:15,0:57:10,58,54,4,274,48,Salford Harriers & AC
+2011,Sutton Park,44,Salford Harriers & AC,B,complete,1:55:15,4,James Williams,19:50,1:17:00,54,52,2,350,59,Salford Harriers & AC
+2011,Sutton Park,44,Salford Harriers & AC,B,complete,1:55:15,5,Daniel McGrath,19:03,1:36:03,52,46,6,251,32,Salford Harriers & AC
+2011,Sutton Park,44,Salford Harriers & AC,B,complete,1:55:15,6,Philip Leybourne,19:12,1:55:15,46,44,2,270,36,Salford Harriers & AC
+2011,Sutton Park,45,Preston Harriers,,complete,1:55:17,1,Peter Street,17:46,0:17:46,,25,,64,25,Preston Harriers
+2011,Sutton Park,45,Preston Harriers,,complete,1:55:17,2,Robert Affleck,20:00,0:37:46,25,53,-28,369,71,Preston Harriers
+2011,Sutton Park,45,Preston Harriers,,complete,1:55:17,3,Ben Akin,19:09,0:56:55,53,52,1,263,46,Preston Harriers
+2011,Sutton Park,45,Preston Harriers,,complete,1:55:17,4,Callum Rowett,19:59,1:16:54,52,51,1,365,62,Preston Harriers
+2011,Sutton Park,45,Preston Harriers,,complete,1:55:17,5,Kristian Bibby,19:16,1:36:10,51,48,3,279,38,Preston Harriers
+2011,Sutton Park,45,Preston Harriers,,complete,1:55:17,6,David Rigby,19:07,1:55:17,48,45,3,261,33,Preston Harriers
+2011,Sutton Park,46,Brighton & Hove AC,,complete,1:55:43,1,Kev Mason,18:37,0:18:37,,51,,190,51,Brighton And Hove City AC
+2011,Sutton Park,46,Brighton & Hove AC,,complete,1:55:43,2,William Gray,18:24,0:37:01,51,43,8,150,33,Brighton And Hove City AC
+2011,Sutton Park,46,Brighton & Hove AC,,complete,1:55:43,3,Matthew Bristow,20:22,0:57:23,43,55,-12,399,66,Brighton And Hove City AC
+2011,Sutton Park,46,Brighton & Hove AC,,complete,1:55:43,4,Josh Mutch,19:42,1:17:05,55,53,2,334,53,Brighton And Hove City AC
+2011,Sutton Park,46,Brighton & Hove AC,,complete,1:55:43,5,Howard Bristow,19:37,1:36:42,53,52,1,325,44,Brighton And Hove City AC
+2011,Sutton Park,46,Brighton & Hove AC,,complete,1:55:43,6,James Tomlinson,19:01,1:55:43,52,46,6,244,28,Brighton And Hove City AC
+2011,Sutton Park,47,Border Harriers & AC,,complete,1:55:51,1,James Douglas,18:09,0:18:09,,35,,113,35,Border Harriers
+2011,Sutton Park,47,Border Harriers & AC,,complete,1:55:51,2,Jon Fletcher,18:34,0:36:43,35,37,-2,181,39,Border Harriers
+2011,Sutton Park,47,Border Harriers & AC,,complete,1:55:51,3,Peter Harrison,19:52,0:56:35,37,48,-11,353,58,Border Harriers
+2011,Sutton Park,47,Border Harriers & AC,,complete,1:55:51,4,George Thompson,19:48,1:16:23,48,46,2,346,57,Border Harriers
+2011,Sutton Park,47,Border Harriers & AC,,complete,1:55:51,5,Harry Earl,20:53,1:37:16,46,56,-10,427,65,Border Harriers
+2011,Sutton Park,47,Border Harriers & AC,,complete,1:55:51,6,Kevin Bell,18:35,1:55:51,56,47,9,186,23,Border Harriers
+2011,Sutton Park,48,Cheltenham & County Harriers,,complete,1:55:58,1,Dave Roper,18:27,0:18:27,,46,,155,46,Cheltenham Harriers
+2011,Sutton Park,48,Cheltenham & County Harriers,,complete,1:55:58,2,Luke Carroll,18:25,0:36:52,46,40,6,152,34,Cheltenham Harriers
+2011,Sutton Park,48,Cheltenham & County Harriers,,complete,1:55:58,3,Jeremy Bradley,19:25,0:56:17,40,44,-4,298,53,Cheltenham Harriers
+2011,Sutton Park,48,Cheltenham & County Harriers,,complete,1:55:58,4,Andrew Kaighin,19:27,1:15:44,44,44,0,301,39,Cheltenham Harriers
+2011,Sutton Park,48,Cheltenham & County Harriers,,complete,1:55:58,5,Darren Jordan,19:46,1:35:30,44,43,1,341,47,Cheltenham Harriers
+2011,Sutton Park,48,Cheltenham & County Harriers,,complete,1:55:58,6,Andrew Hussey,20:28,1:55:58,43,48,-5,407,58,Cheltenham Harriers
+2011,Sutton Park,49,Charnwood AC,,complete,1:56:01,1,Samuel Densham,19:31,0:19:31,,73,,310,73,Charnwood
+2011,Sutton Park,49,Charnwood AC,,complete,1:56:01,2,Stephen Mears,18:27,0:37:58,73,60,13,155,35,Charnwood
+2011,Sutton Park,49,Charnwood AC,,complete,1:56:01,3,Mark Crofts,19:53,0:57:51,60,59,1,355,60,Charnwood
+2011,Sutton Park,49,Charnwood AC,,complete,1:56:01,4,Jason Williams,19:16,1:17:07,59,54,5,279,35,Charnwood
+2011,Sutton Park,49,Charnwood AC,,complete,1:56:01,5,Tom Whitmore,19:55,1:37:02,54,54,0,357,49,Charnwood
+2011,Sutton Park,49,Charnwood AC,,complete,1:56:01,6,Mark Couldwell,18:59,1:56:01,54,49,5,237,25,Charnwood
+2011,Sutton Park,50,Blackheath & Bromley Harriers AC,,complete,1:56:21,1,Andy Rayner,18:49,0:18:49,,56,,217,56,Blackheath & Bromley Hac
+2011,Sutton Park,50,Blackheath & Bromley Harriers AC,,complete,1:56:21,2,Scott Overall,17:19,0:36:08,56,25,31,12,2,Blackheath & Bromley Hac
+2011,Sutton Park,50,Blackheath & Bromley Harriers AC,,complete,1:56:21,3,Jamie Darling,19:48,0:55:56,25,41,-16,346,57,Blackheath & Bromley Hac
+2011,Sutton Park,50,Blackheath & Bromley Harriers AC,,complete,1:56:21,4,Jack Swallow,19:41,1:15:37,41,43,-2,332,52,Blackheath & Bromley Hac
+2011,Sutton Park,50,Blackheath & Bromley Harriers AC,,complete,1:56:21,5,Ben Harding,20:11,1:35:48,43,45,-2,384,54,Blackheath & Bromley Hac
+2011,Sutton Park,50,Blackheath & Bromley Harriers AC,,complete,1:56:21,6,Glen Turner,20:33,1:56:21,45,50,-5,415,60,Blackheath & Bromley Hac
+2011,Sutton Park,51,Lincoln Wellington AC,,complete,1:56:27,1,Shane Robinson,18:35,0:18:35,,50,,186,50,Lincoln Wellington AC
+2011,Sutton Park,51,Lincoln Wellington AC,,complete,1:56:27,2,Tom Doe,17:56,0:36:31,50,33,17,90,20,Lincoln Wellington AC
+2011,Sutton Park,51,Lincoln Wellington AC,,complete,1:56:27,3,Richard Brown,18:34,0:55:05,33,32,1,181,30,Lincoln Wellington AC
+2011,Sutton Park,51,Lincoln Wellington AC,,complete,1:56:27,4,Joshua Stone,20:05,1:15:10,32,40,-8,375,65,Lincoln Wellington AC
+2011,Sutton Park,51,Lincoln Wellington AC,,complete,1:56:27,5,Matthew Bee,19:46,1:34:56,40,42,-2,341,47,Lincoln Wellington AC
+2011,Sutton Park,51,Lincoln Wellington AC,,complete,1:56:27,6,Paul Samways,21:31,1:56:27,42,51,-9,444,67,Lincoln Wellington AC
+2011,Sutton Park,52,Rotherham Harriers & AC,,complete,1:56:37,1,Rhian Hastey,19:10,0:19:10,,64,,264,64,Rotherham H & AC
+2011,Sutton Park,52,Rotherham Harriers & AC,,complete,1:56:37,2,Philip Hoole,18:20,0:37:30,64,48,16,142,31,Rotherham H & AC
+2011,Sutton Park,52,Rotherham Harriers & AC,,complete,1:56:37,3,Richard Harris,19:19,0:56:49,48,51,-3,286,50,Rotherham H & AC
+2011,Sutton Park,52,Rotherham Harriers & AC,,complete,1:56:37,4,Kyle Craib,19:49,1:16:38,51,49,2,348,58,Rotherham H & AC
+2011,Sutton Park,52,Rotherham Harriers & AC,,complete,1:56:37,5,Chris Adams,19:42,1:36:20,49,50,-1,334,46,Rotherham H & AC
+2011,Sutton Park,52,Rotherham Harriers & AC,,complete,1:56:37,6,Aiden Johnson,20:17,1:56:37,50,52,-2,395,54,Rotherham H & AC
+2011,Sutton Park,53,Hercules Wimbledon AC,,complete,1:56:44,1,Kieran White,18:46,0:18:46,,55,,211,55,Hercules Wimbledon AC
+2011,Sutton Park,53,Hercules Wimbledon AC,,complete,1:56:44,2,Alex Robinson,18:57,0:37:43,55,52,3,234,52,Hercules Wimbledon AC
+2011,Sutton Park,53,Hercules Wimbledon AC,,complete,1:56:44,3,Andrew Penney,18:29,0:56:12,52,43,9,163,23,Hercules Wimbledon AC
+2011,Sutton Park,53,Hercules Wimbledon AC,,complete,1:56:44,4,Philip Glynn,19:59,1:16:11,43,45,-2,365,62,Hercules Wimbledon AC
+2011,Sutton Park,53,Hercules Wimbledon AC,,complete,1:56:44,5,Matthew Sharp,20:03,1:36:14,45,49,-4,372,51,Hercules Wimbledon AC
+2011,Sutton Park,53,Hercules Wimbledon AC,,complete,1:56:44,6,Alex Urban,20:30,1:56:44,49,53,-4,410,59,Hercules Wimbledon AC
+2011,Sutton Park,54,Rossendale Harriers & AC,,complete,1:56:57,1,Christopher Fell,18:41,0:18:41,,53,,200,53,Rossendale Harriers
+2011,Sutton Park,54,Rossendale Harriers & AC,,complete,1:56:57,2,Grant Cunliffe,19:15,0:37:56,53,59,-6,274,56,Rossendale Harriers
+2011,Sutton Park,54,Rossendale Harriers & AC,,complete,1:56:57,3,Joseph Johnston,18:39,0:56:35,59,47,12,195,33,Rossendale Harriers
+2011,Sutton Park,54,Rossendale Harriers & AC,,complete,1:56:57,4,Nick Schofield,19:51,1:16:26,47,47,0,352,60,Rossendale Harriers
+2011,Sutton Park,54,Rossendale Harriers & AC,,complete,1:56:57,5,Joseph Moores,20:16,1:36:42,47,51,-4,394,56,Rossendale Harriers
+2011,Sutton Park,54,Rossendale Harriers & AC,,complete,1:56:57,6,Philip Bolton,20:15,1:56:57,51,54,-3,391,53,Rossendale Harriers
+2011,Sutton Park,55,Trafford AC,,complete,1:56:59,1,Michael Sawrey,18:19,0:18:19,,41,,140,41,Trafford
+2011,Sutton Park,55,Trafford AC,,complete,1:56:59,2,James Bleakley,19:56,0:38:15,41,62,-21,358,67,Trafford
+2011,Sutton Park,55,Trafford AC,,complete,1:56:59,3,John Howe,19:42,0:57:57,62,61,1,334,56,Trafford
+2011,Sutton Park,55,Trafford AC,,complete,1:56:59,4,Jeff Prest,20:02,1:17:59,61,61,0,371,64,Trafford
+2011,Sutton Park,55,Trafford AC,,complete,1:56:59,5,Timothy Egerton,18:52,1:36:51,61,53,8,222,29,Trafford
+2011,Sutton Park,55,Trafford AC,,complete,1:56:59,6,Michael Hunt,20:08,1:56:59,53,55,-2,380,48,Trafford
+2011,Sutton Park,56,Barrow & Furness Striders AC,,complete,1:57:25,1,Peter Huck,18:05,0:18:05,,33,,107,33,Barrow & Furness Striders AC
+2011,Sutton Park,56,Barrow & Furness Striders AC,,complete,1:57:25,2,Jonathan Benson,19:26,0:37:31,33,49,-16,300,60,Barrow & Furness Striders AC
+2011,Sutton Park,56,Barrow & Furness Striders AC,,complete,1:57:25,3,Richard Walker,19:34,0:57:05,49,53,-4,316,55,Barrow & Furness Striders AC
+2011,Sutton Park,56,Barrow & Furness Striders AC,,complete,1:57:25,4,Jed Bartlett,19:40,1:16:45,53,50,3,330,50,Barrow & Furness Striders AC
+2011,Sutton Park,56,Barrow & Furness Striders AC,,complete,1:57:25,5,Dean Miller,20:29,1:37:14,50,55,-5,409,58,Barrow & Furness Striders AC
+2011,Sutton Park,56,Barrow & Furness Striders AC,,complete,1:57:25,6,Philip Waite,20:11,1:57:25,55,56,-1,384,51,Barrow & Furness Striders AC
+2011,Sutton Park,57,Southampton AC,,complete,1:57:39,1,Steven Phillips,17:56,0:17:56,,29,,90,29,Southampton Athletic Club
+2011,Sutton Park,57,Southampton AC,,complete,1:57:39,2,Gareth Klepacz,19:56,0:37:52,29,57,-28,358,67,Southampton Athletic Club
+2011,Sutton Park,57,Southampton AC,,complete,1:57:39,3,Alex Wall-Clarke,19:52,0:57:44,57,57,0,353,58,Southampton Athletic Club
+2011,Sutton Park,57,Southampton AC,,complete,1:57:39,4,Tom Muddiman,19:33,1:17:17,57,55,2,313,45,Southampton Athletic Club
+2011,Sutton Park,57,Southampton AC,,complete,1:57:39,5,Jeremy Curtis,20:05,1:37:22,55,57,-2,375,52,Southampton Athletic Club
+2011,Sutton Park,57,Southampton AC,,complete,1:57:39,6,Jamie Knapp,20:17,1:57:39,57,57,0,395,54,Southampton Athletic Club
+2011,Sutton Park,58,Leigh Harriers & AC,,complete,1:57:46,1,Thomas Boardman,17:40,0:17:40,,17,,48,17,Leigh Harriers & AC
+2011,Sutton Park,58,Leigh Harriers & AC,,complete,1:57:46,2,Neil Pendlebury,20:11,0:37:51,17,56,-39,384,73,Leigh Harriers & AC
+2011,Sutton Park,58,Leigh Harriers & AC,,complete,1:57:46,3,Liam Thompson,19:59,0:57:50,56,58,-2,365,61,Leigh Harriers & AC
+2011,Sutton Park,58,Leigh Harriers & AC,,complete,1:57:46,4,Tony Battersby,19:40,1:17:30,58,56,2,330,50,Leigh Harriers & AC
+2011,Sutton Park,58,Leigh Harriers & AC,,complete,1:57:46,5,Tohmas Knellor,20:37,1:38:07,56,60,-4,418,62,Leigh Harriers & AC
+2011,Sutton Park,58,Leigh Harriers & AC,,complete,1:57:46,6,Tom Henders,19:39,1:57:46,60,58,2,327,42,Leigh Harriers & AC
+2011,Sutton Park,59,Bournville Harriers,,complete,1:57:49,1,Orlando Corea,19:18,0:19:18,,67,,284,67,Bournville Harriers
+2011,Sutton Park,59,Bournville Harriers,,complete,1:57:49,2,Gary Blackman,19:16,0:38:34,67,64,3,279,58,Bournville Harriers
+2011,Sutton Park,59,Bournville Harriers,,complete,1:57:49,3,Paul Thompson,19:23,0:57:57,64,60,4,294,52,Bournville Harriers
+2011,Sutton Park,59,Bournville Harriers,,complete,1:57:49,4,Rob Andrew,19:43,1:17:40,60,57,3,337,54,Bournville Harriers
+2011,Sutton Park,59,Bournville Harriers,,complete,1:57:49,5,Gareth Cadd,20:01,1:37:41,57,59,-2,370,50,Bournville Harriers
+2011,Sutton Park,59,Bournville Harriers,,complete,1:57:49,6,Dean Parker,20:08,1:57:49,59,59,0,380,48,Bournville Harriers
+2011,Sutton Park,60,Southport Waterloo AC,,complete,1:58:04,1,Joseph Vis,18:57,0:18:57,,62,,234,62,Southport Waterloo AC
+2011,Sutton Park,60,Southport Waterloo AC,,complete,1:58:04,2,James Tartt,18:53,0:37:50,62,54,8,225,49,Southport Waterloo AC
+2011,Sutton Park,60,Southport Waterloo AC,,complete,1:58:04,3,Steven Wilkinson,20:20,0:58:10,54,62,-8,398,65,Southport Waterloo AC
+2011,Sutton Park,60,Southport Waterloo AC,,complete,1:58:04,4,Richard Shearer,19:44,1:17:54,62,60,2,340,55,Southport Waterloo AC
+2011,Sutton Park,60,Southport Waterloo AC,,complete,1:58:04,5,David Hamilton,20:36,1:38:30,60,61,-1,417,61,Southport Waterloo AC
+2011,Sutton Park,60,Southport Waterloo AC,,complete,1:58:04,6,Patrick Vis,19:34,1:58:04,61,60,1,316,41,Southport Waterloo AC
+2011,Sutton Park,61,Basingstoke & Mid Hants AC,,complete,1:58:07,1,David Ragan,19:23,0:19:23,,70,,294,70,Basingstke & Mid Hants AC
+2011,Sutton Park,61,Basingstoke & Mid Hants AC,,complete,1:58:07,2,Max Roberts,18:50,0:38:13,70,61,9,219,48,Basingstke & Mid Hants AC
+2011,Sutton Park,61,Basingstoke & Mid Hants AC,,complete,1:58:07,3,Stephen Reid,20:25,0:58:38,61,65,-4,403,68,Basingstke & Mid Hants AC
+2011,Sutton Park,61,Basingstoke & Mid Hants AC,,complete,1:58:07,4,Chris Ladhams,20:28,1:19:06,65,65,0,407,67,Basingstke & Mid Hants AC
+2011,Sutton Park,61,Basingstoke & Mid Hants AC,,complete,1:58:07,5,Tom Watson,20:38,1:39:44,65,65,0,420,63,Basingstke & Mid Hants AC
+2011,Sutton Park,61,Basingstoke & Mid Hants AC,,complete,1:58:07,6,John Hutchins,18:23,1:58:07,65,61,4,147,18,Basingstke & Mid Hants AC
+2011,Sutton Park,62,Hallamshire Harriers Sheffield,,complete,1:58:53,1,Andrew Thake,18:14,0:18:14,,38,,133,38,Hallamshire Harriers Sheffield
+2011,Sutton Park,62,Hallamshire Harriers Sheffield,,complete,1:58:53,2,Joe Gratton,18:19,0:36:33,38,34,4,140,30,Hallamshire Harriers Sheffield
+2011,Sutton Park,62,Hallamshire Harriers Sheffield,,complete,1:58:53,3,Andrew Challenge,19:11,0:55:44,34,39,-5,267,47,Hallamshire Harriers Sheffield
+2011,Sutton Park,62,Hallamshire Harriers Sheffield,,complete,1:58:53,4,Tim Robinson,22:20,1:18:04,39,62,-23,463,75,Hallamshire Harriers Sheffield
+2011,Sutton Park,62,Hallamshire Harriers Sheffield,,complete,1:58:53,5,Matthew Hobbs,19:34,1:37:38,62,58,4,316,42,Hallamshire Harriers Sheffield
+2011,Sutton Park,62,Hallamshire Harriers Sheffield,,complete,1:58:53,6,Dean Furniss,21:15,1:58:53,58,62,-4,438,65,Hallamshire Harriers Sheffield
+2011,Sutton Park,63,Liverpool Pembroke & Sefton Harriers,,complete,1:59:16,1,Ian Roberts,20:12,0:20:12,,81,,388,81,Liverpool Pembroke & Sefton H.
+2011,Sutton Park,63,Liverpool Pembroke & Sefton Harriers,,complete,1:59:16,2,Ben Costello,20:15,0:40:27,81,76,5,391,74,Liverpool Pembroke & Sefton H.
+2011,Sutton Park,63,Liverpool Pembroke & Sefton Harriers,,complete,1:59:16,3,Sean Kirkbride,20:05,1:00:32,76,73,3,375,63,Liverpool Pembroke & Sefton H.
+2011,Sutton Park,63,Liverpool Pembroke & Sefton Harriers,,complete,1:59:16,4,Bernard Murphy,19:46,1:20:18,73,72,1,341,56,Liverpool Pembroke & Sefton H.
+2011,Sutton Park,63,Liverpool Pembroke & Sefton Harriers,,complete,1:59:16,5,Toby Loveridge,18:39,1:38:57,72,62,10,195,23,Liverpool Pembroke & Sefton H.
+2011,Sutton Park,63,Liverpool Pembroke & Sefton Harriers,,complete,1:59:16,6,Robert Bland,20:19,1:59:16,62,63,-1,397,56,Liverpool Pembroke & Sefton H.
+2011,Sutton Park,64,Halesowen A&CC,,complete,2:00:32,1,David Turvey,20:31,0:20:31,,82,,412,82,Halesowen A&cc
+2011,Sutton Park,64,Halesowen A&CC,,complete,2:00:32,2,Christian Booker,19:01,0:39:32,82,72,10,244,53,Halesowen A&cc
+2011,Sutton Park,64,Halesowen A&CC,,complete,2:00:32,3,Mark Turner,20:26,0:59:58,72,71,1,404,69,Halesowen A&cc
+2011,Sutton Park,64,Halesowen A&CC,,complete,2:00:32,4,Nicolas Hazelwoo,19:30,1:19:28,71,68,3,307,42,Halesowen A&cc
+2011,Sutton Park,64,Halesowen A&CC,,complete,2:00:32,5,Tom Trow-Poole,20:51,1:40:19,68,66,2,424,64,Halesowen A&cc
+2011,Sutton Park,64,Halesowen A&CC,,complete,2:00:32,6,Mark Hadley,20:13,2:00:32,66,64,2,389,52,Halesowen A&cc
+2011,Sutton Park,65,Telford AC,,complete,2:01:27,1,Gary Vickers,19:32,0:19:32,,74,,311,74,Telford AC
+2011,Sutton Park,65,Telford AC,,complete,2:01:27,2,Dave Mansbridge,19:47,0:39:19,74,70,4,345,66,Telford AC
+2011,Sutton Park,65,Telford AC,,complete,2:01:27,3,Ryan Heath,21:18,1:00:37,70,74,-4,439,76,Telford AC
+2011,Sutton Park,65,Telford AC,,complete,2:01:27,4,Paul Ward,18:45,1:19:22,74,67,7,209,26,Telford AC
+2011,Sutton Park,65,Telford AC,,complete,2:01:27,5,Jamie Davies,22:00,1:41:22,67,69,-2,457,73,Telford AC
+2011,Sutton Park,65,Telford AC,,complete,2:01:27,6,Greg Wilson,20:05,2:01:27,69,65,4,375,46,Telford AC
+2011,Sutton Park,66,Cirencester AC,,complete,2:01:53,1,Christopher Illm,18:52,0:18:52,,59,,222,58,Cirencester AC
+2011,Sutton Park,66,Cirencester AC,,complete,2:01:53,2,Marc Fallows,19:36,0:38:28,59,63,-4,324,62,Cirencester AC
+2011,Sutton Park,66,Cirencester AC,,complete,2:01:53,3,Barry Sampson,20:26,0:58:54,63,66,-3,404,69,Cirencester AC
+2011,Sutton Park,66,Cirencester AC,,complete,2:01:53,4,Bill Leggate,19:23,1:18:17,66,63,3,294,38,Cirencester AC
+2011,Sutton Park,66,Cirencester AC,,complete,2:01:53,5,Adam Harborow,21:10,1:39:27,63,63,0,435,68,Cirencester AC
+2011,Sutton Park,66,Cirencester AC,,complete,2:01:53,6,Joe Barrowclough,22:26,2:01:53,63,66,-3,464,75,Cirencester AC
+2011,Sutton Park,67,Birmingham Running Athletics & Triathlon (BRAT),B,complete,2:02:47,1,Jonathan Tune,19:59,0:19:59,,80,,365,80,Birmingham Running Athletic An
+2011,Sutton Park,67,Birmingham Running Athletics & Triathlon (BRAT),B,complete,2:02:47,2,Mark Ince,20:04,0:40:03,80,75,5,373,72,Birmingham Running Athletic An
+2011,Sutton Park,67,Birmingham Running Athletics & Triathlon (BRAT),B,complete,2:02:47,3,Christopher Ashf,19:33,0:59:36,75,69,6,313,54,Birmingham Running Athletic An
+2011,Sutton Park,67,Birmingham Running Athletics & Triathlon (BRAT),B,complete,2:02:47,4,Ben Clarson,20:37,1:20:13,69,70,-1,418,68,Birmingham Running Athletic An
+2011,Sutton Park,67,Birmingham Running Athletics & Triathlon (BRAT),B,complete,2:02:47,5,Mark Lawlor,20:35,1:40:48,70,67,3,416,60,Birmingham Running Athletic An
+2011,Sutton Park,67,Birmingham Running Athletics & Triathlon (BRAT),B,complete,2:02:47,6,Stephen Titmarsh,21:59,2:02:47,67,67,0,456,73,Birmingham Running Athletic An
+2011,Sutton Park,68,Durham City Harriers & AC,,complete,2:02:57,1,Michael Grimes,18:07,0:18:07,,34,,110,34,Durham City Harriers
+2011,Sutton Park,68,Durham City Harriers & AC,,complete,2:02:57,2,James Askew,19:43,0:37:50,34,55,-21,337,64,Durham City Harriers
+2011,Sutton Park,68,Durham City Harriers & AC,,complete,2:02:57,3,Liam Ayton,20:22,0:58:12,55,63,-8,399,66,Durham City Harriers
+2011,Sutton Park,68,Durham City Harriers & AC,,complete,2:02:57,4,Daniel Jenkin,19:39,1:17:51,63,58,5,327,49,Durham City Harriers
+2011,Sutton Park,68,Durham City Harriers & AC,,complete,2:02:57,5,Jonathan Wilkins,21:49,1:39:40,58,64,-6,453,71,Durham City Harriers
+2011,Sutton Park,68,Durham City Harriers & AC,,complete,2:02:57,6,C Wilkinson,23:17,2:02:57,64,68,-4,468,76,Durham City Harriers
+2011,Sutton Park,69,Royal Sutton Coldfield AC,,complete,2:03:01,1,Nick Corker,18:56,0:18:56,,61,,232,61,Royal Sutton Coldfield AC
+2011,Sutton Park,69,Royal Sutton Coldfield AC,,complete,2:03:01,2,Oliver Harradenc,19:57,0:38:53,61,67,-6,361,69,Royal Sutton Coldfield AC
+2011,Sutton Park,69,Royal Sutton Coldfield AC,,complete,2:03:01,3,Frederic Trembla,20:30,0:59:23,67,67,0,410,71,Royal Sutton Coldfield AC
+2011,Sutton Park,69,Royal Sutton Coldfield AC,,complete,2:03:01,4,David Long,20:51,1:20:14,67,71,-4,424,69,Royal Sutton Coldfield AC
+2011,Sutton Park,69,Royal Sutton Coldfield AC,,complete,2:03:01,5,Simon Corker,21:00,1:41:14,71,68,3,433,66,Royal Sutton Coldfield AC
+2011,Sutton Park,69,Royal Sutton Coldfield AC,,complete,2:03:01,6,David Liddall,21:47,2:03:01,68,69,-1,452,72,Royal Sutton Coldfield AC
+2011,Sutton Park,70,Leamington Cycling & AC,,complete,2:03:04,1,Guy Allen,19:57,0:19:57,,79,,361,79,Leamington C&ac
+2011,Sutton Park,70,Leamington Cycling & AC,,complete,2:03:04,2,Richard Harper,18:38,0:38:35,79,65,14,193,43,Leamington C&ac
+2011,Sutton Park,70,Leamington Cycling & AC,,complete,2:03:04,3,Christopher Bull,19:03,0:57:38,65,56,9,251,44,Leamington C&ac
+2011,Sutton Park,70,Leamington Cycling & AC,,complete,2:03:04,4,Jamie Langley,21:43,1:19:21,56,66,-10,450,73,Leamington C&ac
+2011,Sutton Park,70,Leamington Cycling & AC,,complete,2:03:04,5,Charlie Eastaugh,22:07,1:41:28,66,70,-4,458,74,Leamington C&ac
+2011,Sutton Park,70,Leamington Cycling & AC,,complete,2:03:04,6,Adrian Mawby,21:36,2:03:04,70,70,0,445,68,Leamington C&ac
+2011,Sutton Park,71,Harborough AC,,complete,2:03:06,1,Sean Fenwick,19:19,0:19:19,,68,,286,68,Harborough AC
+2011,Sutton Park,71,Harborough AC,,complete,2:03:06,2,Jason Pitcher,21:20,0:40:39,68,77,-9,441,77,Harborough AC
+2011,Sutton Park,71,Harborough AC,,complete,2:03:06,3,Daniel Worley,21:12,1:01:51,77,76,1,436,75,Harborough AC
+2011,Sutton Park,71,Harborough AC,,complete,2:03:06,4,Matthew Driver,20:55,1:22:46,76,75,1,429,70,Harborough AC
+2011,Sutton Park,71,Harborough AC,,complete,2:03:06,5,Ady King,21:00,1:43:46,75,74,1,433,66,Harborough AC
+2011,Sutton Park,71,Harborough AC,,complete,2:03:06,6,Andrew Robinson,19:20,2:03:06,74,71,3,290,38,Harborough AC
+2011,Sutton Park,72,Liverpool Harriers & AC,B,complete,2:04:01,1,Ricky Challinor,19:28,0:19:28,,72,,304,72,Liverpool Harriers & AC
+2011,Sutton Park,72,Liverpool Harriers & AC,B,complete,2:04:01,2,Anthony Ashton,19:46,0:39:14,72,69,3,341,65,Liverpool Harriers & AC
+2011,Sutton Park,72,Liverpool Harriers & AC,B,complete,2:04:01,3,Paul Quine,20:51,1:00:05,69,72,-3,424,74,Liverpool Harriers & AC
+2011,Sutton Park,72,Liverpool Harriers & AC,B,complete,2:04:01,4,Laurie Luscombe,19:58,1:20:03,72,69,3,363,61,Liverpool Harriers & AC
+2011,Sutton Park,72,Liverpool Harriers & AC,B,complete,2:04:01,5,Lee Midghall,21:49,1:41:52,69,71,-2,453,71,Liverpool Harriers & AC
+2011,Sutton Park,72,Liverpool Harriers & AC,B,complete,2:04:01,6,Sion Wynne-Willi,22:09,2:04:01,71,72,-1,460,74,Liverpool Harriers & AC
+2011,Sutton Park,73,Les Croupiers,,complete,2:04:48,1,Stuart Crees,19:49,0:19:49,,78,,348,78,Les Croupiers RC
+2011,Sutton Park,73,Les Croupiers,,complete,2:04:48,2,Nicholas Dukes,19:58,0:39:47,78,73,5,363,70,Les Croupiers RC
+2011,Sutton Park,73,Les Croupiers,,complete,2:04:48,3,Nick McGeogh,22:19,1:02:06,73,77,-4,461,78,Les Croupiers RC
+2011,Sutton Park,73,Les Croupiers,,complete,2:04:48,4,Tom Jeffery,21:37,1:23:43,77,76,1,447,72,Les Croupiers RC
+2011,Sutton Park,73,Les Croupiers,,complete,2:04:48,5,Rob Sage,20:09,1:43:52,76,75,1,383,53,Les Croupiers RC
+2011,Sutton Park,73,Les Croupiers,,complete,2:04:48,6,Christian Cobbol,20:56,2:04:48,75,73,2,430,63,Les Croupiers RC
+2011,Sutton Park,74,Gloucester AC,,complete,2:05:03,1,Andrew Renfree,19:25,0:19:25,,71,,298,71,Gloucester AC
+2011,Sutton Park,74,Gloucester AC,,complete,2:05:03,2,Richard De-Camps,19:27,0:38:52,71,66,5,301,61,Gloucester AC
+2011,Sutton Park,74,Gloucester AC,,complete,2:05:03,3,Luke Herbert,20:47,0:59:39,66,70,-4,422,73,Gloucester AC
+2011,Sutton Park,74,Gloucester AC,,complete,2:05:03,4,David Gresswell,21:29,1:21:08,70,73,-3,443,71,Gloucester AC
+2011,Sutton Park,74,Gloucester AC,,complete,2:05:03,5,Steven Haines,22:19,1:43:27,73,73,0,461,75,Gloucester AC
+2011,Sutton Park,74,Gloucester AC,,complete,2:05:03,6,Simon Fortnam,21:36,2:05:03,73,74,-1,445,68,Gloucester AC
+2011,Sutton Park,75,Leicester Coritanian AC,,complete,2:06:31,1,Gordon Lee,18:00,0:18:00,,31,,99,31,Leicester Coritanian A.C.
+2011,Sutton Park,75,Leicester Coritanian AC,,complete,2:06:31,2,Derek Guess,20:57,0:38:57,31,68,-37,431,76,Leicester Coritanian A.C.
+2011,Sutton Park,75,Leicester Coritanian AC,,complete,2:06:31,3,Elliot Hart,20:31,0:59:28,68,68,0,412,72,Leicester Coritanian A.C.
+2011,Sutton Park,75,Leicester Coritanian AC,,complete,2:06:31,4,Craig Sabin,22:38,1:22:06,68,74,-6,465,76,Leicester Coritanian A.C.
+2011,Sutton Park,75,Leicester Coritanian AC,,complete,2:06:31,5,David Pearce,22:43,1:44:49,74,76,-2,466,76,Leicester Coritanian A.C.
+2011,Sutton Park,75,Leicester Coritanian AC,,complete,2:06:31,6,Andrew Hart,21:42,2:06:31,76,75,1,448,70,Leicester Coritanian A.C.
+2011,Sutton Park,76,Worcester AC,,complete,2:07:48,1,Josh Carr,19:34,0:19:34,,75,,316,75,Worcester AC
+2011,Sutton Park,76,Worcester AC,,complete,2:07:48,2,Warren Miles,20:26,0:40:00,75,74,1,404,75,Worcester AC
+2011,Sutton Park,76,Worcester AC,,complete,2:07:48,3,Andrew Peach,22:07,1:02:07,74,78,-4,458,77,Worcester AC
+2011,Sutton Park,76,Worcester AC,,complete,2:07:48,4,David O'Brien,22:57,1:25:04,78,77,1,467,77,Worcester AC
+2011,Sutton Park,76,Worcester AC,,complete,2:07:48,5,Phill Bullock,21:45,1:46:49,77,77,0,451,70,Worcester AC
+2011,Sutton Park,76,Worcester AC,,complete,2:07:48,6,David Jubb,20:59,2:07:48,77,76,1,432,64,Worcester AC
+2011,Sutton Park,,Bolton United Harriers & AC,,incomplete,,1,Anthony Valentin,18:39,0:18:39,,52,,195,52,Bolton United Harriers
+2011,Sutton Park,,Cannock & Stafford AC,,incomplete,,1,Craig Pearson,20:44,0:20:44,,83,,421,83,Cannock & Stafford A C
+2011,Sutton Park,,Herne Hill Harriers,,incomplete,,1,Jeff Cunningham,19:19,0:19:19,,69,,286,68,Herne Hill Harriers
+2011,Sutton Park,,Mansfield Harriers,,incomplete,,1,Luke Cragg,17:24,0:17:24,,7,,20,7,Mansfield Harriers & A.C.
+2011,Sutton Park,,Mansfield Harriers,,incomplete,,2,Stuart King,18:53,0:36:17,7,28,-21,225,49,Mansfield Harriers & A.C.
+2011,Sutton Park,,Mansfield Harriers,,incomplete,,3,Thomas Omara,20:14,0:56:31,28,46,-18,390,64,Mansfield Harriers & A.C.
+2011,Sutton Park,,Mansfield Harriers,,incomplete,,4,Daniel Barkes,21:54,1:18:25,46,64,-18,455,74,Mansfield Harriers & A.C.
+2011,Sutton Park,,Mansfield Harriers,,incomplete,,5,Timothy Raynor,24:11,1:42:36,64,72,-8,469,77,Mansfield Harriers & A.C.
+2011,Sutton Park,,Sale Harriers Manchester,,incomplete,,1,Charles Hulson,18:29,0:18:29,,47,,163,47,Sale Harriers Manchester
+2011,Sutton Park,,Windsor Slough Eton & Hounslow AC,,incomplete,,1,Alexander Tovey,18:54,0:18:54,,60,,228,60,Windsor Slough Eton & Hounslow
+2011,Sutton Park,,Wrexham AAC,,incomplete,,1,Darren Rowlands,19:37,0:19:37,,76,,325,76,Wrexham Aac
+2011,Sutton Park,,Wrexham AAC,,incomplete,,2,Michael Robbins,21:24,0:41:01,76,78,-2,442,78,Wrexham Aac
+2011,Sutton Park,,Wrexham AAC,,incomplete,,3,James Roberts,20:04,1:01:05,78,75,3,373,62,Wrexham Aac

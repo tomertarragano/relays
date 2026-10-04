@@ -1,0 +1,454 @@
+﻿year,venue,team_pos,club,team,team_status,team_time,leg,runner,leg_time,cumulative_time,pos_before_leg,pos_after_leg,places_gained,rank_all_legs_that_year,rank_on_this_leg_that_year,club_as_printed
+2006,Sutton Park,1,Newham & Essex Beagles AC,,complete,1:44:46,1,Michael East,17:25,0:17:25,,2,,10,2,Newham & Essex Beagles
+2006,Sutton Park,1,Newham & Essex Beagles AC,,complete,1:44:46,2,Tom Bilham,17:50,0:35:15,2,1,1,43,12,Newham & Essex Beagles
+2006,Sutton Park,1,Newham & Essex Beagles AC,,complete,1:44:46,3,Mark Warmby,17:15,0:52:30,1,1,0,3,1,Newham & Essex Beagles
+2006,Sutton Park,1,Newham & Essex Beagles AC,,complete,1:44:46,4,Moumin Geele,17:31,1:10:01,1,1,0,19,2,Newham & Essex Beagles
+2006,Sutton Park,1,Newham & Essex Beagles AC,,complete,1:44:46,5,D Mitchinson,17:43,1:27:44,1,1,0,33,5,Newham & Essex Beagles
+2006,Sutton Park,1,Newham & Essex Beagles AC,,complete,1:44:46,6,Mohammed Farah,17:02,1:44:46,1,1,0,1,1,Newham & Essex Beagles
+2006,Sutton Park,2,Tipton Harriers,,complete,1:46:24,1,Ian Mitchell,17:50,0:17:50,,11,,43,11,Tipton Harriers
+2006,Sutton Park,2,Tipton Harriers,,complete,1:46:24,2,Philip Hinch,17:45,0:35:35,11,6,5,34,10,Tipton Harriers
+2006,Sutton Park,2,Tipton Harriers,,complete,1:46:24,3,Neil Burton,17:30,0:53:05,6,3,3,18,3,Tipton Harriers
+2006,Sutton Park,2,Tipton Harriers,,complete,1:46:24,4,M Williams,17:50,1:10:55,3,2,1,43,4,Tipton Harriers
+2006,Sutton Park,2,Tipton Harriers,,complete,1:46:24,5,P Nicholls,17:21,1:28:16,2,2,0,5,1,Tipton Harriers
+2006,Sutton Park,2,Tipton Harriers,,complete,1:46:24,6,Daniel Beier,18:08,1:46:24,2,2,0,77,8,Tipton Harriers
+2006,Sutton Park,3,Bristol & West AC,,complete,1:47:01,1,Kevin Heywood,17:35,0:17:35,,5,,23,5,Bristol & West AC
+2006,Sutton Park,3,Bristol & West AC,,complete,1:47:01,2,John Ward,18:38,0:36:13,5,15,-10,150,34,Bristol & West AC
+2006,Sutton Park,3,Bristol & West AC,,complete,1:47:01,3,Rob Bugden,17:46,0:53:59,15,8,7,37,9,Bristol & West AC
+2006,Sutton Park,3,Bristol & West AC,,complete,1:47:01,4,Martin Cox,17:53,1:11:52,8,5,3,52,6,Bristol & West AC
+2006,Sutton Park,3,Bristol & West AC,,complete,1:47:01,5,Phil Wilie,17:40,1:29:32,5,4,1,28,4,Bristol & West AC
+2006,Sutton Park,3,Bristol & West AC,,complete,1:47:01,6,Rob Whalley,17:29,1:47:01,4,3,1,15,2,Bristol & West AC
+2006,Sutton Park,4,Belgrave Harriers,,complete,1:47:29,1,Stephen Sharp,17:32,0:17:32,,4,,21,4,Belgrave Harriers
+2006,Sutton Park,4,Belgrave Harriers,,complete,1:47:29,2,Paul Freary,17:55,0:35:27,4,5,-1,55,14,Belgrave Harriers
+2006,Sutton Park,4,Belgrave Harriers,,complete,1:47:29,3,Phil Wicks,17:52,0:53:19,5,4,1,50,11,Belgrave Harriers
+2006,Sutton Park,4,Belgrave Harriers,,complete,1:47:29,4,Kris Gauson,18:40,1:11:59,4,8,-4,155,19,Belgrave Harriers
+2006,Sutton Park,4,Belgrave Harriers,,complete,1:47:29,5,Simon Jones,17:39,1:29:38,8,5,3,26,3,Belgrave Harriers
+2006,Sutton Park,4,Belgrave Harriers,,complete,1:47:29,6,David Anderson,17:51,1:47:29,5,4,1,48,5,Belgrave Harriers
+2006,Sutton Park,5,Morpeth Harriers & AC,,complete,1:47:58,1,Dan Samuels,17:28,0:17:28,,3,,13,3,Morpeth Harriers & Ac
+2006,Sutton Park,5,Morpeth Harriers & AC,,complete,1:47:58,2,Michael Morris,18:13,0:35:41,3,8,-5,92,20,Morpeth Harriers & Ac
+2006,Sutton Park,5,Morpeth Harriers & AC,,complete,1:47:58,3,Ian Hudspith,18:14,0:53:55,8,7,1,96,17,Morpeth Harriers & Ac
+2006,Sutton Park,5,Morpeth Harriers & AC,,complete,1:47:58,4,Martin Scaife,17:54,1:11:49,7,3,4,53,7,Morpeth Harriers & Ac
+2006,Sutton Park,5,Morpeth Harriers & AC,,complete,1:47:58,5,Chris Sampson,18:19,1:30:08,3,6,-3,107,11,Morpeth Harriers & Ac
+2006,Sutton Park,5,Morpeth Harriers & AC,,complete,1:47:58,6,Mark Hudspith,17:50,1:47:58,6,5,1,43,4,Morpeth Harriers & Ac
+2006,Sutton Park,6,Aldershot Farnham & District AC,,complete,1:48:03,1,M Mashford,18:30,0:18:30,,35,,126,35,"Aldershot, Farnham & District"
+2006,Sutton Park,6,Aldershot Farnham & District AC,,complete,1:48:03,2,Matt Ashton,17:40,0:36:10,35,13,22,28,9,"Aldershot, Farnham & District"
+2006,Sutton Park,6,Aldershot Farnham & District AC,,complete,1:48:03,3,Ben Moreau,17:42,0:53:52,13,6,7,32,7,"Aldershot, Farnham & District"
+2006,Sutton Park,6,Aldershot Farnham & District AC,,complete,1:48:03,4,E Robinson,18:04,1:11:56,6,7,-1,67,8,"Aldershot, Farnham & District"
+2006,Sutton Park,6,Aldershot Farnham & District AC,,complete,1:48:03,5,Andy Vernon,17:24,1:29:20,7,3,4,9,2,"Aldershot, Farnham & District"
+2006,Sutton Park,6,Aldershot Farnham & District AC,,complete,1:48:03,6,R McCarthy,18:43,1:48:03,3,6,-3,161,17,"Aldershot, Farnham & District"
+2006,Sutton Park,7,Bedford & County AC,,complete,1:48:10,1,Owain Matthews,18:33,0:18:33,,39,,134,38,Bedford & County Ac
+2006,Sutton Park,7,Bedford & County AC,,complete,1:48:10,2,Steve Body,17:52,0:36:25,39,16,23,50,13,Bedford & County Ac
+2006,Sutton Park,7,Bedford & County AC,,complete,1:48:10,3,Matt Janes,17:59,0:54:24,16,13,3,59,12,Bedford & County Ac
+2006,Sutton Park,7,Bedford & County AC,,complete,1:48:10,4,Darren Deed,17:39,1:12:03,13,9,4,26,3,Bedford & County Ac
+2006,Sutton Park,7,Bedford & County AC,,complete,1:48:10,5,Neilson Hall,18:09,1:30:12,9,8,1,81,9,Bedford & County Ac
+2006,Sutton Park,7,Bedford & County AC,,complete,1:48:10,6,James Fewtrell,17:58,1:48:10,8,7,1,58,7,Bedford & County Ac
+2006,Sutton Park,8,Sale Harriers Manchester,,complete,1:48:25,1,Matt Bond,18:10,0:18:10,,25,,85,25,Sale Harriers Manchester
+2006,Sutton Park,8,Sale Harriers Manchester,,complete,1:48:25,2,Glen Comish,17:26,0:35:36,25,7,18,11,4,Sale Harriers Manchester
+2006,Sutton Park,8,Sale Harriers Manchester,,complete,1:48:25,3,Paul Green,18:04,0:53:40,7,5,2,67,13,Sale Harriers Manchester
+2006,Sutton Park,8,Sale Harriers Manchester,,complete,1:48:25,4,Steffan North,18:14,1:11:54,5,6,-1,96,11,Sale Harriers Manchester
+2006,Sutton Park,8,Sale Harriers Manchester,,complete,1:48:25,5,Dan Augustus,18:18,1:30:12,6,7,-1,104,10,Sale Harriers Manchester
+2006,Sutton Park,8,Sale Harriers Manchester,,complete,1:48:25,6,Gareth Raven,18:13,1:48:25,7,8,-1,92,10,Sale Harriers Manchester
+2006,Sutton Park,9,Wells City Harriers,,complete,1:48:48,1,Carl Morris,18:03,0:18:03,,17,,65,17,Wells City Harriers
+2006,Sutton Park,9,Wells City Harriers,,complete,1:48:48,2,A Hennessey,18:09,0:36:12,17,14,3,81,18,Wells City Harriers
+2006,Sutton Park,9,Wells City Harriers,,complete,1:48:48,3,Andrew Baker,18:36,0:54:48,14,16,-2,142,27,Wells City Harriers
+2006,Sutton Park,9,Wells City Harriers,,complete,1:48:48,4,Franck Tickner,17:03,1:11:51,16,4,12,2,1,Wells City Harriers
+2006,Sutton Park,9,Wells City Harriers,,complete,1:48:48,5,Peter Grist,19:03,1:30:54,4,9,-5,210,25,Wells City Harriers
+2006,Sutton Park,9,Wells City Harriers,,complete,1:48:48,6,Ben Tickner,17:54,1:48:48,9,9,0,53,6,Wells City Harriers
+2006,Sutton Park,10,Leeds City AC,,complete,1:49:37,1,Chris Birchall,18:12,0:18:12,,28,,89,27,Leeds City Ac
+2006,Sutton Park,10,Leeds City AC,,complete,1:49:37,2,Martin Hilton,18:36,0:36:48,28,25,3,142,32,Leeds City Ac
+2006,Sutton Park,10,Leeds City AC,,complete,1:49:37,3,Dave Webb,17:29,0:54:17,25,12,13,15,2,Leeds City Ac
+2006,Sutton Park,10,Leeds City AC,,complete,1:49:37,4,Simon Deakin,18:45,1:13:02,12,12,0,165,21,Leeds City Ac
+2006,Sutton Park,10,Leeds City AC,,complete,1:49:37,5,Sean Dirrane,18:50,1:31:52,12,13,-1,177,17,Leeds City Ac
+2006,Sutton Park,10,Leeds City AC,,complete,1:49:37,6,Darran Bilton,17:45,1:49:37,13,10,3,34,3,Leeds City Ac
+2006,Sutton Park,11,Altrincham & District AC,,complete,1:50:31,1,Dave Norman,17:48,0:17:48,,9,,40,9,Altrincham & District Ac
+2006,Sutton Park,11,Altrincham & District AC,,complete,1:50:31,2,Matthew Barnes,17:28,0:35:16,9,2,7,13,6,Altrincham & District Ac
+2006,Sutton Park,11,Altrincham & District AC,,complete,1:50:31,3,Jason Ward,17:47,0:53:03,2,2,0,39,10,Altrincham & District Ac
+2006,Sutton Park,11,Altrincham & District AC,,complete,1:50:31,4,Paul Smith,19:23,1:12:26,2,10,-8,253,38,Altrincham & District Ac
+2006,Sutton Park,11,Altrincham & District AC,,complete,1:50:31,5,Nick Leigh,18:53,1:31:19,10,10,0,183,19,Altrincham & District Ac
+2006,Sutton Park,11,Altrincham & District AC,,complete,1:50:31,6,James Boardman,19:12,1:50:31,10,11,-1,226,25,Altrincham & District Ac
+2006,Sutton Park,12,Kent AC,,complete,1:50:43,1,A Dunwoody,18:35,0:18:35,,40,,141,40,Kent Ac
+2006,Sutton Park,12,Kent AC,,complete,1:50:43,2,Jermaine Mays,17:21,0:35:56,40,9,31,5,2,Kent Ac
+2006,Sutton Park,12,Kent AC,,complete,1:50:43,3,Noel Pollock,18:18,0:54:14,9,10,-1,104,19,Kent Ac
+2006,Sutton Park,12,Kent AC,,complete,1:50:43,4,James Connor,18:33,1:12:47,10,11,-1,134,15,Kent Ac
+2006,Sutton Park,12,Kent AC,,complete,1:50:43,5,Simon Taylor,18:53,1:31:40,11,11,0,183,19,Kent Ac
+2006,Sutton Park,12,Kent AC,,complete,1:50:43,6,Michael Claff,19:03,1:50:43,11,12,-1,210,20,Kent Ac
+2006,Sutton Park,13,Woodford Green AC with Essex Ladies,,complete,1:50:53,1,Matt Davies,19:17,0:19:17,,57,,241,57,Woodford Green & Essex Ladies
+2006,Sutton Park,13,Woodford Green AC with Essex Ladies,,complete,1:50:53,2,Simon Plummer,17:37,0:36:54,57,28,29,24,8,Woodford Green & Essex Ladies
+2006,Sutton Park,13,Woodford Green AC with Essex Ladies,,complete,1:50:53,3,Tom Snow,18:09,0:55:03,28,19,9,81,15,Woodford Green & Essex Ladies
+2006,Sutton Park,13,Woodford Green AC with Essex Ladies,,complete,1:50:53,4,Matt Shone,18:14,1:13:17,19,13,6,96,11,Woodford Green & Essex Ladies
+2006,Sutton Park,13,Woodford Green AC with Essex Ladies,,complete,1:50:53,5,Mark Burgess,18:31,1:31:48,13,12,1,127,13,Woodford Green & Essex Ladies
+2006,Sutton Park,13,Woodford Green AC with Essex Ladies,,complete,1:50:53,6,Kevin Murphy,19:05,1:50:53,12,13,-1,213,21,Woodford Green & Essex Ladies
+2006,Sutton Park,14,Newham & Essex Beagles AC,B,complete,1:50:54,1,Keith Gerrard,18:13,0:18:13,,29,,92,29,Newham & Essex Beagles
+2006,Sutton Park,14,Newham & Essex Beagles AC,B,complete,1:50:54,2,Samatar Farah,18:23,0:36:36,29,20,9,116,26,Newham & Essex Beagles
+2006,Sutton Park,14,Newham & Essex Beagles AC,B,complete,1:50:54,3,Rob Cole,18:42,0:55:18,20,23,-3,159,31,Newham & Essex Beagles
+2006,Sutton Park,14,Newham & Essex Beagles AC,B,complete,1:50:54,4,Scott Sterling,18:56,1:14:14,23,23,0,192,26,Newham & Essex Beagles
+2006,Sutton Park,14,Newham & Essex Beagles AC,B,complete,1:50:54,5,Kairn Stone,18:02,1:32:16,23,14,9,63,7,Newham & Essex Beagles
+2006,Sutton Park,14,Newham & Essex Beagles AC,B,complete,1:50:54,6,John Clarke,18:38,1:50:54,14,14,0,150,16,Newham & Essex Beagles
+2006,Sutton Park,15,Birchfield Harriers,,complete,1:50:54,1,J Ndayisenga,17:21,0:17:21,,1,,5,1,Birchfield Harriers
+2006,Sutton Park,15,Birchfield Harriers,,complete,1:50:54,2,Marc Turner,19:27,0:36:48,1,26,-25,260,54,Birchfield Harriers
+2006,Sutton Park,15,Birchfield Harriers,,complete,1:50:54,3,Oliver Teasel,19:27,0:56:15,26,35,-9,260,46,Birchfield Harriers
+2006,Sutton Park,15,Birchfield Harriers,,complete,1:50:54,4,Zac Kiharah,18:12,1:14:27,35,27,8,89,10,Birchfield Harriers
+2006,Sutton Park,15,Birchfield Harriers,,complete,1:50:54,5,James Trollope,18:04,1:32:31,27,17,10,67,8,Birchfield Harriers
+2006,Sutton Park,15,Birchfield Harriers,,complete,1:50:54,6,Tom Penfold,18:23,1:50:54,17,15,2,116,13,Birchfield Harriers
+2006,Sutton Park,16,Owls AC Leicester,,complete,1:51:16,1,Rory Fraser,18:04,0:18:04,,18,,67,18,Owls Ac
+2006,Sutton Park,16,Owls AC Leicester,,complete,1:51:16,2,P Richardson,18:04,0:36:08,18,12,6,67,17,Owls Ac
+2006,Sutton Park,16,Owls AC Leicester,,complete,1:51:16,3,Matt Adcock,19:16,0:55:24,12,25,-13,239,41,Owls Ac
+2006,Sutton Park,16,Owls AC Leicester,,complete,1:51:16,4,Steve Platts,18:59,1:14:23,25,26,-1,202,27,Owls Ac
+2006,Sutton Park,16,Owls AC Leicester,,complete,1:51:16,5,Chris O'Neil,18:45,1:33:08,26,23,3,165,15,Owls Ac
+2006,Sutton Park,16,Owls AC Leicester,,complete,1:51:16,6,Mark Powell,18:08,1:51:16,23,16,7,77,8,Owls Ac
+2006,Sutton Park,17,Blackheath & Bromley Harriers AC,,complete,1:51:35,1,Jaime Atkinson,18:07,0:18:07,,21,,75,20,Blackheath & Bromley Hac
+2006,Sutton Park,17,Blackheath & Bromley Harriers AC,,complete,1:51:35,2,Joe Mills,18:34,0:36:41,21,21,0,138,30,Blackheath & Bromley Hac
+2006,Sutton Park,17,Blackheath & Bromley Harriers AC,,complete,1:51:35,3,James Poole,18:53,0:55:34,21,26,-5,183,36,Blackheath & Bromley Hac
+2006,Sutton Park,17,Blackheath & Bromley Harriers AC,,complete,1:51:35,4,Mark Steinle,17:50,1:13:24,26,15,11,43,4,Blackheath & Bromley Hac
+2006,Sutton Park,17,Blackheath & Bromley Harriers AC,,complete,1:51:35,5,Alex Gibbons,19:13,1:32:37,15,18,-3,228,29,Blackheath & Bromley Hac
+2006,Sutton Park,17,Blackheath & Bromley Harriers AC,,complete,1:51:35,6,Peter Tucker,18:58,1:51:35,18,17,1,198,19,Blackheath & Bromley Hac
+2006,Sutton Park,18,Liverpool Harriers & AC,,complete,1:51:37,1,P McGlory,18:08,0:18:08,,22,,77,22,Liverpool Harriers & Ac
+2006,Sutton Park,18,Liverpool Harriers & AC,,complete,1:51:37,2,Jon Mellor,17:57,0:36:05,22,11,11,56,15,Liverpool Harriers & Ac
+2006,Sutton Park,18,Liverpool Harriers & AC,,complete,1:51:37,3,John McCole,18:44,0:54:49,11,17,-6,163,33,Liverpool Harriers & Ac
+2006,Sutton Park,18,Liverpool Harriers & AC,,complete,1:51:37,4,C Gunderson,18:41,1:13:30,17,17,0,157,20,Liverpool Harriers & Ac
+2006,Sutton Park,18,Liverpool Harriers & AC,,complete,1:51:37,5,David Catt,18:55,1:32:25,17,16,1,190,22,Liverpool Harriers & Ac
+2006,Sutton Park,18,Liverpool Harriers & AC,,complete,1:51:37,6,Adam Peers,19:12,1:51:37,16,18,-2,226,25,Liverpool Harriers & Ac
+2006,Sutton Park,19,Salford Harriers & AC,,complete,1:51:50,1,Eddie Simpson,18:41,0:18:41,,43,,157,43,Salford Harriers & Ac
+2006,Sutton Park,19,Salford Harriers & AC,,complete,1:51:50,2,Tarus Elly,18:19,0:37:00,43,32,11,107,24,Salford Harriers & Ac
+2006,Sutton Park,19,Salford Harriers & AC,,complete,1:51:50,3,Carl Hardman,18:20,0:55:20,32,24,8,110,20,Salford Harriers & Ac
+2006,Sutton Park,19,Salford Harriers & AC,,complete,1:51:50,4,John Brown,18:06,1:13:26,24,16,8,72,9,Salford Harriers & Ac
+2006,Sutton Park,19,Salford Harriers & AC,,complete,1:51:50,5,P Leybourne,18:52,1:32:18,16,15,1,180,18,Salford Harriers & Ac
+2006,Sutton Park,19,Salford Harriers & AC,,complete,1:51:50,6,Raymond Edgar,19:32,1:51:50,15,19,-4,274,32,Salford Harriers & Ac
+2006,Sutton Park,20,Bristol & West AC,B,complete,1:51:51,1,Dave Bishop,18:28,0:18:28,,34,,124,34,Bristol & West Ac
+2006,Sutton Park,20,Bristol & West AC,B,complete,1:51:51,2,Frank Baddick,18:56,0:37:24,34,41,-7,192,41,Bristol & West Ac
+2006,Sutton Park,20,Bristol & West AC,B,complete,1:51:51,3,Jon Wills,18:17,0:55:41,41,28,13,102,18,Bristol & West Ac
+2006,Sutton Park,20,Bristol & West AC,B,complete,1:51:51,4,Oliver Mott,18:37,1:14:18,28,24,4,144,17,Bristol & West Ac
+2006,Sutton Park,20,Bristol & West AC,B,complete,1:51:51,5,Phil Parry,19:13,1:33:31,24,24,0,228,29,Bristol & West Ac
+2006,Sutton Park,20,Bristol & West AC,B,complete,1:51:51,6,Craig Peters,18:20,1:51:51,24,20,4,110,11,Bristol & West Ac
+2006,Sutton Park,21,Derby AC (inc. Derby & County AC),,complete,1:52:10,1,Ian Williams,18:01,0:18:01,,15,,62,15,Derby Ac
+2006,Sutton Park,21,Derby AC (inc. Derby & County AC),,complete,1:52:10,2,David Westbury,19:27,0:37:28,15,43,-28,260,54,Derby Ac
+2006,Sutton Park,21,Derby AC (inc. Derby & County AC),,complete,1:52:10,3,Alex Pilcher,18:31,0:55:59,43,32,11,127,26,Derby Ac
+2006,Sutton Park,21,Derby AC (inc. Derby & County AC),,complete,1:52:10,4,C Peach,19:01,1:15:00,32,31,1,207,30,Derby Ac
+2006,Sutton Park,21,Derby AC (inc. Derby & County AC),,complete,1:52:10,5,Jonathan Gilby,17:57,1:32:57,31,21,10,56,6,Derby Ac
+2006,Sutton Park,21,Derby AC (inc. Derby & County AC),,complete,1:52:10,6,Richard Weir,19:13,1:52:10,21,21,0,228,27,Derby Ac
+2006,Sutton Park,22,Border Harriers & AC,,complete,1:52:22,1,Jon Fletcher,18:02,0:18:02,,16,,63,16,Border Harriers & Ac
+2006,Sutton Park,22,Border Harriers & AC,,complete,1:52:22,2,Paddy Hamilton,18:29,0:36:31,16,19,-3,125,27,Border Harriers & Ac
+2006,Sutton Park,22,Border Harriers & AC,,complete,1:52:22,3,Ian Rawlinson,18:23,0:54:54,19,18,1,116,22,Border Harriers & Ac
+2006,Sutton Park,22,Border Harriers & AC,,complete,1:52:22,4,Tom Carey,18:37,1:13:31,18,18,0,144,17,Border Harriers & Ac
+2006,Sutton Park,22,Border Harriers & AC,,complete,1:52:22,5,M Pluckrose,19:18,1:32:49,18,19,-1,242,32,Border Harriers & Ac
+2006,Sutton Park,22,Border Harriers & AC,,complete,1:52:22,6,James Douglas,19:33,1:52:22,19,22,-3,278,34,Border Harriers & Ac
+2006,Sutton Park,23,Shaftesbury Barnet Harriers,,complete,1:52:27,1,K Robertson,18:31,0:18:31,,36,,127,36,Shaftsbury Barnet Harriers
+2006,Sutton Park,23,Shaftesbury Barnet Harriers,,complete,1:52:27,2,R Williams,18:13,0:36:44,36,23,13,92,20,Shaftsbury Barnet Harriers
+2006,Sutton Park,23,Shaftesbury Barnet Harriers,,complete,1:52:27,3,D Bannister,17:31,0:54:15,23,11,12,19,4,Shaftsbury Barnet Harriers
+2006,Sutton Park,23,Shaftesbury Barnet Harriers,,complete,1:52:27,4,Daniel Russell,19:27,1:13:42,11,20,-9,260,40,Shaftsbury Barnet Harriers
+2006,Sutton Park,23,Shaftesbury Barnet Harriers,,complete,1:52:27,5,Eric Mayers,20:12,1:33:54,20,27,-7,346,47,Shaftsbury Barnet Harriers
+2006,Sutton Park,23,Shaftesbury Barnet Harriers,,complete,1:52:27,6,Tom Bedford,18:33,1:52:27,27,23,4,134,15,Shaftsbury Barnet Harriers
+2006,Sutton Park,24,Trafford AC,,complete,1:52:29,1,Paul Rockliffe,19:27,0:19:27,,62,,260,62,Trafford Ac
+2006,Sutton Park,24,Trafford AC,,complete,1:52:29,2,Darren Talbot,18:57,0:38:24,62,55,7,195,42,Trafford Ac
+2006,Sutton Park,24,Trafford AC,,complete,1:52:29,3,A Holliday,18:23,0:56:47,55,42,13,116,22,Trafford Ac
+2006,Sutton Park,24,Trafford AC,,complete,1:52:29,4,Gregg Taylor,18:16,1:15:03,42,33,9,100,13,Trafford Ac
+2006,Sutton Park,24,Trafford AC,,complete,1:52:29,5,Chris Leigh,19:05,1:34:08,33,29,4,213,27,Trafford Ac
+2006,Sutton Park,24,Trafford AC,,complete,1:52:29,6,Tim Egerton,18:21,1:52:29,29,24,5,112,12,Trafford Ac
+2006,Sutton Park,25,Herne Hill Harriers,,complete,1:52:36,1,Iain Lockett,18:11,0:18:11,,26,,87,26,Herne Hill Harriers
+2006,Sutton Park,25,Herne Hill Harriers,,complete,1:52:36,2,Alan Barnes,18:19,0:36:30,26,18,8,107,24,Herne Hill Harriers
+2006,Sutton Park,25,Herne Hill Harriers,,complete,1:52:36,3,Michael Dyer,19:27,0:55:57,18,31,-13,260,46,Herne Hill Harriers
+2006,Sutton Park,25,Herne Hill Harriers,,complete,1:52:36,4,Keith Newton,18:45,1:14:42,31,28,3,165,21,Herne Hill Harriers
+2006,Sutton Park,25,Herne Hill Harriers,,complete,1:52:36,5,David Mulvee,19:02,1:33:44,28,26,2,208,24,Herne Hill Harriers
+2006,Sutton Park,25,Herne Hill Harriers,,complete,1:52:36,6,Ben Paviour,18:52,1:52:36,26,25,1,180,18,Herne Hill Harriers
+2006,Sutton Park,26,Cardiff AAC,,complete,1:52:37,1,J Phillips,17:41,0:17:41,,7,,30,7,Cardiff Aac
+2006,Sutton Park,26,Cardiff AAC,,complete,1:52:37,2,Chris Moss,18:18,0:35:59,7,10,-3,104,23,Cardiff Aac
+2006,Sutton Park,26,Cardiff AAC,,complete,1:52:37,3,Andres Jones,18:39,0:54:38,10,15,-5,153,29,Cardiff Aac
+2006,Sutton Park,26,Cardiff AAC,,complete,1:52:37,4,Mike Johnson,19:13,1:13:51,15,21,-6,228,32,Cardiff Aac
+2006,Sutton Park,26,Cardiff AAC,,complete,1:52:37,5,James Williams,19:04,1:32:55,21,20,1,212,26,Cardiff Aac
+2006,Sutton Park,26,Cardiff AAC,,complete,1:52:37,6,Mark Jennings,19:42,1:52:37,20,26,-6,293,37,Cardiff Aac
+2006,Sutton Park,27,Swansea Harriers,,complete,1:52:39,1,David Notman,19:20,0:19:20,,59,,248,59,Swansea Harriers
+2006,Sutton Park,27,Swansea Harriers,,complete,1:52:39,2,R Nichols,19:10,0:38:30,59,57,2,222,48,Swansea Harriers
+2006,Sutton Park,27,Swansea Harriers,,complete,1:52:39,3,Marc Hobbs,18:11,0:56:41,57,40,17,87,16,Swansea Harriers
+2006,Sutton Park,27,Swansea Harriers,,complete,1:52:39,4,Dan Gurmin,19:00,1:15:41,40,36,4,204,28,Swansea Harriers
+2006,Sutton Park,27,Swansea Harriers,,complete,1:52:39,5,Sullivan Smith,18:26,1:34:07,36,28,8,123,12,Swansea Harriers
+2006,Sutton Park,27,Swansea Harriers,,complete,1:52:39,6,Lewys Hobbs,18:32,1:52:39,28,27,1,132,14,Swansea Harriers
+2006,Sutton Park,28,Tipton Harriers,B,complete,1:52:50,1,Mike Buntin,18:22,0:18:22,,32,,115,32,Tipton Harriers
+2006,Sutton Park,28,Tipton Harriers,B,complete,1:52:50,2,J Millington,18:38,0:37:00,32,33,-1,150,34,Tipton Harriers
+2006,Sutton Park,28,Tipton Harriers,B,complete,1:52:50,3,A Humphreys,18:42,0:55:42,33,29,4,159,31,Tipton Harriers
+2006,Sutton Park,28,Tipton Harriers,B,complete,1:52:50,4,Pat Kavanagh,19:16,1:14:58,29,30,-1,239,34,Tipton Harriers
+2006,Sutton Park,28,Tipton Harriers,B,complete,1:52:50,5,Joe Holden,18:37,1:33:35,30,25,5,144,14,Tipton Harriers
+2006,Sutton Park,28,Tipton Harriers,B,complete,1:52:50,6,P Edmondson,19:15,1:52:50,25,28,-3,237,28,Tipton Harriers
+2006,Sutton Park,29,City of Norwich AC,,complete,1:53:25,1,Tommy Salmon,17:59,0:17:59,,13,,59,13,City Of Norwich AC
+2006,Sutton Park,29,City of Norwich AC,,complete,1:53:25,2,Rick Ward,19:06,0:37:05,13,35,-22,217,46,City Of Norwich AC
+2006,Sutton Park,29,City of Norwich AC,,complete,1:53:25,3,Mitchell Goose,18:06,0:55:11,35,21,14,72,14,City Of Norwich AC
+2006,Sutton Park,29,City of Norwich AC,,complete,1:53:25,4,Stu Huntington,19:11,1:14:22,21,25,-4,224,31,City Of Norwich AC
+2006,Sutton Park,29,City of Norwich AC,,complete,1:53:25,5,Steve Cannell,19:52,1:34:14,25,30,-5,313,40,City Of Norwich AC
+2006,Sutton Park,29,City of Norwich AC,,complete,1:53:25,6,Wayne Lincoln,19:11,1:53:25,30,29,1,224,24,City Of Norwich AC
+2006,Sutton Park,30,Sunderland Harriers & AC,,complete,1:53:27,1,Mark Hood,19:10,0:19:10,,55,,222,55,Sunderland Harriers & Ac
+2006,Sutton Park,30,Sunderland Harriers & AC,,complete,1:53:27,2,Patrick Martin,18:10,0:37:20,55,40,15,85,19,Sunderland Harriers & Ac
+2006,Sutton Park,30,Sunderland Harriers & AC,,complete,1:53:27,3,B Rushworth,18:25,0:55:45,40,30,10,120,24,Sunderland Harriers & Ac
+2006,Sutton Park,30,Sunderland Harriers & AC,,complete,1:53:27,4,G Massingham,18:21,1:14:06,30,22,8,112,14,Sunderland Harriers & Ac
+2006,Sutton Park,30,Sunderland Harriers & AC,,complete,1:53:27,5,Jack Martin,18:57,1:33:03,22,22,0,195,23,Sunderland Harriers & Ac
+2006,Sutton Park,30,Sunderland Harriers & AC,,complete,1:53:27,6,George Harden,20:24,1:53:27,22,30,-8,364,51,Sunderland Harriers & Ac
+2006,Sutton Park,31,Owls AC Leicester,B,complete,1:53:43,1,Nick Mapp,18:31,0:18:31,,37,,127,36,Owls Ac
+2006,Sutton Park,31,Owls AC Leicester,B,complete,1:53:43,2,Callum Cullen,18:37,0:37:08,37,36,1,144,33,Owls Ac
+2006,Sutton Park,31,Owls AC Leicester,B,complete,1:53:43,3,Geraint Davies,18:53,0:56:01,36,33,3,183,36,Owls Ac
+2006,Sutton Park,31,Owls AC Leicester,B,complete,1:53:43,4,Ed Highton,19:00,1:15:01,33,32,1,204,28,Owls Ac
+2006,Sutton Park,31,Owls AC Leicester,B,complete,1:53:43,5,Simon May,19:37,1:34:38,32,33,-1,285,35,Owls Ac
+2006,Sutton Park,31,Owls AC Leicester,B,complete,1:53:43,6,Tim Doran,19:05,1:53:43,33,31,2,213,21,Owls Ac
+2006,Sutton Park,32,Aldershot Farnham & District AC,B,complete,1:54:18,1,Brian Stopher,18:50,0:18:50,,48,,177,48,"Aldershot, Farnham & Distri"
+2006,Sutton Park,32,Aldershot Farnham & District AC,B,complete,1:54:18,2,J VanDeventer,19:27,0:38:17,48,51,-3,260,54,"Aldershot, Farnham & Distri"
+2006,Sutton Park,32,Aldershot Farnham & District AC,B,complete,1:54:18,3,Laurence Cox,18:46,0:57:03,51,45,6,170,34,"Aldershot, Farnham & Distri"
+2006,Sutton Park,32,Aldershot Farnham & District AC,B,complete,1:54:18,4,Steve Scullion,18:49,1:15:52,45,39,6,175,24,"Aldershot, Farnham & Distri"
+2006,Sutton Park,32,Aldershot Farnham & District AC,B,complete,1:54:18,5,Steve Ablitt,18:54,1:34:46,39,34,5,187,21,"Aldershot, Farnham & Distri"
+2006,Sutton Park,32,Aldershot Farnham & District AC,B,complete,1:54:18,6,Mike Boucher,19:32,1:54:18,34,32,2,274,32,"Aldershot, Farnham & Distri"
+2006,Sutton Park,33,Lincoln Wellington AC,,complete,1:54:39,1,Tom Doe,17:49,0:17:49,,10,,42,10,Lincoln Wellington Ac
+2006,Sutton Park,33,Lincoln Wellington AC,,complete,1:54:39,2,Matt Bowser,17:29,0:35:18,10,3,7,15,7,Lincoln Wellington Ac
+2006,Sutton Park,33,Lincoln Wellington AC,,complete,1:54:39,3,W Strangeway,19:08,0:54:26,3,14,-11,220,39,Lincoln Wellington Ac
+2006,Sutton Park,33,Lincoln Wellington AC,,complete,1:54:39,4,Ian Kimpton,19:15,1:13:41,14,19,-5,237,33,Lincoln Wellington Ac
+2006,Sutton Park,33,Lincoln Wellington AC,,complete,1:54:39,5,Mark Plaskett,20:50,1:34:31,19,31,-12,391,62,Lincoln Wellington Ac
+2006,Sutton Park,33,Lincoln Wellington AC,,complete,1:54:39,6,Josh Stone,20:08,1:54:39,31,33,-2,340,42,Lincoln Wellington Ac
+2006,Sutton Park,34,Cannock & Stafford AC,,complete,1:54:44,1,Robert Little,19:26,0:19:26,,61,,259,61,Cannock & Stafford Ac
+2006,Sutton Park,34,Cannock & Stafford AC,,complete,1:54:44,2,Tom Humphries,17:27,0:36:53,61,27,34,12,5,Cannock & Stafford Ac
+2006,Sutton Park,34,Cannock & Stafford AC,,complete,1:54:44,3,Chris Powner,18:21,0:55:14,27,22,5,112,21,Cannock & Stafford Ac
+2006,Sutton Park,34,Cannock & Stafford AC,,complete,1:54:44,4,Craig Pearson,20:00,1:15:14,22,34,-12,327,55,Cannock & Stafford Ac
+2006,Sutton Park,34,Cannock & Stafford AC,,complete,1:54:44,5,Paul Lester,19:49,1:35:03,34,36,-2,307,38,Cannock & Stafford Ac
+2006,Sutton Park,34,Cannock & Stafford AC,,complete,1:54:44,6,James Houghton,19:41,1:54:44,36,34,2,291,36,Cannock & Stafford Ac
+2006,Sutton Park,35,Medway & Maidstone AC,,complete,1:54:56,1,Neil Renault,18:00,0:18:00,,14,,61,14,Medway & Maidstone Ac
+2006,Sutton Park,35,Medway & Maidstone AC,,complete,1:54:56,2,M Coleman,19:50,0:37:50,14,48,-34,308,63,Medway & Maidstone Ac
+2006,Sutton Park,35,Medway & Maidstone AC,,complete,1:54:56,3,Barry Royden,19:25,0:57:15,48,48,0,257,45,Medway & Maidstone Ac
+2006,Sutton Park,35,Medway & Maidstone AC,,complete,1:54:56,4,Tom Collins,18:34,1:15:49,48,37,11,138,16,Medway & Maidstone Ac
+2006,Sutton Park,35,Medway & Maidstone AC,,complete,1:54:56,5,Jack Tyler,19:05,1:34:54,37,35,2,213,27,Medway & Maidstone Ac
+2006,Sutton Park,35,Medway & Maidstone AC,,complete,1:54:56,6,G Williams,20:02,1:54:56,35,35,0,330,41,Medway & Maidstone Ac
+2006,Sutton Park,36,Preston Harriers,,complete,1:55:15,1,Peter Street,18:54,0:18:54,,49,,187,49,Preston Harriers & Ac
+2006,Sutton Park,36,Preston Harriers,,complete,1:55:15,2,John Nuttall,19:14,0:38:08,49,49,0,233,50,Preston Harriers & Ac
+2006,Sutton Park,36,Preston Harriers,,complete,1:55:15,3,Chris Livesey,18:25,0:56:33,49,39,10,120,24,Preston Harriers & Ac
+2006,Sutton Park,36,Preston Harriers,,complete,1:55:15,4,Steve Smith,19:23,1:15:56,39,40,-1,253,38,Preston Harriers & Ac
+2006,Sutton Park,36,Preston Harriers,,complete,1:55:15,5,D Parkington,19:55,1:35:51,40,38,2,319,41,Preston Harriers & Ac
+2006,Sutton Park,36,Preston Harriers,,complete,1:55:15,6,Steve Hallias,19:24,1:55:15,38,36,2,255,29,Preston Harriers & Ac
+2006,Sutton Park,37,Gateshead Harriers & AC,,complete,1:55:17,1,Sean Hall,18:25,0:18:25,,33,,120,33,Gateshead Harriers & Ac
+2006,Sutton Park,37,Gateshead Harriers & AC,,complete,1:55:17,2,Chris Parr,18:03,0:36:28,33,17,16,65,16,Gateshead Harriers & Ac
+2006,Sutton Park,37,Gateshead Harriers & AC,,complete,1:55:17,3,Alan Buckley,17:33,0:54:01,17,9,8,22,5,Gateshead Harriers & Ac
+2006,Sutton Park,37,Gateshead Harriers & AC,,complete,1:55:17,4,J Leinonen,19:18,1:13:19,9,14,-5,242,35,Gateshead Harriers & Ac
+2006,Sutton Park,37,Gateshead Harriers & AC,,complete,1:55:17,5,Chris Paton,21:14,1:34:33,14,32,-18,415,66,Gateshead Harriers & Ac
+2006,Sutton Park,37,Gateshead Harriers & AC,,complete,1:55:17,6,Marc Elliott,20:44,1:55:17,32,37,-5,384,56,Gateshead Harriers & Ac
+2006,Sutton Park,38,Coventry Godiva Harriers,,complete,1:55:28,1,E Combstock,19:38,0:19:38,,64,,287,64,Coventry Godiva Harriers
+2006,Sutton Park,38,Coventry Godiva Harriers,,complete,1:55:28,2,Matt Lole,17:48,0:37:26,64,42,22,40,11,Coventry Godiva Harriers
+2006,Sutton Park,38,Coventry Godiva Harriers,,complete,1:55:28,3,Noel Edwards,19:46,0:57:12,42,47,-5,303,55,Coventry Godiva Harriers
+2006,Sutton Park,38,Coventry Godiva Harriers,,complete,1:55:28,4,George Hill,19:28,1:16:40,47,44,3,268,42,Coventry Godiva Harriers
+2006,Sutton Park,38,Coventry Godiva Harriers,,complete,1:55:28,5,Martin Radlak,19:42,1:36:22,44,43,1,293,36,Coventry Godiva Harriers
+2006,Sutton Park,38,Coventry Godiva Harriers,,complete,1:55:28,6,Gareth Deacon,19:06,1:55:28,43,38,5,217,23,Coventry Godiva Harriers
+2006,Sutton Park,39,Cheltenham & County Harriers,,complete,1:55:44,1,Tom Lowe,17:51,0:17:51,,12,,48,12,Cheltenham & County Harriers
+2006,Sutton Park,39,Cheltenham & County Harriers,,complete,1:55:44,2,Julian Wilkie,19:09,0:37:00,12,34,-22,221,47,Cheltenham & County Harriers
+2006,Sutton Park,39,Cheltenham & County Harriers,,complete,1:55:44,3,R Forsbrook,19:14,0:56:14,34,34,0,233,40,Cheltenham & County Harriers
+2006,Sutton Park,39,Cheltenham & County Harriers,,complete,1:55:44,4,Seb Foy,20:06,1:16:20,34,41,-7,335,57,Cheltenham & County Harriers
+2006,Sutton Park,39,Cheltenham & County Harriers,,complete,1:55:44,5,Peter Holmes,19:56,1:36:16,41,42,-1,321,42,Cheltenham & County Harriers
+2006,Sutton Park,39,Cheltenham & County Harriers,,complete,1:55:44,6,Matt Warley,19:28,1:55:44,42,39,3,268,30,Cheltenham & County Harriers
+2006,Sutton Park,40,Harrow AC,,complete,1:55:48,1,Richard Ashe,18:09,0:18:09,,24,,81,24,Harrow Ac
+2006,Sutton Park,40,Harrow AC,,complete,1:55:48,2,Adam Bowden,17:17,0:35:26,24,4,20,4,1,Harrow Ac
+2006,Sutton Park,40,Harrow AC,,complete,1:55:48,3,Mohammed Rahim,19:40,0:55:06,4,20,-16,290,52,Harrow Ac
+2006,Sutton Park,40,Harrow AC,,complete,1:55:48,4,Alan Wray,19:36,1:14:42,20,29,-9,282,43,Harrow Ac
+2006,Sutton Park,40,Harrow AC,,complete,1:55:48,5,Matt Carey,20:26,1:35:08,29,37,-8,369,52,Harrow Ac
+2006,Sutton Park,40,Harrow AC,,complete,1:55:48,6,Mark Cursons,20:40,1:55:48,37,40,-3,379,55,Harrow Ac
+2006,Sutton Park,41,Team Southampton,,complete,1:55:58,1,Mike Beckett,19:50,0:19:50,,66,,308,66,Team Southampton
+2006,Sutton Park,41,Team Southampton,,complete,1:55:58,2,Angus MacLean,17:21,0:37:11,66,37,29,5,2,Team Southampton
+2006,Sutton Park,41,Team Southampton,,complete,1:55:58,3,A Wall-Clarke,19:54,0:57:05,37,46,-9,316,57,Team Southampton
+2006,Sutton Park,41,Team Southampton,,complete,1:55:58,4,Tommy Davies,18:45,1:15:50,46,38,8,165,21,Team Southampton
+2006,Sutton Park,41,Team Southampton,,complete,1:55:58,5,Oli Williams,20:16,1:36:06,38,40,-2,351,48,Team Southampton
+2006,Sutton Park,41,Team Southampton,,complete,1:55:58,6,Russell Osborn,19:52,1:55:58,40,41,-1,313,40,Team Southampton
+2006,Sutton Park,42,Hallamshire Harriers Sheffield,,complete,1:56:05,1,Tom Bailey,18:46,0:18:46,,46,,170,46,Hallamshire Harriers Sheffield
+2006,Sutton Park,42,Hallamshire Harriers Sheffield,,complete,1:56:05,2,Adam Dyson,20:01,0:38:47,46,58,-12,328,65,Hallamshire Harriers Sheffield
+2006,Sutton Park,42,Hallamshire Harriers Sheffield,,complete,1:56:05,3,Andy Thake,18:47,0:57:34,58,51,7,172,35,Hallamshire Harriers Sheffield
+2006,Sutton Park,42,Hallamshire Harriers Sheffield,,complete,1:56:05,4,M Broadhead,19:27,1:17:01,51,47,4,260,40,Hallamshire Harriers Sheffield
+2006,Sutton Park,42,Hallamshire Harriers Sheffield,,complete,1:56:05,5,Rob Baker,19:14,1:36:15,47,41,6,233,31,Hallamshire Harriers Sheffield
+2006,Sutton Park,42,Hallamshire Harriers Sheffield,,complete,1:56:05,6,Gavin Keight,19:50,1:56:05,41,42,-1,308,39,Hallamshire Harriers Sheffield
+2006,Sutton Park,43,Thames Hare & Hounds,,complete,1:56:15,1,John McFarlane,18:06,0:18:06,,19,,72,19,Thames Hare & Hounds
+2006,Sutton Park,43,Thames Hare & Hounds,,complete,1:56:15,2,Simon Wurr,18:51,0:36:57,19,30,-11,179,38,Thames Hare & Hounds
+2006,Sutton Park,43,Thames Hare & Hounds,,complete,1:56:15,3,Andrew Weir,18:39,0:55:36,30,27,3,153,29,Thames Hare & Hounds
+2006,Sutton Park,43,Thames Hare & Hounds,,complete,1:56:15,4,Nic Gould,19:50,1:15:26,27,35,-8,308,49,Thames Hare & Hounds
+2006,Sutton Park,43,Thames Hare & Hounds,,complete,1:56:15,5,A Kennis,20:28,1:35:54,35,39,-4,371,53,Thames Hare & Hounds
+2006,Sutton Park,43,Thames Hare & Hounds,,complete,1:56:15,6,Steve Paddock,20:21,1:56:15,39,43,-4,361,48,Thames Hare & Hounds
+2006,Sutton Park,44,Basingstoke & Mid Hants AC,,complete,1:57:49,1,John Hutchins,18:56,0:18:56,,50,,192,50,Basingstoke & Mid Hants Ac
+2006,Sutton Park,44,Basingstoke & Mid Hants AC,,complete,1:57:49,2,Phil Tulba,18:17,0:37:13,50,38,12,102,22,Basingstoke & Mid Hants Ac
+2006,Sutton Park,44,Basingstoke & Mid Hants AC,,complete,1:57:49,3,David Ragan,19:18,0:56:31,38,38,0,242,42,Basingstoke & Mid Hants Ac
+2006,Sutton Park,44,Basingstoke & Mid Hants AC,,complete,1:57:49,4,Max Roberts,20:20,1:16:51,38,45,-7,359,60,Basingstoke & Mid Hants Ac
+2006,Sutton Park,44,Basingstoke & Mid Hants AC,,complete,1:57:49,5,Jason Palmer,20:39,1:37:30,45,45,0,377,54,Basingstoke & Mid Hants Ac
+2006,Sutton Park,44,Basingstoke & Mid Hants AC,,complete,1:57:49,6,Rob Whittle,20:19,1:57:49,45,44,1,358,47,Basingstoke & Mid Hants Ac
+2006,Sutton Park,45,Southampton Running Club,,complete,1:57:51,1,Rod Finch,18:16,0:18:16,,31,,100,31,Southampton Running Club
+2006,Sutton Park,45,Southampton Running Club,,complete,1:57:51,2,R Coleman,20:04,0:38:20,31,53,-22,332,66,Southampton Running Club
+2006,Sutton Park,45,Southampton Running Club,,complete,1:57:51,3,Dave Branfoot,19:02,0:57:22,53,49,4,208,38,Southampton Running Club
+2006,Sutton Park,45,Southampton Running Club,,complete,1:57:51,4,Jon Grainger,20:52,1:18:14,49,55,-6,392,64,Southampton Running Club
+2006,Sutton Park,45,Southampton Running Club,,complete,1:57:51,5,Pete Davis,20:03,1:38:17,55,52,3,331,43,Southampton Running Club
+2006,Sutton Park,45,Southampton Running Club,,complete,1:57:51,6,A Morgan-Lee,19:34,1:57:51,52,45,7,280,35,Southampton Running Club
+2006,Sutton Park,46,Liverpool Harriers & AC,B,complete,1:58:00,1,Joe Parkinson,19:58,0:19:58,,67,,324,67,Liverpool Harriers & Ac
+2006,Sutton Park,46,Liverpool Harriers & AC,B,complete,1:58:00,2,Bernard Murphy,19:13,0:39:11,67,61,6,228,49,Liverpool Harriers & Ac
+2006,Sutton Park,46,Liverpool Harriers & AC,B,complete,1:58:00,3,Simon McKevitt,19:44,0:58:55,61,62,-1,298,54,Liverpool Harriers & Ac
+2006,Sutton Park,46,Liverpool Harriers & AC,B,complete,1:58:00,4,Luke Reddy,19:22,1:18:17,62,56,6,250,36,Liverpool Harriers & Ac
+2006,Sutton Park,46,Liverpool Harriers & AC,B,complete,1:58:00,5,Glen Groves,19:33,1:37:50,56,48,8,278,34,Liverpool Harriers & Ac
+2006,Sutton Park,46,Liverpool Harriers & AC,B,complete,1:58:00,6,James Meldrum,20:10,1:58:00,48,46,2,343,43,Liverpool Harriers & Ac
+2006,Sutton Park,47,Winchester & District AC,,complete,1:58:19,1,P Killingley,18:57,0:18:57,,51,,195,51,Winchester & District Ac
+2006,Sutton Park,47,Winchester & District AC,,complete,1:58:19,2,Ian Hardcastle,20:06,0:39:03,51,60,-9,335,67,Winchester & District Ac
+2006,Sutton Park,47,Winchester & District AC,,complete,1:58:19,3,Andy Greenleaf,19:34,0:58:37,60,61,-1,280,50,Winchester & District Ac
+2006,Sutton Park,47,Winchester & District AC,,complete,1:58:19,4,Matt King,19:22,1:17:59,61,51,10,250,36,Winchester & District Ac
+2006,Sutton Park,47,Winchester & District AC,,complete,1:58:19,5,N Letchworth,19:45,1:37:44,51,47,4,300,37,Winchester & District Ac
+2006,Sutton Park,47,Winchester & District AC,,complete,1:58:19,6,Adem Omar,20:35,1:58:19,47,47,0,375,53,Winchester & District Ac
+2006,Sutton Park,48,Sale Harriers Manchester,B,complete,1:58:21,1,James Bailey,18:14,0:18:14,,30,,96,30,Sale Harriers Manchester
+2006,Sutton Park,48,Sale Harriers Manchester,B,complete,1:58:21,2,Simon Mills,18:31,0:36:45,30,24,6,127,28,Sale Harriers Manchester
+2006,Sutton Park,48,Sale Harriers Manchester,B,complete,1:58:21,3,Rob Flannery,21:07,0:57:52,24,53,-29,411,70,Sale Harriers Manchester
+2006,Sutton Park,48,Sale Harriers Manchester,B,complete,1:58:21,4,Colin Gell,20:10,1:18:02,53,52,1,343,58,Sale Harriers Manchester
+2006,Sutton Park,48,Sale Harriers Manchester,B,complete,1:58:21,5,Rob Jowett,20:09,1:38:11,52,51,1,341,45,Sale Harriers Manchester
+2006,Sutton Park,48,Sale Harriers Manchester,B,complete,1:58:21,6,C Heys,20:10,1:58:21,51,48,3,343,43,Sale Harriers Manchester
+2006,Sutton Park,49,Blackpool Wyre & Fylde AC,,complete,1:58:22,1,Tom Cunningham,18:58,0:18:58,,52,,198,52,"Blackpool, Wyre & Fylde Ac"
+2006,Sutton Park,49,Blackpool Wyre & Fylde AC,,complete,1:58:22,2,Vaughan Sadler,20:47,0:39:45,52,67,-15,387,71,"Blackpool, Wyre & Fylde Ac"
+2006,Sutton Park,49,Blackpool Wyre & Fylde AC,,complete,1:58:22,3,Anthony Ford,17:41,0:57:26,67,50,17,30,6,"Blackpool, Wyre & Fylde Ac"
+2006,Sutton Park,49,Blackpool Wyre & Fylde AC,,complete,1:58:22,4,Bill Eadie,20:25,1:17:51,50,50,0,365,61,"Blackpool, Wyre & Fylde Ac"
+2006,Sutton Park,49,Blackpool Wyre & Fylde AC,,complete,1:58:22,5,James Unsworth,21:03,1:38:54,50,54,-4,409,65,"Blackpool, Wyre & Fylde Ac"
+2006,Sutton Park,49,Blackpool Wyre & Fylde AC,,complete,1:58:22,6,Malc Eadie,19:28,1:58:22,54,49,5,268,30,"Blackpool, Wyre & Fylde Ac"
+2006,Sutton Park,50,Clevedon Athletic Club,,complete,1:58:53,1,Julian Emery,18:43,0:18:43,,44,,161,44,Clevedon Athletic Club
+2006,Sutton Park,50,Clevedon Athletic Club,,complete,1:58:53,2,Paul Wilson,18:58,0:37:41,44,46,-2,198,43,Clevedon Athletic Club
+2006,Sutton Park,50,Clevedon Athletic Club,,complete,1:58:53,3,Jason Williams,20:05,0:57:46,46,52,-6,333,60,Clevedon Athletic Club
+2006,Sutton Park,50,Clevedon Athletic Club,,complete,1:58:53,4,Kit Stokes,19:58,1:17:44,52,49,3,324,54,Clevedon Athletic Club
+2006,Sutton Park,50,Clevedon Athletic Club,,complete,1:58:53,5,Nick Hides,20:16,1:38:00,49,49,0,351,48,Clevedon Athletic Club
+2006,Sutton Park,50,Clevedon Athletic Club,,complete,1:58:53,6,Steve Hollier,20:53,1:58:53,49,50,-1,394,58,Clevedon Athletic Club
+2006,Sutton Park,51,Peterborough AC,,complete,1:58:58,1,Daniel Pettit,17:37,0:17:37,,6,,24,6,Peterborough Ac
+2006,Sutton Park,51,Peterborough AC,,complete,1:58:58,2,Glen Watts,19:19,0:36:56,6,29,-23,246,51,Peterborough Ac
+2006,Sutton Park,51,Peterborough AC,,complete,1:58:58,3,Matthew Gumby,19:56,0:56:52,29,43,-14,321,59,Peterborough Ac
+2006,Sutton Park,51,Peterborough AC,,complete,1:58:58,4,Andrew Suter,19:46,1:16:38,43,43,0,303,47,Peterborough Ac
+2006,Sutton Park,51,Peterborough AC,,complete,1:58:58,5,Matthew Axton,19:51,1:36:29,43,44,-1,312,39,Peterborough Ac
+2006,Sutton Park,51,Peterborough AC,,complete,1:58:58,6,Jason Burke,22:29,1:58:58,44,51,-7,437,66,Peterborough Ac
+2006,Sutton Park,52,Gosforth Harriers,,complete,1:59:21,1,Lewis Timmins,18:08,0:18:08,,23,,77,22,Gosforth Harriers
+2006,Sutton Park,52,Gosforth Harriers,,complete,1:59:21,2,M Nicholson,18:34,0:36:42,23,22,1,138,30,Gosforth Harriers
+2006,Sutton Park,52,Gosforth Harriers,,complete,1:59:21,3,Paul Hutton,19:47,0:56:29,22,37,-15,305,56,Gosforth Harriers
+2006,Sutton Park,52,Gosforth Harriers,,complete,1:59:21,4,Liam Lavender,20:56,1:17:25,37,48,-11,397,65,Gosforth Harriers
+2006,Sutton Park,52,Gosforth Harriers,,complete,1:59:21,5,Trevor Bird,21:33,1:38:58,48,55,-7,419,67,Gosforth Harriers
+2006,Sutton Park,52,Gosforth Harriers,,complete,1:59:21,6,Drew Graham,20:23,1:59:21,55,52,3,363,50,Gosforth Harriers
+2006,Sutton Park,53,City of Norwich AC,B,complete,1:59:31,1,Craig Hopkins,19:18,0:19:18,,58,,242,58,City Of Norwich Ac
+2006,Sutton Park,53,City of Norwich AC,B,complete,1:59:31,2,Ashley Hallums,19:00,0:38:18,58,52,6,204,45,City Of Norwich Ac
+2006,Sutton Park,53,City of Norwich AC,B,complete,1:59:31,3,James Preston,19:42,0:58:00,52,55,-3,293,53,City Of Norwich Ac
+2006,Sutton Park,53,City of Norwich AC,B,complete,1:59:31,4,Adam Thomas,21:02,1:19:02,55,58,-3,404,68,City Of Norwich Ac
+2006,Sutton Park,53,City of Norwich AC,B,complete,1:59:31,5,Mikey Beamish,20:47,1:39:49,58,60,-2,387,59,City Of Norwich Ac
+2006,Sutton Park,53,City of Norwich AC,B,complete,1:59:31,6,Adam Lewis,19:42,1:59:31,60,53,7,293,37,City Of Norwich Ac
+2006,Sutton Park,54,Elswick Harriers,,complete,1:59:54,1,Ryan McLeod,17:46,0:17:46,,8,,37,8,Elswick Harriers
+2006,Sutton Park,54,Elswick Harriers,,complete,1:59:54,2,Andrew Dougal,19:32,0:37:18,8,39,-31,274,58,Elswick Harriers
+2006,Sutton Park,54,Elswick Harriers,,complete,1:59:54,3,Mark McLeod,19:28,0:56:46,39,41,-2,268,48,Elswick Harriers
+2006,Sutton Park,54,Elswick Harriers,,complete,1:59:54,4,Jonnie Pearson,19:47,1:16:33,41,42,-1,305,48,Elswick Harriers
+2006,Sutton Park,54,Elswick Harriers,,complete,1:59:54,5,Mark Ketley,21:37,1:38:10,42,50,-8,425,69,Elswick Harriers
+2006,Sutton Park,54,Elswick Harriers,,complete,1:59:54,6,Alan Thompson,21:44,1:59:54,50,54,-4,429,64,Elswick Harriers
+2006,Sutton Park,55,Holmfirth Harriers AC,,complete,2:00:03,1,Mark Dewhirst,20:16,0:20:16,,71,,351,71,Holmfirth Harriers Ac
+2006,Sutton Park,55,Holmfirth Harriers AC,,complete,2:00:03,2,N Goodliffe,19:41,0:39:57,71,68,3,291,61,Holmfirth Harriers Ac
+2006,Sutton Park,55,Holmfirth Harriers AC,,complete,2:00:03,3,M Pierson,18:37,0:58:34,68,60,8,144,28,Holmfirth Harriers Ac
+2006,Sutton Park,55,Holmfirth Harriers AC,,complete,2:00:03,4,David Turnbull,19:55,1:18:29,60,57,3,319,52,Holmfirth Harriers Ac
+2006,Sutton Park,55,Holmfirth Harriers AC,,complete,2:00:03,5,Andrew France,20:48,1:39:17,57,56,1,389,60,Holmfirth Harriers Ac
+2006,Sutton Park,55,Holmfirth Harriers AC,,complete,2:00:03,6,Ricky South,20:46,2:00:03,56,55,1,386,57,Holmfirth Harriers Ac
+2006,Sutton Park,56,Wigan Phoenix,,complete,2:00:09,1,Andrew Ward,18:48,0:18:48,,47,,174,47,Wigan Phoenix
+2006,Sutton Park,56,Wigan Phoenix,,complete,2:00:09,2,J Worthington,20:29,0:39:17,47,62,-15,372,69,Wigan Phoenix
+2006,Sutton Park,56,Wigan Phoenix,,complete,2:00:09,3,Roderick Hart,20:06,0:59:23,62,63,-1,335,61,Wigan Phoenix
+2006,Sutton Park,56,Wigan Phoenix,,complete,2:00:09,4,P Darbyshire,19:57,1:19:20,63,61,2,323,53,Wigan Phoenix
+2006,Sutton Park,56,Wigan Phoenix,,complete,2:00:09,5,Matthew Kay,20:17,1:39:37,61,59,2,356,51,Wigan Phoenix
+2006,Sutton Park,56,Wigan Phoenix,,complete,2:00:09,6,Chris Wilson,20:32,2:00:09,59,56,3,374,52,Wigan Phoenix
+2006,Sutton Park,57,East Hull Harriers & AC,,complete,2:00:20,1,Steve Bateson,18:59,0:18:59,,53,,202,53,East Hull Harriers & Ac
+2006,Sutton Park,57,East Hull Harriers & AC,,complete,2:00:20,2,Jonathon Frost,18:45,0:37:44,53,47,6,165,36,East Hull Harriers & Ac
+2006,Sutton Park,57,East Hull Harriers & AC,,complete,2:00:20,3,Peter Elletson,20:20,0:58:04,47,56,-9,359,63,East Hull Harriers & Ac
+2006,Sutton Park,57,East Hull Harriers & AC,,complete,2:00:20,4,Ian Grewar,21:05,1:19:09,56,59,-3,410,69,East Hull Harriers & Ac
+2006,Sutton Park,57,East Hull Harriers & AC,,complete,2:00:20,5,Chris Hodgson,20:16,1:39:25,59,58,1,351,48,East Hull Harriers & Ac
+2006,Sutton Park,57,East Hull Harriers & AC,,complete,2:00:20,6,James Rogers,20:55,2:00:20,58,57,1,396,59,East Hull Harriers & Ac
+2006,Sutton Park,58,Mansfield Harriers,,complete,2:00:44,1,Steve Lisgo,20:13,0:20:13,,70,,348,70,Mansfield Harriers & Ac
+2006,Sutton Park,58,Mansfield Harriers,,complete,2:00:44,2,James Mee,19:30,0:39:43,70,66,4,273,57,Mansfield Harriers & Ac
+2006,Sutton Park,58,Mansfield Harriers,,complete,2:00:44,3,Chris Brown,20:25,1:00:08,66,65,1,365,64,Mansfield Harriers & Ac
+2006,Sutton Park,58,Mansfield Harriers,,complete,2:00:44,4,Stuart King,19:42,1:19:50,65,64,1,293,45,Mansfield Harriers & Ac
+2006,Sutton Park,58,Mansfield Harriers,,complete,2:00:44,5,Russ Betts,20:41,1:40:31,64,61,3,380,56,Mansfield Harriers & Ac
+2006,Sutton Park,58,Mansfield Harriers,,complete,2:00:44,6,Peter Stafford,20:13,2:00:44,61,58,3,348,46,Mansfield Harriers & Ac
+2006,Sutton Park,59,Morpeth Harriers & AC,B,complete,2:00:50,1,Nick Swinburn,18:40,0:18:40,,42,,155,42,Morpeth Harriers & Ac
+2006,Sutton Park,59,Morpeth Harriers & AC,B,complete,2:00:50,2,Jonny Young,18:55,0:37:35,42,45,-3,190,40,Morpeth Harriers & Ac
+2006,Sutton Park,59,Morpeth Harriers & AC,B,complete,2:00:50,3,Robert Balmbra,20:25,0:58:00,45,54,-9,365,64,Morpeth Harriers & Ac
+2006,Sutton Park,59,Morpeth Harriers & AC,B,complete,2:00:50,4,A Lawrence,20:05,1:18:05,54,53,1,333,56,Morpeth Harriers & Ac
+2006,Sutton Park,59,Morpeth Harriers & AC,B,complete,2:00:50,5,Ben Harrison,19:32,1:37:37,53,46,7,274,33,Morpeth Harriers & Ac
+2006,Sutton Park,59,Morpeth Harriers & AC,B,complete,2:00:50,6,D Swinburne,23:13,2:00:50,46,59,-13,444,69,Morpeth Harriers & Ac
+2006,Sutton Park,60,Leamington Cycling & AC,,complete,2:01:40,1,Simon Kinson,20:25,0:20:25,,72,,365,72,Leamington C & Ac
+2006,Sutton Park,60,Leamington Cycling & AC,,complete,2:01:40,2,Richard Harper,19:58,0:40:23,72,71,1,324,64,Leamington C & Ac
+2006,Sutton Park,60,Leamington Cycling & AC,,complete,2:01:40,3,Paul Harwood,19:39,1:00:02,71,64,7,289,51,Leamington C & Ac
+2006,Sutton Park,60,Leamington Cycling & AC,,complete,2:01:40,4,Andrew Geen,20:27,1:20:29,64,66,-2,370,62,Leamington C & Ac
+2006,Sutton Park,60,Leamington Cycling & AC,,complete,2:01:40,5,John Muddeman,20:09,1:40:38,66,62,4,341,45,Leamington C & Ac
+2006,Sutton Park,60,Leamington Cycling & AC,,complete,2:01:40,6,S Cornfield,21:02,2:01:40,62,60,2,404,60,Leamington C & Ac
+2006,Sutton Park,61,Telford AC,,complete,2:01:56,1,Wayne Daspher,19:25,0:19:25,,60,,257,60,Telford Athletic Club
+2006,Sutton Park,61,Telford AC,,complete,2:01:56,2,Chris Bagshaw,19:38,0:39:03,60,59,1,287,60,Telford Athletic Club
+2006,Sutton Park,61,Telford AC,,complete,2:01:56,3,Dan Lewis,19:24,0:58:27,59,58,1,255,44,Telford Athletic Club
+2006,Sutton Park,61,Telford AC,,complete,2:01:56,4,John Sanders,19:44,1:18:11,58,54,4,298,46,Telford Athletic Club
+2006,Sutton Park,61,Telford AC,,complete,2:01:56,5,Steve Needs,20:41,1:38:52,54,53,1,380,56,Telford Athletic Club
+2006,Sutton Park,61,Telford AC,,complete,2:01:56,6,Paul Williams,23:04,2:01:56,53,61,-8,443,68,Telford Athletic Club
+2006,Sutton Park,62,Bromsgrove & Redditch,,complete,2:02:11,1,M Addison,19:14,0:19:14,,56,,233,56,Bromsgrove & Redditch AC
+2006,Sutton Park,62,Bromsgrove & Redditch,,complete,2:02:11,2,James Adie,18:58,0:38:12,56,50,6,198,43,Bromsgrove & Redditch AC
+2006,Sutton Park,62,Bromsgrove & Redditch,,complete,2:02:11,3,Philip Carbutt,20:16,0:58:28,50,59,-9,351,62,Bromsgrove & Redditch AC
+2006,Sutton Park,62,Bromsgrove & Redditch,,complete,2:02:11,4,D Henderson,20:56,1:19:24,59,62,-3,397,65,Bromsgrove & Redditch AC
+2006,Sutton Park,62,Bromsgrove & Redditch,,complete,2:02:11,5,Ross Matthews,21:40,1:41:04,62,63,-1,427,70,Bromsgrove & Redditch AC
+2006,Sutton Park,62,Bromsgrove & Redditch,,complete,2:02:11,6,Kevin Lanckham,21:07,2:02:11,63,62,1,411,61,Bromsgrove & Redditch AC
+2006,Sutton Park,63,Kidderminster & Stourport AC,,complete,2:03:17,1,Mat Granger,20:06,0:20:06,,69,,335,69,Kidderminster & Stourport Ac
+2006,Sutton Park,63,Kidderminster & Stourport AC,,complete,2:03:17,2,Tom Kenderdine,19:21,0:39:27,69,65,4,249,52,Kidderminster & Stourport Ac
+2006,Sutton Park,63,Kidderminster & Stourport AC,,complete,2:03:17,3,Steve Smith,21:02,1:00:29,65,68,-3,404,68,Kidderminster & Stourport Ac
+2006,Sutton Park,63,Kidderminster & Stourport AC,,complete,2:03:17,4,Alan Jackson,19:53,1:20:22,68,65,3,315,50,Kidderminster & Stourport Ac
+2006,Sutton Park,63,Kidderminster & Stourport AC,,complete,2:03:17,5,Steve Poulton,21:34,1:41:56,65,64,1,420,68,Kidderminster & Stourport Ac
+2006,Sutton Park,63,Kidderminster & Stourport AC,,complete,2:03:17,6,Gary Corbett,21:21,2:03:17,64,63,1,417,63,Kidderminster & Stourport Ac
+2006,Sutton Park,64,Poole Runners,,complete,2:03:34,1,Kyle Hackett,19:06,0:19:06,,54,,217,54,Poole Runners
+2006,Sutton Park,64,Poole Runners,,complete,2:03:34,2,Martin Lewis,19:22,0:38:28,54,56,-2,250,53,Poole Runners
+2006,Sutton Park,64,Poole Runners,,complete,2:03:34,3,John Towner,21:50,1:00:18,56,66,-10,431,72,Poole Runners
+2006,Sutton Park,64,Poole Runners,,complete,2:03:34,4,Daniel Cheney,22:25,1:22:43,66,70,-4,436,74,Poole Runners
+2006,Sutton Park,64,Poole Runners,,complete,2:03:34,5,Peter Ferenczy,20:39,1:43:22,70,67,3,377,54,Poole Runners
+2006,Sutton Park,64,Poole Runners,,complete,2:03:34,6,Matthew Clark,20:12,2:03:34,67,64,3,346,45,Poole Runners
+2006,Sutton Park,65,Halesowen A&CC,,complete,2:05:00,1,Nic Hazelwood,20:01,0:20:01,,68,,328,68,Halesowen A & Cc
+2006,Sutton Park,65,Halesowen A&CC,,complete,2:05:00,2,Dominik Morton,20:18,0:40:19,68,70,-2,357,68,Halesowen A & Cc
+2006,Sutton Park,65,Halesowen A&CC,,complete,2:05:00,3,Richard White,21:24,1:01:43,70,70,0,418,71,Halesowen A & Cc
+2006,Sutton Park,65,Halesowen A&CC,,complete,2:05:00,4,Matthew Clay,19:36,1:21:19,70,68,2,282,43,Halesowen A & Cc
+2006,Sutton Park,65,Halesowen A&CC,,complete,2:05:00,5,Barry Thompson,21:02,1:42:21,68,66,2,404,64,Halesowen A & Cc
+2006,Sutton Park,65,Halesowen A&CC,,complete,2:05:00,6,Steve Gould,22:39,2:05:00,66,66,0,438,67,Halesowen A & Cc
+2006,Sutton Park,66,Severn AC,,complete,2:05:41,1,Josh Lilly,18:07,0:18:07,,20,,75,20,Severn Ac
+2006,Sutton Park,66,Severn AC,,complete,2:05:41,2,Tim Dalton,18:52,0:36:59,20,31,-11,180,39,Severn Ac
+2006,Sutton Park,66,Severn AC,,complete,2:05:41,3,Peter Stephens,19:19,0:56:18,31,36,-5,246,43,Severn Ac
+2006,Sutton Park,66,Severn AC,,complete,2:05:41,4,Stewart Lynas,23:00,1:19:18,36,60,-24,441,75,Severn Ac
+2006,Sutton Park,66,Severn AC,,complete,2:05:41,5,Steve Hale,23:01,1:42:19,60,65,-5,442,73,Severn Ac
+2006,Sutton Park,66,Severn AC,,complete,2:05:41,6,Dave Gilbert,23:22,2:05:41,65,67,-2,445,70,Severn Ac
+2006,Sutton Park,67,Rugby & Northampton AC,,complete,2:06:29,1,Vince Carroll,20:44,0:20:44,,73,,384,73,Rugby & Northampton Ac
+2006,Sutton Park,67,Rugby & Northampton AC,,complete,2:06:29,2,Brian Summers,21:35,0:42:19,73,73,0,421,74,Rugby & Northampton Ac
+2006,Sutton Park,67,Rugby & Northampton AC,,complete,2:06:29,3,Steve Emery,20:59,1:03:18,73,73,0,401,67,Rugby & Northampton Ac
+2006,Sutton Park,67,Rugby & Northampton AC,,complete,2:06:29,4,Steve Reeves,20:57,1:24:15,73,73,0,400,67,Rugby & Northampton Ac
+2006,Sutton Park,67,Rugby & Northampton AC,,complete,2:06:29,5,Tom Cleary,20:59,1:45:14,73,70,3,401,63,Rugby & Northampton Ac
+2006,Sutton Park,67,Rugby & Northampton AC,,complete,2:06:29,6,Brendan Moen,21:15,2:06:29,70,68,2,416,62,Rugby & Northampton Ac
+2006,Sutton Park,68,Newcastle (Staffs) AC,,complete,2:06:32,1,P Bradshaw,18:33,0:18:33,,38,,134,38,Newcastle (staffs) Ac
+2006,Sutton Park,68,Newcastle (Staffs) AC,,complete,2:06:32,2,S Ratcliffe,21:40,0:40:13,38,69,-31,427,76,Newcastle (staffs) Ac
+2006,Sutton Park,68,Newcastle (Staffs) AC,,complete,2:06:32,3,Tim Twentyman,22:11,1:02:24,69,72,-3,434,75,Newcastle (staffs) Ac
+2006,Sutton Park,68,Newcastle (Staffs) AC,,complete,2:06:32,4,Martin Bailey,21:35,1:23:59,72,72,0,421,71,Newcastle (staffs) Ac
+2006,Sutton Park,68,Newcastle (Staffs) AC,,complete,2:06:32,5,Ben Liu,20:49,1:44:48,72,68,4,390,61,Newcastle (staffs) Ac
+2006,Sutton Park,68,Newcastle (Staffs) AC,,complete,2:06:32,6,Ian Sparks,21:44,2:06:32,68,69,-1,429,64,Newcastle (staffs) Ac
+2006,Sutton Park,69,Coventry Godiva Harriers,B,complete,2:06:53,1,Andrew Gray,24:03,0:24:03,,76,,448,76,Coventry Godiva Harriers
+2006,Sutton Park,69,Coventry Godiva Harriers,B,complete,2:06:53,2,James Griggs,20:59,0:45:02,76,76,0,401,72,Coventry Godiva Harriers
+2006,Sutton Park,69,Coventry Godiva Harriers,B,complete,2:06:53,3,Daniel Clarke,20:52,1:05:54,76,76,0,392,66,Coventry Godiva Harriers
+2006,Sutton Park,69,Coventry Godiva Harriers,B,complete,2:06:53,4,S Sinclair,20:30,1:26:24,76,75,1,373,63,Coventry Godiva Harriers
+2006,Sutton Park,69,Coventry Godiva Harriers,B,complete,2:06:53,5,Harvey Speed,20:07,1:46:31,75,71,4,339,44,Coventry Godiva Harriers
+2006,Sutton Park,69,Coventry Godiva Harriers,B,complete,2:06:53,6,Alistair Smith,20:22,2:06:53,71,70,1,362,49,Coventry Godiva Harriers
+2006,Sutton Park,70,Durham City Harriers & AC,,complete,2:08:55,1,Shaun Moralee,18:12,0:18:12,,27,,89,27,Durham City Harriers & Ac
+2006,Sutton Park,70,Durham City Harriers & AC,,complete,2:08:55,2,Ian Hesler,21:07,0:39:19,27,63,-36,411,73,Durham City Harriers & Ac
+2006,Sutton Park,70,Durham City Harriers & AC,,complete,2:08:55,3,Graeme Hunt,21:02,1:00:21,63,67,-4,404,68,Durham City Harriers & Ac
+2006,Sutton Park,70,Durham City Harriers & AC,,complete,2:08:55,4,Steve Marshall,21:35,1:21:56,67,69,-2,421,71,Durham City Harriers & Ac
+2006,Sutton Park,70,Durham City Harriers & AC,,complete,2:08:55,5,Fred Hamlin,22:57,1:44:53,69,69,0,440,72,Durham City Harriers & Ac
+2006,Sutton Park,70,Durham City Harriers & AC,,complete,2:08:55,6,Francis Turner,24:02,2:08:55,69,71,-2,447,71,Durham City Harriers & Ac
+2006,Sutton Park,71,Huncote Harriers,,complete,2:09:28,1,Dave Eggington,20:53,0:20:53,,74,,394,74,Huncote Harriers
+2006,Sutton Park,71,Huncote Harriers,,complete,2:09:28,2,Andy Ball,21:37,0:42:30,74,74,0,425,75,Huncote Harriers
+2006,Sutton Park,71,Huncote Harriers,,complete,2:09:28,3,Eric Carter,21:56,1:04:26,74,75,-1,433,74,Huncote Harriers
+2006,Sutton Park,71,Huncote Harriers,,complete,2:09:28,4,Nick Taylor,21:36,1:26:02,75,74,1,424,73,Huncote Harriers
+2006,Sutton Park,71,Huncote Harriers,,complete,2:09:28,5,Mark Crofts,22:49,1:48:51,74,74,0,439,71,Huncote Harriers
+2006,Sutton Park,71,Huncote Harriers,,complete,2:09:28,6,Craig Sabin,20:37,2:09:28,74,72,2,376,54,Huncote Harriers
+2006,Sutton Park,72,Solihull & Small Heath AC,,complete,2:12:12,1,J Ashley,20:56,0:20:56,,75,,397,75,Solihull & Small Heath Ac
+2006,Sutton Park,72,Solihull & Small Heath AC,,complete,2:12:12,2,Andrew Kaar,20:43,0:41:39,75,72,3,382,70,Solihull & Small Heath Ac
+2006,Sutton Park,72,Solihull & Small Heath AC,,complete,2:12:12,3,S Schouten,21:53,1:03:32,72,74,-2,432,73,Solihull & Small Heath Ac
+2006,Sutton Park,72,Solihull & Small Heath AC,,complete,2:12:12,4,Lidgate-Taylor,20:15,1:23:47,74,71,3,350,59,Solihull & Small Heath Ac
+2006,Sutton Park,72,Solihull & Small Heath AC,,complete,2:12:12,5,Roy Dale,23:35,1:47:22,71,72,-1,446,74,Solihull & Small Heath Ac
+2006,Sutton Park,72,Solihull & Small Heath AC,,complete,2:12:12,6,Jim Shanahan,24:50,2:12:12,72,73,-1,449,72,Solihull & Small Heath Ac
+2006,Sutton Park,73,Dudley & Stourbridge Harriers,,complete,2:12:32,1,Paul Waby,19:45,0:19:45,,65,,300,65,Dudley & Stourbridge Harriers
+2006,Sutton Park,73,Dudley & Stourbridge Harriers,,complete,2:12:32,2,Lee Slater,19:37,0:39:22,65,64,1,285,59,Dudley & Stourbridge Harriers
+2006,Sutton Park,73,Dudley & Stourbridge Harriers,,complete,2:12:32,3,Mark Staves,22:22,1:01:44,64,71,-7,435,76,Dudley & Stourbridge Harriers
+2006,Sutton Park,73,Dudley & Stourbridge Harriers,,complete,2:12:32,4,Kevin Wadeley,25:09,1:26:53,71,76,-5,452,76,Dudley & Stourbridge Harriers
+2006,Sutton Park,73,Dudley & Stourbridge Harriers,,complete,2:12:32,5,Darren Cooper,20:43,1:47:36,76,73,3,382,58,Dudley & Stourbridge Harriers
+2006,Sutton Park,73,Dudley & Stourbridge Harriers,,complete,2:12:32,6,Eddie Fletcher,24:56,2:12:32,73,74,-1,451,74,Dudley & Stourbridge Harriers
+2006,Sutton Park,,Belgrave Harriers,B,incomplete,,1,John Kimaiyo,18:44,0:18:44,,45,,163,45,Belgrave Harriers
+2006,Sutton Park,,Belgrave Harriers,B,incomplete,,2,Malachi Byansi,18:49,0:37:33,45,44,1,175,37,Belgrave Harriers
+2006,Sutton Park,,Belgrave Harriers,B,incomplete,,3,Peter Willis,19:29,0:57:02,44,44,0,272,49,Belgrave Harriers
+2006,Sutton Park,,Belgrave Harriers,B,incomplete,,4,Mark Humphrey,19:54,1:16:56,44,46,-2,316,51,Belgrave Harriers
+2006,Sutton Park,,Horwich RMI Harriers,,incomplete,,1,A Murray,19:36,0:19:36,,63,,282,63,Horwich Rmi Harriers & Ac
+2006,Sutton Park,,Notts AC,,non-counter,2:04:15,1,Bruce Raeside,25:23,0:25:23,,77,,453,77,Notts Ac
+2006,Sutton Park,,Notts AC,,non-counter,2:04:15,2,Rob Birchall,18:32,0:43:55,77,75,2,132,29,Notts Ac
+2006,Sutton Park,,Notts AC,,non-counter,2:04:15,3,Nick Talbot,17:45,1:01:40,75,69,6,34,8,Notts Ac
+2006,Sutton Park,,Notts AC,,non-counter,2:04:15,4,Matt Blunden,18:54,1:20:34,69,67,2,187,25,Notts Ac
+2006,Sutton Park,,Notts AC,,non-counter,2:04:15,5,Darren Fowlie,18:47,1:39:21,67,57,10,172,16,Notts Ac
+2006,Sutton Park,,Notts AC,,non-counter,2:04:15,6,James Hayden,24:54,2:04:15,57,65,-8,450,73,Notts Ac
+2006,Sutton Park,,Thames Valley Harriers,,incomplete,,1,James Sumpter,18:37,0:18:37,,41,,144,41,Thames Valley Harriers
+2006,Sutton Park,,Thames Valley Harriers,,incomplete,,2,S Da,19:45,0:38:22,41,54,-13,300,62,Thames Valley Harriers
+2006,Sutton Park,,Thames Valley Harriers,,incomplete,,3,Stephen Norris,19:54,0:58:16,54,57,-3,316,57,Thames Valley Harriers
+2006,Sutton Park,,Thames Valley Harriers,,incomplete,,4,Philip Wetton,21:09,1:19:25,57,63,-6,414,70,Thames Valley Harriers

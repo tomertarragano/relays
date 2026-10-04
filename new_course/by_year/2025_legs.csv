@@ -1,0 +1,468 @@
+﻿year,venue,team_pos,club,team,team_status,team_time,leg,runner,leg_time,cumulative_time,pos_before_leg,pos_after_leg,places_gained,rank_all_legs_that_year,rank_on_this_leg_that_year,club_as_printed
+2025,New course,1,Cambridge & Coleridge AC,A,complete,1:36:42,1,Nathan Mapperley,15:56,0:15:56,,6,,16,6,Cambridge & Coleridge Ac
+2025,New course,1,Cambridge & Coleridge AC,A,complete,1:36:42,2,Thomas Keen,16:25,0:32:21,6,4,2,54,11,Cambridge & Coleridge Ac
+2025,New course,1,Cambridge & Coleridge AC,A,complete,1:36:42,3,Dominic Jones,16:19,0:48:40,4,1,3,40,2,Cambridge & Coleridge Ac
+2025,New course,1,Cambridge & Coleridge AC,A,complete,1:36:42,4,Escalantephillips,15:45,1:04:25,1,1,0,3,3,Cambridge & Coleridge Ac
+2025,New course,1,Cambridge & Coleridge AC,A,complete,1:36:42,5,James Teagle,16:10,1:20:35,1,1,0,29,2,Cambridge & Coleridge Ac
+2025,New course,1,Cambridge & Coleridge AC,A,complete,1:36:42,6,Callum Elson,16:07,1:36:42,1,1,0,26,2,Cambridge & Coleridge Ac
+2025,New course,2,Tonbridge AC,,complete,1:37:41,1,Alex Howard,16:12,0:16:12,,13,,32,13,Tonbridge Ac
+2025,New course,2,Tonbridge AC,,complete,1:37:41,2,Ted Higgins,16:04,0:32:16,13,3,10,23,7,Tonbridge Ac
+2025,New course,2,Tonbridge AC,,complete,1:37:41,3,Jamie Macdonald,16:47,0:49:03,3,4,-1,109,11,Tonbridge Ac
+2025,New course,2,Tonbridge AC,,complete,1:37:41,4,James Kingston,15:34,1:04:37,4,2,2,2,2,Tonbridge Ac
+2025,New course,2,Tonbridge AC,,complete,1:37:41,5,Ben Cole,16:30,1:21:07,2,2,0,64,7,Tonbridge Ac
+2025,New course,2,Tonbridge AC,,complete,1:37:41,6,Jack Higgins,16:34,1:37:41,2,2,0,76,10,Tonbridge Ac
+2025,New course,3,Highgate Harriers,,complete,1:37:43,1,Flurry Grierson,16:19,0:16:19,,15,,40,15,Highgate Harriers
+2025,New course,3,Highgate Harriers,,complete,1:37:43,2,Jacob Allen,16:05,0:32:24,15,5,10,24,8,Highgate Harriers
+2025,New course,3,Highgate Harriers,,complete,1:37:43,3,Alexander Lepretre,16:25,0:48:49,5,2,3,54,5,Highgate Harriers
+2025,New course,3,Highgate Harriers,,complete,1:37:43,4,Peter Chambers,16:32,1:05:21,2,4,-2,69,12,Highgate Harriers
+2025,New course,3,Highgate Harriers,,complete,1:37:43,5,Roger Poolman,15:50,1:21:11,4,3,1,12,1,Highgate Harriers
+2025,New course,3,Highgate Harriers,,complete,1:37:43,6,Charles Cooper,16:34,1:37:45,3,3,0,76,10,Highgate Harriers
+2025,New course,4,Bristol & West AC,A,complete,1:38:02,1,Flynn Jennings,15:49,0:15:49,,3,,10,3,Bristol & West Ac
+2025,New course,4,Bristol & West AC,A,complete,1:38:02,2,Jack Millar,16:18,0:32:07,3,1,2,37,9,Bristol & West Ac
+2025,New course,4,Bristol & West AC,A,complete,1:38:02,3,Dylan Rigby,16:47,0:48:54,1,3,-2,109,11,Bristol & West Ac
+2025,New course,4,Bristol & West AC,A,complete,1:38:02,4,Milan Campion,16:30,1:05:24,3,5,-2,64,11,Bristol & West Ac
+2025,New course,4,Bristol & West AC,A,complete,1:38:02,5,Peter Legrice,16:33,1:21:57,5,5,0,72,9,Bristol & West Ac
+2025,New course,4,Bristol & West AC,A,complete,1:38:02,6,Kurt Taylor,16:05,1:38:02,5,4,1,24,1,Bristol & West Ac
+2025,New course,5,Western Tempo,A,complete,1:38:10,1,Dylan Gillett,16:19,0:16:19,,16,,40,15,Western Tempo
+2025,New course,5,Western Tempo,A,complete,1:38:10,2,Luke Davis,16:54,0:33:13,16,23,-7,133,24,Western Tempo
+2025,New course,5,Western Tempo,A,complete,1:38:10,3,Thomas Crockett,16:34,0:49:47,23,15,8,76,7,Western Tempo
+2025,New course,5,Western Tempo,A,complete,1:38:10,4,Jacob Cann,15:31,1:05:18,15,3,12,1,1,Western Tempo
+2025,New course,5,Western Tempo,A,complete,1:38:10,5,Dom James,16:22,1:21:40,3,4,-1,46,5,Western Tempo
+2025,New course,5,Western Tempo,A,complete,1:38:10,6,Peter Molloy,16:30,1:38:10,4,5,-1,64,8,Western Tempo
+2025,New course,6,Aldershot Farnham & District AC,A,complete,1:38:34,1,Joshua Grace,16:02,0:16:02,,9,,20,9,Aldershot Farnham & District
+2025,New course,6,Aldershot Farnham & District AC,A,complete,1:38:34,2,Alex Pointon,16:44,0:32:46,9,12,-3,101,19,Aldershot Farnham & District
+2025,New course,6,Aldershot Farnham & District AC,A,complete,1:38:34,3,Liam Stone,16:38,0:49:24,12,10,2,85,8,Aldershot Farnham & District
+2025,New course,6,Aldershot Farnham & District AC,A,complete,1:38:34,4,Tom Chandler,16:18,1:05:42,10,7,3,37,8,Aldershot Farnham & District
+2025,New course,6,Aldershot Farnham & District AC,A,complete,1:38:34,5,Sam Eglen,16:23,1:22:05,7,6,1,50,6,Aldershot Farnham & District
+2025,New course,6,Aldershot Farnham & District AC,A,complete,1:38:34,6,Callum Charleston,16:29,1:38:34,6,6,0,61,6,Aldershot Farnham & District
+2025,New course,7,Shaftesbury Barnet Harriers,,complete,1:39:04,1,Joshua Fisher,16:01,0:16:01,,8,,19,8,Shaftesbury Barnet Harriers
+2025,New course,7,Shaftesbury Barnet Harriers,,complete,1:39:04,2,Tom Butler,17:36,0:33:37,8,34,-26,249,46,Shaftesbury Barnet Harriers
+2025,New course,7,Shaftesbury Barnet Harriers,,complete,1:39:04,3,Liam Dee,15:49,0:49:26,34,11,23,10,1,Shaftesbury Barnet Harriers
+2025,New course,7,Shaftesbury Barnet Harriers,,complete,1:39:04,4,Jeremy Dempsey,16:12,1:05:38,11,6,5,32,7,Shaftesbury Barnet Harriers
+2025,New course,7,Shaftesbury Barnet Harriers,,complete,1:39:04,5,Dylan Evans,16:42,1:22:20,6,7,-1,93,11,Shaftesbury Barnet Harriers
+2025,New course,7,Shaftesbury Barnet Harriers,,complete,1:39:04,6,Kieran Clements,16:43,1:39:03,7,7,0,99,13,Shaftesbury Barnet Harriers
+2025,New course,8,Leeds City AC,A,complete,1:39:28,1,Mark Bostock,16:26,0:16:26,,19,,56,19,Leeds City Ac
+2025,New course,8,Leeds City AC,A,complete,1:39:28,2,Joe Sagar,16:27,0:32:53,19,13,6,59,13,Leeds City Ac
+2025,New course,8,Leeds City AC,A,complete,1:39:28,3,Jenson Connell,16:21,0:49:14,13,5,8,44,3,Leeds City Ac
+2025,New course,8,Leeds City AC,A,complete,1:39:28,4,William Tighe,17:08,1:06:22,5,10,-5,165,19,Leeds City Ac
+2025,New course,8,Leeds City AC,A,complete,1:39:28,5,Angus Cole,16:46,1:23:08,10,10,0,105,13,Leeds City Ac
+2025,New course,8,Leeds City AC,A,complete,1:39:28,6,Richard Allen,16:22,1:39:30,10,8,2,46,4,Leeds City Ac
+2025,New course,9,Salford Harriers & AC,A,complete,1:39:39,1,Harry Johnson,16:23,0:16:23,,18,,50,18,Salford Harriers & Ac
+2025,New course,9,Salford Harriers & AC,A,complete,1:39:39,2,Sam Hopkins,16:46,0:33:09,18,20,-2,105,21,Salford Harriers & Ac
+2025,New course,9,Salford Harriers & AC,A,complete,1:39:39,3,George Beardmore,16:58,0:50:07,20,21,-1,142,21,Salford Harriers & Ac
+2025,New course,9,Salford Harriers & AC,A,complete,1:39:39,4,David Barratt,16:18,1:06:25,21,11,10,37,8,Salford Harriers & Ac
+2025,New course,9,Salford Harriers & AC,A,complete,1:39:39,5,Thomas Cornthwaite,16:36,1:23:01,11,9,2,82,10,Salford Harriers & Ac
+2025,New course,9,Salford Harriers & AC,A,complete,1:39:39,6,Akkeal Chambers,16:38,1:39:39,9,9,0,85,12,Salford Harriers & Ac
+2025,New course,10,Herne Hill Harriers,A,complete,1:39:48,1,Daniel Shaw,16:42,0:16:42,,32,,93,32,Herne Hill Harriers
+2025,New course,10,Herne Hill Harriers,A,complete,1:39:48,2,Morgan Roberts,16:42,0:33:24,32,28,4,93,17,Herne Hill Harriers
+2025,New course,10,Herne Hill Harriers,A,complete,1:39:48,3,Thomas O'mahoney,16:55,0:50:19,28,23,5,137,20,Herne Hill Harriers
+2025,New course,10,Herne Hill Harriers,A,complete,1:39:48,4,Sam Bramwell,16:11,1:06:30,23,12,11,30,5,Herne Hill Harriers
+2025,New course,10,Herne Hill Harriers,A,complete,1:39:48,5,Tom Austin,16:14,1:22:44,12,8,4,35,3,Herne Hill Harriers
+2025,New course,10,Herne Hill Harriers,A,complete,1:39:48,6,Ollie Mills,17:04,1:39:48,8,10,-2,155,21,Herne Hill Harriers
+2025,New course,11,Bedford & County AC,A,complete,1:40:11,1,Harry Brodie,16:53,0:16:53,,45,,131,45,Bedford & County Ac
+2025,New course,11,Bedford & County AC,A,complete,1:40:11,2,Benjamin Alcock,16:02,0:32:55,45,14,31,20,6,Bedford & County Ac
+2025,New course,11,Bedford & County AC,A,complete,1:40:11,3,Mackenzie Kotrys,16:42,0:49:37,14,13,1,93,10,Bedford & County Ac
+2025,New course,11,Bedford & County AC,A,complete,1:40:11,4,Noah Campion,16:21,1:05:58,13,8,5,44,10,Bedford & County Ac
+2025,New course,11,Bedford & County AC,A,complete,1:40:11,5,Edward Blythman,17:14,1:23:12,8,11,-3,184,24,Bedford & County Ac
+2025,New course,11,Bedford & County AC,A,complete,1:40:11,6,Samuel Winters,16:59,1:40:11,11,11,0,147,19,Bedford & County Ac
+2025,New course,12,City of Norwich AC,,complete,1:40:35,1,Michael Clark,16:07,0:16:07,,11,,26,11,City Of Norwich Ac
+2025,New course,12,City of Norwich AC,,complete,1:40:35,2,William Percival,17:12,0:33:19,11,25,-14,179,35,City Of Norwich Ac
+2025,New course,12,City of Norwich AC,,complete,1:40:35,3,William Mahoney,16:39,0:49:58,25,17,8,89,9,City Of Norwich Ac
+2025,New course,12,City of Norwich AC,,complete,1:40:35,4,Jack White,16:32,1:06:30,17,13,4,69,12,City Of Norwich Ac
+2025,New course,12,City of Norwich AC,,complete,1:40:35,5,Danny Adams,17:11,1:23:41,13,14,-1,175,22,City Of Norwich Ac
+2025,New course,12,City of Norwich AC,,complete,1:40:35,6,Samuel Stevens,16:54,1:40:35,14,12,2,133,15,City Of Norwich Ac
+2025,New course,13,Kent AC,,complete,1:40:47,1,Cameron Dockerill,16:36,0:16:36,,29,,82,29,Kent Ac
+2025,New course,13,Kent AC,,complete,1:40:47,2,Rob Sesemann,16:42,0:33:18,29,24,5,93,17,Kent Ac
+2025,New course,13,Kent AC,,complete,1:40:47,3,Dame Dibaba,17:08,0:50:26,24,25,-1,165,26,Kent Ac
+2025,New course,13,Kent AC,,complete,1:40:47,4,Nick Ackfield,16:41,1:07:07,25,16,9,91,14,Kent Ac
+2025,New course,13,Kent AC,,complete,1:40:47,5,Jonathan Collier,16:42,1:23:49,16,15,1,93,11,Kent Ac
+2025,New course,13,Kent AC,,complete,1:40:47,6,Joe English,16:58,1:40:47,15,13,2,142,17,Kent Ac
+2025,New course,14,Bracknell AC,,complete,1:40:51,1,Scott Halsted,16:57,0:16:57,,47,,140,47,Bracknell Ac
+2025,New course,14,Bracknell AC,,complete,1:40:51,2,Daniel Brookling,16:37,0:33:34,47,31,16,84,14,Bracknell Ac
+2025,New course,14,Bracknell AC,,complete,1:40:51,3,Ricky Harvie,16:31,0:50:05,31,19,12,68,6,Bracknell Ac
+2025,New course,14,Bracknell AC,,complete,1:40:51,4,Zak Seddon,15:59,1:06:04,19,9,10,18,4,Bracknell Ac
+2025,New course,14,Bracknell AC,,complete,1:40:51,5,Stephen Lyster,17:26,1:23:30,9,13,-4,216,28,Bracknell Ac
+2025,New course,14,Bracknell AC,,complete,1:40:51,6,James Winship,17:21,1:40:51,13,14,-1,203,26,Bracknell Ac
+2025,New course,15,Birmingham Running Athletics & Triathlon (BRAT),A,complete,1:41:24,1,John Stolberg,16:35,0:16:35,,28,,81,28,Birmingham Running Athletics &
+2025,New course,15,Birmingham Running Athletics & Triathlon (BRAT),A,complete,1:41:24,2,Joseph Tuffin,15:55,0:32:30,28,6,22,15,5,Birmingham Running Athletics &
+2025,New course,15,Birmingham Running Athletics & Triathlon (BRAT),A,complete,1:41:24,3,William Mckemey,17:18,0:49:48,6,16,-10,195,32,Birmingham Running Athletics &
+2025,New course,15,Birmingham Running Athletics & Triathlon (BRAT),A,complete,1:41:24,4,Aidan Banfield,17:06,1:06:54,16,14,2,161,18,Birmingham Running Athletics &
+2025,New course,15,Birmingham Running Athletics & Triathlon (BRAT),A,complete,1:41:24,5,Charlie Davis,16:30,1:23:24,14,12,2,64,7,Birmingham Running Athletics &
+2025,New course,15,Birmingham Running Athletics & Triathlon (BRAT),A,complete,1:41:24,6,Owen Jones,18:01,1:41:25,12,15,-3,325,43,Birmingham Running Athletics &
+2025,New course,16,Cambridge & Coleridge AC,B,complete,1:41:37,1,Matthew Morgan,16:38,0:16:38,,30,,85,30,Cambridge & Coleridge Ac
+2025,New course,16,Cambridge & Coleridge AC,B,complete,1:41:37,2,Michael Bartram,17:18,0:33:56,30,36,-6,195,39,Cambridge & Coleridge Ac
+2025,New course,16,Cambridge & Coleridge AC,B,complete,1:41:37,3,Oliver Newman,16:47,0:50:43,36,28,8,109,11,Cambridge & Coleridge Ac
+2025,New course,16,Cambridge & Coleridge AC,B,complete,1:41:37,4,Ewan Spencer,16:46,1:07:29,28,22,6,105,15,Cambridge & Coleridge Ac
+2025,New course,16,Cambridge & Coleridge AC,B,complete,1:41:37,5,James Edgerton,17:13,1:24:42,22,21,1,181,23,Cambridge & Coleridge Ac
+2025,New course,16,Cambridge & Coleridge AC,B,complete,1:41:37,6,Isaac Morgan,16:55,1:41:37,21,16,5,137,16,Cambridge & Coleridge Ac
+2025,New course,17,Newark AC,,complete,1:41:42,1,E Smithrasmussen,16:02,0:16:02,,10,,20,9,Newark Ac
+2025,New course,17,Newark AC,,complete,1:41:42,2,Marcus Chesterton,17:06,0:33:08,10,19,-9,161,30,Newark Ac
+2025,New course,17,Newark AC,,complete,1:41:42,3,Robert Lindsay,18:32,0:51:40,19,39,-20,367,63,Newark Ac
+2025,New course,17,Newark AC,,complete,1:41:42,4,Lewis Jagger,16:11,1:07:51,39,24,15,30,5,Newark Ac
+2025,New course,17,Newark AC,,complete,1:41:42,5,Steven Sims,17:40,1:25:31,24,26,-2,265,40,Newark Ac
+2025,New course,17,Newark AC,,complete,1:41:42,6,Edward Buck,16:12,1:41:43,26,17,9,32,3,Newark Ac
+2025,New course,18,Brighton Phoenix,,complete,1:41:51,1,Miles Waterworth,16:17,0:16:17,,14,,36,14,Brighton Phoenix
+2025,New course,18,Brighton Phoenix,,complete,1:41:51,2,Owen Wallek,16:45,0:33:02,14,17,-3,102,20,Brighton Phoenix
+2025,New course,18,Brighton Phoenix,,complete,1:41:51,3,Ravi Clark,17:17,0:50:19,17,24,-7,190,30,Brighton Phoenix
+2025,New course,18,Brighton Phoenix,,complete,1:41:51,4,Alexander Jeffreys,17:52,1:08:11,24,27,-3,297,44,Brighton Phoenix
+2025,New course,18,Brighton Phoenix,,complete,1:41:51,5,Simon Heath,17:10,1:25:21,27,25,2,171,21,Brighton Phoenix
+2025,New course,18,Brighton Phoenix,,complete,1:41:51,6,Alexander Sproston,16:29,1:41:50,25,18,7,61,6,Brighton Phoenix
+2025,New course,19,Birchfield Harriers,,complete,1:42:17,1,Alex Burrows,16:45,0:16:45,,34,,102,34,Birchfield Harriers
+2025,New course,19,Birchfield Harriers,,complete,1:42:17,2,Ash Burgess,17:05,0:33:50,34,35,-1,159,29,Birchfield Harriers
+2025,New course,19,Birchfield Harriers,,complete,1:42:17,3,Edward Banks,17:11,0:51:01,35,33,2,175,27,Birchfield Harriers
+2025,New course,19,Birchfield Harriers,,complete,1:42:17,4,Daniel Swain,17:30,1:08:31,33,33,0,230,32,Birchfield Harriers
+2025,New course,19,Birchfield Harriers,,complete,1:42:17,5,Jason Bennett,17:23,1:25:54,33,29,4,212,27,Birchfield Harriers
+2025,New course,19,Birchfield Harriers,,complete,1:42:17,6,T Mebrahtuwerke,16:23,1:42:17,29,19,10,50,5,Birchfield Harriers
+2025,New course,20,Keighley & Craven AC,,complete,1:42:34,1,Joe Hudson,15:46,0:15:46,,1,,4,1,Keighley & Craven Ac
+2025,New course,20,Keighley & Craven AC,,complete,1:42:34,2,Joe Carnelley,16:53,0:32:39,1,11,-10,131,23,Keighley & Craven Ac
+2025,New course,20,Keighley & Craven AC,,complete,1:42:34,3,Owen Ashdown,17:04,0:49:43,11,14,-3,155,23,Keighley & Craven Ac
+2025,New course,20,Keighley & Craven AC,,complete,1:42:34,4,Ewen Wilkinson,17:20,1:07:03,14,15,-1,200,23,Keighley & Craven Ac
+2025,New course,20,Keighley & Craven AC,,complete,1:42:34,5,Archie Peaker,17:34,1:24:37,15,20,-5,244,34,Keighley & Craven Ac
+2025,New course,20,Keighley & Craven AC,,complete,1:42:34,6,Callum James,17:56,1:42:33,20,20,0,309,39,Keighley & Craven Ac
+2025,New course,21,Reading AC,,complete,1:42:51,1,Chris Parker,16:22,0:16:22,,17,,46,17,Reading Ac
+2025,New course,21,Reading AC,,complete,1:42:51,2,Hagos Abrha,17:00,0:33:22,17,27,-10,150,27,Reading Ac
+2025,New course,21,Reading AC,,complete,1:42:51,3,Isaac Farnworth,17:22,0:50:44,27,29,-2,207,35,Reading Ac
+2025,New course,21,Reading AC,,complete,1:42:51,4,Edward Lewis,17:54,1:08:38,29,34,-5,302,46,Reading Ac
+2025,New course,21,Reading AC,,complete,1:42:51,5,Luc Jolly,17:28,1:26:06,34,31,3,221,30,Reading Ac
+2025,New course,21,Reading AC,,complete,1:42:51,6,Jonny Davies,16:45,1:42:51,31,21,10,102,14,Reading Ac
+2025,New course,22,City Of York AC,,complete,1:43:01,1,Angus Mcmillan,15:48,0:15:48,,2,,9,2,City Of York Ac
+2025,New course,22,City Of York AC,,complete,1:43:01,2,James Tucker,17:13,0:33:01,2,16,-14,181,36,City Of York Ac
+2025,New course,22,City Of York AC,,complete,1:43:01,3,Alex Botterill,16:58,0:49:59,16,18,-2,142,21,City Of York Ac
+2025,New course,22,City Of York AC,,complete,1:43:01,4,Mark Bollandcage,17:38,1:07:37,18,23,-5,257,36,City Of York Ac
+2025,New course,22,City Of York AC,,complete,1:43:01,5,Adam Bateman,17:41,1:25:18,23,24,-1,266,41,City Of York Ac
+2025,New course,22,City Of York AC,,complete,1:43:01,6,Jamie Walker,17:42,1:43:00,24,22,2,269,33,City Of York Ac
+2025,New course,23,Guildford & Godalming AC,,complete,1:43:04,1,Cameron Reilly,16:34,0:16:34,,26,,76,26,Guildford & Godalming Ac
+2025,New course,23,Guildford & Godalming AC,,complete,1:43:04,2,Oliver Jermy,16:38,0:33:12,26,22,4,85,15,Guildford & Godalming Ac
+2025,New course,23,Guildford & Godalming AC,,complete,1:43:04,3,Tom Foster,16:54,0:50:06,22,20,2,133,19,Guildford & Godalming Ac
+2025,New course,23,Guildford & Godalming AC,,complete,1:43:04,4,Adrien Royer,17:13,1:07:19,20,21,-1,181,20,Guildford & Godalming Ac
+2025,New course,23,Guildford & Godalming AC,,complete,1:43:04,5,Abel Davies,17:56,1:25:15,21,22,-1,309,46,Guildford & Godalming Ac
+2025,New course,23,Guildford & Godalming AC,,complete,1:43:04,6,Nicholas Lightfoot,17:49,1:43:04,22,23,-1,285,36,Guildford & Godalming Ac
+2025,New course,24,Swindon Harriers,A,complete,1:43:14,1,Ben Lines,17:30,0:17:30,,59,,230,59,Swindon Harriers
+2025,New course,24,Swindon Harriers,A,complete,1:43:14,2,Harry Edwards,16:58,0:34:28,59,41,18,142,26,Swindon Harriers
+2025,New course,24,Swindon Harriers,A,complete,1:43:14,3,Simon Byrne,16:48,0:51:16,41,35,6,117,18,Swindon Harriers
+2025,New course,24,Swindon Harriers,A,complete,1:43:14,4,Harry Woods,17:04,1:08:20,35,29,6,155,17,Swindon Harriers
+2025,New course,24,Swindon Harriers,A,complete,1:43:14,5,Fletcher Hart,17:33,1:25:53,29,28,1,241,32,Swindon Harriers
+2025,New course,24,Swindon Harriers,A,complete,1:43:14,6,Matthew Woodward,17:21,1:43:14,28,24,4,203,26,Swindon Harriers
+2025,New course,25,Belgrave Harriers,,complete,1:43:24,1,Raif Serif,16:08,0:16:08,,12,,28,12,Belgrave Harriers
+2025,New course,25,Belgrave Harriers,,complete,1:43:24,2,Samuel Harry,17:11,0:33:19,12,26,-14,175,34,Belgrave Harriers
+2025,New course,25,Belgrave Harriers,,complete,1:43:24,3,James Hancock,17:16,0:50:35,26,26,0,188,29,Belgrave Harriers
+2025,New course,25,Belgrave Harriers,,complete,1:43:24,4,Larry Ryan,17:38,1:08:13,26,28,-2,257,36,Belgrave Harriers
+2025,New course,25,Belgrave Harriers,,complete,1:43:24,5,William Driscoll,17:35,1:25:48,28,27,1,247,36,Belgrave Harriers
+2025,New course,25,Belgrave Harriers,,complete,1:43:24,6,Sam Sommerville,17:36,1:43:24,27,25,2,249,31,Belgrave Harriers
+2025,New course,26,Newham & Essex Beagles AC,,complete,1:43:42,1,Eoin Pierce,16:48,0:16:48,,36,,117,36,Newham & Essex Beagles Ac
+2025,New course,26,Newham & Essex Beagles AC,,complete,1:43:42,1,Eoin Pierce,16:48,0:16:48,,37,,117,36,Newham & Essex Beagles Ac
+2025,New course,26,Newham & Essex Beagles AC,,complete,1:43:42,1,John Gordon,16:48,0:16:48,,38,,117,36,Newham & Essex Beagles Ac
+2025,New course,26,Newham & Essex Beagles AC,,complete,1:43:42,1,John Gordon,16:48,0:16:48,,39,,117,36,Newham & Essex Beagles Ac
+2025,New course,26,Newham & Essex Beagles AC,,complete,1:43:42,2,Charlie Brisley,15:46,0:32:34,36,7,29,4,1,Newham & Essex Beagles Ac
+2025,New course,26,Newham & Essex Beagles AC,,complete,1:43:42,2,Charlie Brisley,15:46,0:32:34,37,8,29,4,1,Newham & Essex Beagles Ac
+2025,New course,26,Newham & Essex Beagles AC,,complete,1:43:42,2,Charlie Brisley,15:46,0:32:34,38,9,29,4,1,Newham & Essex Beagles Ac
+2025,New course,26,Newham & Essex Beagles AC,,complete,1:43:42,2,Charlie Brisley,15:46,0:32:34,39,10,29,4,1,Newham & Essex Beagles Ac
+2025,New course,26,Newham & Essex Beagles AC,,complete,1:43:42,3,Eoin Pierce,16:47,0:49:21,7,6,1,109,11,Newham & Essex Beagles Ac
+2025,New course,26,Newham & Essex Beagles AC,,complete,1:43:42,3,John Gordon,16:47,0:49:21,8,7,1,109,11,Newham & Essex Beagles Ac
+2025,New course,26,Newham & Essex Beagles AC,,complete,1:43:42,3,Eoin Pierce,16:47,0:49:21,9,8,1,109,11,Newham & Essex Beagles Ac
+2025,New course,26,Newham & Essex Beagles AC,,complete,1:43:42,3,John Gordon,16:47,0:49:21,10,9,1,109,11,Newham & Essex Beagles Ac
+2025,New course,26,Newham & Essex Beagles AC,,complete,1:43:42,4,Toby Smith,17:49,1:07:10,6,17,-11,285,39,Newham & Essex Beagles Ac
+2025,New course,26,Newham & Essex Beagles AC,,complete,1:43:42,4,Toby Smith,17:49,1:07:10,7,18,-11,285,39,Newham & Essex Beagles Ac
+2025,New course,26,Newham & Essex Beagles AC,,complete,1:43:42,4,Toby Smith,17:49,1:07:10,8,19,-11,285,39,Newham & Essex Beagles Ac
+2025,New course,26,Newham & Essex Beagles AC,,complete,1:43:42,4,Toby Smith,17:49,1:07:10,9,20,-11,285,39,Newham & Essex Beagles Ac
+2025,New course,26,Newham & Essex Beagles AC,,complete,1:43:42,5,Oluwatosin Adedeji,16:50,1:24:00,17,16,1,123,14,Newham & Essex Beagles Ac
+2025,New course,26,Newham & Essex Beagles AC,,complete,1:43:42,5,Oluwatosin Adedeji,16:50,1:24:00,18,17,1,123,14,Newham & Essex Beagles Ac
+2025,New course,26,Newham & Essex Beagles AC,,complete,1:43:42,5,Oluwatosin Adedeji,16:50,1:24:00,19,18,1,123,14,Newham & Essex Beagles Ac
+2025,New course,26,Newham & Essex Beagles AC,,complete,1:43:42,5,Oluwatosin Adedeji,16:50,1:24:00,20,19,1,123,14,Newham & Essex Beagles Ac
+2025,New course,26,Newham & Essex Beagles AC,,complete,1:43:42,6,Wayne Bell,19:42,1:43:42,16,26,-10,428,63,Newham & Essex Beagles Ac
+2025,New course,26,Newham & Essex Beagles AC,,complete,1:43:42,6,Wayne Bell,19:42,1:43:42,17,27,-10,428,63,Newham & Essex Beagles Ac
+2025,New course,26,Newham & Essex Beagles AC,,complete,1:43:42,6,Wayne Bell,19:42,1:43:42,18,28,-10,428,63,Newham & Essex Beagles Ac
+2025,New course,26,Newham & Essex Beagles AC,,complete,1:43:42,6,Wayne Bell,19:42,1:43:42,19,29,-10,428,63,Newham & Essex Beagles Ac
+2025,New course,27,Leeds City AC,B,complete,1:43:46,1,W Indelbu,16:52,0:16:52,,43,,129,43,Leeds City Ac
+2025,New course,27,Leeds City AC,B,complete,1:43:46,2,Ben Gillham,17:45,0:34:37,43,47,-4,281,53,Leeds City Ac
+2025,New course,27,Leeds City AC,B,complete,1:43:46,3,Harry Butler,17:41,0:52:18,47,47,0,266,45,Leeds City Ac
+2025,New course,27,Leeds City AC,B,complete,1:43:46,4,Toby Antcliff,16:59,1:09:17,47,39,8,147,16,Leeds City Ac
+2025,New course,27,Leeds City AC,B,complete,1:43:46,5,Sean Flanagan,17:09,1:26:26,39,33,6,169,20,Leeds City Ac
+2025,New course,27,Leeds City AC,B,complete,1:43:46,6,Mohamed Abshir,17:20,1:43:46,33,30,3,200,25,Leeds City Ac
+2025,New course,28,Salford Harriers & AC,B,complete,1:43:49,1,Jack Marwood,16:50,0:16:50,,41,,123,41,Salford Harriers & Ac
+2025,New course,28,Salford Harriers & AC,B,complete,1:43:49,2,Jamie Barber,18:11,0:35:01,41,54,-13,344,62,Salford Harriers & Ac
+2025,New course,28,Salford Harriers & AC,B,complete,1:43:49,3,Jacob Wooddoyle,17:17,0:52:18,54,48,6,190,30,Salford Harriers & Ac
+2025,New course,28,Salford Harriers & AC,B,complete,1:43:49,4,Matthew Cooper,17:33,1:09:51,48,44,4,241,34,Salford Harriers & Ac
+2025,New course,28,Salford Harriers & AC,B,complete,1:43:49,5,Karl Darcy,16:56,1:26:47,44,37,7,139,18,Salford Harriers & Ac
+2025,New course,28,Salford Harriers & AC,B,complete,1:43:49,6,Ryan Worland,17:02,1:43:49,37,31,6,153,20,Salford Harriers & Ac
+2025,New course,29,City Of Portsmouth AC,,complete,1:43:51,1,Samuel Charig,15:57,0:15:57,,7,,17,7,City Of Portsmouth Ac
+2025,New course,29,City Of Portsmouth AC,,complete,1:43:51,2,Robert Peters,18:01,0:33:58,7,37,-30,325,60,City Of Portsmouth Ac
+2025,New course,29,City Of Portsmouth AC,,complete,1:43:51,3,Malek Roostaei,17:29,0:51:27,37,36,1,224,38,City Of Portsmouth Ac
+2025,New course,29,City Of Portsmouth AC,,complete,1:43:51,4,C Walkerpowell,17:19,1:08:46,36,35,1,198,22,City Of Portsmouth Ac
+2025,New course,29,City Of Portsmouth AC,,complete,1:43:51,5,Thomas Beasley,17:27,1:26:13,35,32,3,219,29,City Of Portsmouth Ac
+2025,New course,29,City Of Portsmouth AC,,complete,1:43:51,6,Callum Crook,17:38,1:43:51,32,32,0,257,32,City Of Portsmouth Ac
+2025,New course,30,Thames Valley Harriers,,complete,1:43:57,1,Jordan Rowe,16:43,0:16:43,,33,,99,33,Thames Valley Harriers
+2025,New course,30,Thames Valley Harriers,,complete,1:43:57,2,Daniel Mulryan,16:47,0:33:30,33,30,3,109,22,Thames Valley Harriers
+2025,New course,30,Thames Valley Harriers,,complete,1:43:57,3,Louis Moore,17:07,0:50:37,30,27,3,164,25,Thames Valley Harriers
+2025,New course,30,Thames Valley Harriers,,complete,1:43:57,4,Conor Kissanewood,17:23,1:08:00,27,25,2,212,27,Thames Valley Harriers
+2025,New course,30,Thames Valley Harriers,,complete,1:43:57,5,Niki Faulkner,17:17,1:25:17,25,23,2,190,25,Thames Valley Harriers
+2025,New course,30,Thames Valley Harriers,,complete,1:43:57,6,Szymon Kubica,18:40,1:43:57,23,33,-10,374,54,Thames Valley Harriers
+2025,New course,31,Chelmsford AC,,complete,1:44:00,1,Jacob Hurrell,16:33,0:16:33,,23,,72,23,Chelmsford Ac
+2025,New course,31,Chelmsford AC,,complete,1:44:00,2,William Nuttall,17:02,0:33:35,23,32,-9,153,28,Chelmsford Ac
+2025,New course,31,Chelmsford AC,,complete,1:44:00,3,Ethan Reilly,17:19,0:50:54,32,31,1,198,33,Chelmsford Ac
+2025,New course,31,Chelmsford AC,,complete,1:44:00,4,Z Bridgeland,17:32,1:08:26,31,32,-1,237,33,Chelmsford Ac
+2025,New course,31,Chelmsford AC,,complete,1:44:00,5,Lewis Harknett,17:31,1:25:57,32,30,2,234,31,Chelmsford Ac
+2025,New course,31,Chelmsford AC,,complete,1:44:00,6,Sebastian Cirillo,18:02,1:43:59,30,34,-4,328,44,Chelmsford Ac
+2025,New course,32,Hallamshire Harriers Sheffield,,complete,1:44:13,1,James Mccrae,16:33,0:16:33,,24,,72,23,Hallamshire Harriers Sheffield
+2025,New course,32,Hallamshire Harriers Sheffield,,complete,1:44:13,2,Tom Bailey,17:52,0:34:25,24,40,-16,297,56,Hallamshire Harriers Sheffield
+2025,New course,32,Hallamshire Harriers Sheffield,,complete,1:44:13,3,Jamie Hall,17:42,0:52:07,40,44,-4,269,46,Hallamshire Harriers Sheffield
+2025,New course,32,Hallamshire Harriers Sheffield,,complete,1:44:13,4,Jed Bartlett,17:29,1:09:36,44,41,3,224,30,Hallamshire Harriers Sheffield
+2025,New course,32,Hallamshire Harriers Sheffield,,complete,1:44:13,5,Matthew Fuller,17:22,1:26:58,41,38,3,207,26,Hallamshire Harriers Sheffield
+2025,New course,32,Hallamshire Harriers Sheffield,,complete,1:44:13,6,David Byrne,17:15,1:44:13,38,35,3,186,23,Hallamshire Harriers Sheffield
+2025,New course,33,Sutton & District AC,,complete,1:44:17,1,Ethan Newell,17:05,0:17:05,,50,,159,50,Sutton & District Ac
+2025,New course,33,Sutton & District AC,,complete,1:44:17,2,Christopher Cull,17:41,0:34:46,50,51,-1,266,50,Sutton & District Ac
+2025,New course,33,Sutton & District AC,,complete,1:44:17,3,Toby Cloves,18:08,0:52:54,51,55,-4,337,57,Sutton & District Ac
+2025,New course,33,Sutton & District AC,,complete,1:44:17,4,Monty Hudson,17:16,1:10:10,55,46,9,188,21,Sutton & District Ac
+2025,New course,33,Sutton & District AC,,complete,1:44:17,5,Elliott Manning,17:34,1:27:44,46,43,3,244,34,Sutton & District Ac
+2025,New course,33,Sutton & District AC,,complete,1:44:17,6,Alex Lennon,16:32,1:44:16,43,36,7,69,9,Sutton & District Ac
+2025,New course,34,Herts Phoenix AC,,complete,1:44:27,1,George Ward,17:52,0:17:52,,68,,297,68,Herts Phoenix Ac
+2025,New course,34,Herts Phoenix AC,,complete,1:44:27,2,Caleb O'neill,17:08,0:35:00,68,53,15,165,31,Herts Phoenix Ac
+2025,New course,34,Herts Phoenix AC,,complete,1:44:27,3,Luke Dunham,17:04,0:52:04,53,43,10,155,23,Herts Phoenix Ac
+2025,New course,34,Herts Phoenix AC,,complete,1:44:27,4,Ben Murphy,17:21,1:09:25,43,40,3,203,24,Herts Phoenix Ac
+2025,New course,34,Herts Phoenix AC,,complete,1:44:27,5,Samuel Pedley,17:33,1:26:58,40,39,1,241,32,Herts Phoenix Ac
+2025,New course,34,Herts Phoenix AC,,complete,1:44:27,6,John Eves,17:29,1:44:27,39,37,2,224,29,Herts Phoenix Ac
+2025,New course,35,Bristol & West AC,B,complete,1:44:28,1,Joe Morrow,16:29,0:16:29,,22,,61,22,Bristol & West Ac
+2025,New course,35,Bristol & West AC,B,complete,1:44:28,2,Timothy Lefroy,16:57,0:33:26,22,29,-7,140,25,Bristol & West Ac
+2025,New course,35,Bristol & West AC,B,complete,1:44:28,3,Lee Gawler,18:08,0:51:34,29,37,-8,337,57,Bristol & West Ac
+2025,New course,35,Bristol & West AC,B,complete,1:44:28,4,Aled Anderson,18:17,1:09:51,37,45,-8,347,57,Bristol & West Ac
+2025,New course,35,Bristol & West AC,B,complete,1:44:28,5,Jonathan Thewlis,17:39,1:27:30,45,42,3,262,39,Bristol & West Ac
+2025,New course,35,Bristol & West AC,B,complete,1:44:28,6,Alexander Stewart,16:58,1:44:28,42,38,4,142,17,Bristol & West Ac
+2025,New course,36,Invicta East Kent AC,,complete,1:44:30,1,Jake Stevens,16:26,0:16:26,,20,,56,19,Invicta East Kent Ac
+2025,New course,36,Invicta East Kent AC,,complete,1:44:30,2,Noah Paterson,17:10,0:33:36,20,33,-13,171,32,Invicta East Kent Ac
+2025,New course,36,Invicta East Kent AC,,complete,1:44:30,3,Jamie Keir,17:22,0:50:58,33,32,1,207,35,Invicta East Kent Ac
+2025,New course,36,Invicta East Kent AC,,complete,1:44:30,4,Oliver Weston,17:26,1:08:24,32,30,2,216,29,Invicta East Kent Ac
+2025,New course,36,Invicta East Kent AC,,complete,1:44:30,5,James Akhurst,18:22,1:26:46,30,36,-6,354,52,Invicta East Kent Ac
+2025,New course,36,Invicta East Kent AC,,complete,1:44:30,6,Joseph Griffiths,17:43,1:44:29,36,39,-3,273,34,Invicta East Kent Ac
+2025,New course,37,Aldershot Farnham & District AC,B,complete,1:44:49,1,Onjoro Sumba,16:46,0:16:46,,35,,105,35,Aldershot Farnham & District
+2025,New course,37,Aldershot Farnham & District AC,B,complete,1:44:49,2,Dylan Poulton,17:45,0:34:31,35,42,-7,281,53,Aldershot Farnham & District
+2025,New course,37,Aldershot Farnham & District AC,B,complete,1:44:49,3,William Smith,17:21,0:51:52,42,40,2,203,34,Aldershot Farnham & District
+2025,New course,37,Aldershot Farnham & District AC,B,complete,1:44:49,4,Jacob Pearce,17:22,1:09:14,40,38,2,207,25,Aldershot Farnham & District
+2025,New course,37,Aldershot Farnham & District AC,B,complete,1:44:49,5,George Morris,17:45,1:26:59,38,40,-2,281,42,Aldershot Farnham & District
+2025,New course,37,Aldershot Farnham & District AC,B,complete,1:44:49,6,Caleb Stephenson,17:50,1:44:49,40,40,0,293,37,Aldershot Farnham & District
+2025,New course,38,Brighton & Hove AC,,complete,1:44:56,1,Ian Crowewright,15:52,0:15:52,,4,,13,4,Brighton & Hove Ac
+2025,New course,38,Brighton & Hove AC,,complete,1:44:56,2,Joshua Hobbs,16:22,0:32:14,4,2,2,46,10,Brighton & Hove Ac
+2025,New course,38,Brighton & Hove AC,,complete,1:44:56,3,Jake Forrest,17:58,0:50:12,2,22,-20,316,52,Brighton & Hove Ac
+2025,New course,38,Brighton & Hove AC,,complete,1:44:56,4,Sam Wilkinson,17:55,1:08:07,22,26,-4,307,48,Brighton & Hove Ac
+2025,New course,38,Brighton & Hove AC,,complete,1:44:56,5,Jonathan Beckett,18:29,1:26:36,26,34,-8,361,55,Brighton & Hove Ac
+2025,New course,38,Brighton & Hove AC,,complete,1:44:56,6,Kit Monti,18:21,1:44:57,34,41,-7,353,49,Brighton & Hove Ac
+2025,New course,39,Coventry Godiva Harriers,,complete,1:45:07,1,Miles Clisham,15:52,0:15:52,,5,,13,4,Coventry Godiva Harriers
+2025,New course,39,Coventry Godiva Harriers,,complete,1:45:07,2,Pierce Clisham,17:17,0:33:09,5,21,-16,190,38,Coventry Godiva Harriers
+2025,New course,39,Coventry Godiva Harriers,,complete,1:45:07,3,Joseph Mcleod,17:43,0:50:52,21,30,-9,273,47,Coventry Godiva Harriers
+2025,New course,39,Coventry Godiva Harriers,,complete,1:45:07,4,Scott Hudspith,17:58,1:08:50,30,36,-6,316,51,Coventry Godiva Harriers
+2025,New course,39,Coventry Godiva Harriers,,complete,1:45:07,5,Lenny Shail,18:10,1:27:00,36,41,-5,341,48,Coventry Godiva Harriers
+2025,New course,39,Coventry Godiva Harriers,,complete,1:45:07,6,Harvey Speed,18:07,1:45:07,41,42,-1,334,46,Coventry Godiva Harriers
+2025,New course,40,Team Bath AC,,complete,1:45:17,1,Harry Maxwell,16:33,0:16:33,,25,,72,23,Team Bath Ac
+2025,New course,40,Team Bath AC,,complete,1:45:17,2,Joshua Maxwell,18:09,0:34:42,25,49,-24,339,61,Team Bath Ac
+2025,New course,40,Team Bath AC,,complete,1:45:17,3,Daniel Jones,18:01,0:52:43,49,53,-4,325,54,Team Bath Ac
+2025,New course,40,Team Bath AC,,complete,1:45:17,4,Aidan Daniel,17:49,1:10:32,53,52,1,285,39,Team Bath Ac
+2025,New course,40,Team Bath AC,,complete,1:45:17,5,Thomas Brooke,17:37,1:28:09,52,45,7,253,37,Team Bath Ac
+2025,New course,40,Team Bath AC,,complete,1:45:17,6,Lester James,17:08,1:45:17,45,43,2,165,22,Team Bath Ac
+2025,New course,41,Vale Royal AC,A,complete,1:45:46,1,Matt Rowlinson,17:29,0:17:29,,58,,224,58,Vale Royal Ac
+2025,New course,41,Vale Royal AC,A,complete,1:45:46,2,Thomas Taylor,17:35,0:35:04,58,55,3,247,45,Vale Royal Ac
+2025,New course,41,Vale Royal AC,A,complete,1:45:46,3,Aaron Doyle,17:14,0:52:18,55,49,6,184,28,Vale Royal Ac
+2025,New course,41,Vale Royal AC,A,complete,1:45:46,4,Edward Pettitt,17:56,1:10:14,49,47,2,309,49,Vale Royal Ac
+2025,New course,41,Vale Royal AC,A,complete,1:45:46,5,John Humphries,17:37,1:27:51,47,44,3,253,37,Vale Royal Ac
+2025,New course,41,Vale Royal AC,A,complete,1:45:46,6,Richard Ryan,17:56,1:45:47,44,44,0,309,39,Vale Royal Ac
+2025,New course,42,Southampton AC,,complete,1:45:48,1,Thomas Aspin,16:34,0:16:34,,27,,76,26,Southampton Ac
+2025,New course,42,Southampton AC,,complete,1:45:48,2,Sam Costley,16:26,0:33:00,27,15,12,56,12,Southampton Ac
+2025,New course,42,Southampton AC,,complete,1:45:48,3,Charlie Coles,18:03,0:51:03,15,34,-19,330,55,Southampton Ac
+2025,New course,42,Southampton AC,,complete,1:45:48,4,Daniel Bradford,17:22,1:08:25,34,31,3,207,25,Southampton Ac
+2025,New course,42,Southampton AC,,complete,1:45:48,5,Oliver Starkey,18:17,1:26:42,31,35,-4,347,49,Southampton Ac
+2025,New course,42,Southampton AC,,complete,1:45:48,6,Leo Shacklock,19:06,1:45:48,35,45,-10,407,58,Southampton Ac
+2025,New course,43,Warrington AC,,complete,1:45:52,1,Chris Stanford,17:18,0:17:18,,56,,195,56,Warrington A C
+2025,New course,43,Warrington AC,,complete,1:45:52,2,Daniel Fox,17:15,0:34:33,56,44,12,186,37,Warrington A C
+2025,New course,43,Warrington AC,,complete,1:45:52,3,Cameron Field,17:36,0:52:09,44,45,-1,249,43,Warrington A C
+2025,New course,43,Warrington AC,,complete,1:45:52,4,Jack Wadsworth,18:10,1:10:19,45,48,-3,341,55,Warrington A C
+2025,New course,43,Warrington AC,,complete,1:45:52,5,Alex Macdonald,17:50,1:28:09,48,46,2,293,43,Warrington A C
+2025,New course,43,Warrington AC,,complete,1:45:52,6,Matthew Jenson,17:43,1:45:52,46,46,0,273,34,Warrington A C
+2025,New course,44,Morpeth Harriers & AC,,complete,1:46:23,1,Peter Smallcombe,16:27,0:16:27,,21,,59,21,Morpeth Harriers & Ac
+2025,New course,44,Morpeth Harriers & AC,,complete,1:46:23,2,George Lowry,16:40,0:33:07,21,18,3,90,16,Morpeth Harriers & Ac
+2025,New course,44,Morpeth Harriers & AC,,complete,1:46:23,3,Carl Avery,16:24,0:49:31,18,12,6,53,4,Morpeth Harriers & Ac
+2025,New course,44,Morpeth Harriers & AC,,complete,1:46:23,4,Bertie Marr,22:58,1:12:29,12,60,-48,464,77,Morpeth Harriers & Ac
+2025,New course,44,Morpeth Harriers & AC,,complete,1:46:23,5,Chris Coulson,16:20,1:28:49,60,53,7,43,4,Morpeth Harriers & Ac
+2025,New course,44,Morpeth Harriers & AC,,complete,1:46:23,6,O Devere,17:32,1:46:21,53,47,6,237,30,Morpeth Harriers & Ac
+2025,New course,45,Western Tempo,B,complete,1:46:23,1,Dan Owen,17:00,0:17:00,,48,,150,48,Western Tempo
+2025,New course,45,Western Tempo,B,complete,1:46:23,2,Charlie Wright,17:20,0:34:20,48,39,9,200,40,Western Tempo
+2025,New course,45,Western Tempo,B,complete,1:46:23,3,Alex Lygo,17:32,0:51:52,39,41,-2,237,42,Western Tempo
+2025,New course,45,Western Tempo,B,complete,1:46:23,4,Rupert Ferguson,17:53,1:09:45,41,42,-1,301,45,Western Tempo
+2025,New course,45,Western Tempo,B,complete,1:46:23,5,Thomas Slater,18:50,1:28:35,42,50,-8,391,59,Western Tempo
+2025,New course,45,Western Tempo,B,complete,1:46:23,6,Luke Carroll,17:50,1:46:25,50,48,2,293,37,Western Tempo
+2025,New course,46,Liverpool Harriers & AC,A,complete,1:46:26,1,Michael Mccarthy,16:54,0:16:54,,46,,133,46,Liverpool Harriers & Ac
+2025,New course,46,Liverpool Harriers & AC,A,complete,1:46:26,2,Dylan Naylor,17:10,0:34:04,46,38,8,171,32,Liverpool Harriers & Ac
+2025,New course,46,Liverpool Harriers & AC,A,complete,1:46:26,3,Liam Burthem,17:31,0:51:35,38,38,0,234,40,Liverpool Harriers & Ac
+2025,New course,46,Liverpool Harriers & AC,A,complete,1:46:26,4,Luke Towers,17:23,1:08:58,38,37,1,212,27,Liverpool Harriers & Ac
+2025,New course,46,Liverpool Harriers & AC,A,complete,1:46:26,5,Riley Malone,19:24,1:28:22,37,47,-10,423,70,Liverpool Harriers & Ac
+2025,New course,46,Liverpool Harriers & AC,A,complete,1:46:26,6,Harry Lupton,18:05,1:46:27,47,49,-2,333,45,Liverpool Harriers & Ac
+2025,New course,47,Notts AC,A,complete,1:46:35,1,Jack Holland,16:52,0:16:52,,44,,129,43,Notts Ac
+2025,New course,47,Notts AC,A,complete,1:46:35,2,Ewan Collier,17:39,0:34:31,44,43,1,262,49,Notts Ac
+2025,New course,47,Notts AC,A,complete,1:46:35,3,Alex Percy,18:03,0:52:34,43,52,-9,330,55,Notts Ac
+2025,New course,47,Notts AC,A,complete,1:46:35,4,Rezene Hayle,17:54,1:10:28,52,51,1,302,46,Notts Ac
+2025,New course,47,Notts AC,A,complete,1:46:35,5,Jarratt Perkins,17:59,1:28:27,51,49,2,320,47,Notts Ac
+2025,New course,47,Notts AC,A,complete,1:46:35,6,Matthew Williams,18:07,1:46:34,49,50,-1,334,46,Notts Ac
+2025,New course,48,Herne Hill Harriers,B,complete,1:46:58,1,Max Rose,17:38,0:17:38,,62,,257,62,Herne Hill Harriers
+2025,New course,48,Herne Hill Harriers,B,complete,1:46:58,2,Sam Brashaw,17:34,0:35:12,62,58,4,244,44,Herne Hill Harriers
+2025,New course,48,Herne Hill Harriers,B,complete,1:46:58,3,Ronan Tanguy,17:46,0:52:58,58,56,2,284,49,Herne Hill Harriers
+2025,New course,48,Herne Hill Harriers,B,complete,1:46:58,4,Ashley Goncalves,17:37,1:10:35,56,53,3,253,35,Herne Hill Harriers
+2025,New course,48,Herne Hill Harriers,B,complete,1:46:58,5,Ioan Jenkins,17:50,1:28:25,53,48,5,293,43,Herne Hill Harriers
+2025,New course,48,Herne Hill Harriers,B,complete,1:46:58,6,Simon Coombes,18:32,1:46:57,48,51,-3,367,52,Herne Hill Harriers
+2025,New course,49,Sale Harriers Manchester,,complete,1:47:20,1,George Noble,17:12,0:17:12,,55,,179,55,Sale Harriers Manchester
+2025,New course,49,Sale Harriers Manchester,,complete,1:47:20,2,Rueben Ashton,18:49,0:36:01,55,66,-11,390,72,Sale Harriers Manchester
+2025,New course,49,Sale Harriers Manchester,,complete,1:47:20,3,Finlay Day,17:31,0:53:32,66,59,7,234,40,Sale Harriers Manchester
+2025,New course,49,Sale Harriers Manchester,,complete,1:47:20,4,Alex Bradford,18:03,1:11:35,59,57,2,330,53,Sale Harriers Manchester
+2025,New course,49,Sale Harriers Manchester,,complete,1:47:20,5,Joshua Andrew,18:17,1:29:52,57,56,1,347,49,Sale Harriers Manchester
+2025,New course,49,Sale Harriers Manchester,,complete,1:47:20,6,Joseph Godwood,17:28,1:47:20,56,52,4,221,28,Sale Harriers Manchester
+2025,New course,50,Border Harriers & AC,,complete,1:47:49,1,James Salt,17:57,0:17:57,,69,,314,69,Border Harriers & Ac
+2025,New course,50,Border Harriers & AC,,complete,1:47:49,2,James Douglas,17:37,0:35:34,69,62,7,253,48,Border Harriers & Ac
+2025,New course,50,Border Harriers & AC,,complete,1:47:49,3,David Rich,17:55,0:53:29,62,58,4,307,51,Border Harriers & Ac
+2025,New course,50,Border Harriers & AC,,complete,1:47:49,4,Oliver Dustin,17:44,1:11:13,58,55,3,277,38,Border Harriers & Ac
+2025,New course,50,Border Harriers & AC,,complete,1:47:49,5,Ross Landon,19:20,1:30:33,55,58,-3,419,69,Border Harriers & Ac
+2025,New course,50,Border Harriers & AC,,complete,1:47:49,6,Tom Humphries,17:17,1:47:50,58,53,5,190,24,Border Harriers & Ac
+2025,New course,51,Rossendale Harriers & AC,,complete,1:48:25,1,Benjamin Kirkman,16:41,0:16:41,,31,,91,31,Rossendale Harriers & Ac
+2025,New course,51,Rossendale Harriers & AC,,complete,1:48:25,2,Jonathan Cleaver,17:54,0:34:35,31,46,-15,302,57,Rossendale Harriers & Ac
+2025,New course,51,Rossendale Harriers & AC,,complete,1:48:25,3,Robert Webb,17:52,0:52:27,46,51,-5,297,50,Rossendale Harriers & Ac
+2025,New course,51,Rossendale Harriers & AC,,complete,1:48:25,4,Stephen Corbishley,17:57,1:10:24,51,50,1,314,50,Rossendale Harriers & Ac
+2025,New course,51,Rossendale Harriers & AC,,complete,1:48:25,5,Chris Clare,18:19,1:28:43,50,51,-1,350,51,Rossendale Harriers & Ac
+2025,New course,51,Rossendale Harriers & AC,,complete,1:48:25,6,Dominic Popland,19:42,1:48:25,51,54,-3,428,63,Rossendale Harriers & Ac
+2025,New course,52,Rotherham Harriers & AC,,complete,1:48:31,1,Josh Wragg,17:44,0:17:44,,65,,277,65,Rotherham Harriers & Ac
+2025,New course,52,Rotherham Harriers & AC,,complete,1:48:31,2,James Mellor,17:49,0:35:33,65,61,4,285,55,Rotherham Harriers & Ac
+2025,New course,52,Rotherham Harriers & AC,,complete,1:48:31,3,Daniel Reeve,17:44,0:53:17,61,57,4,277,48,Rotherham Harriers & Ac
+2025,New course,52,Rotherham Harriers & AC,,complete,1:48:31,4,Ben Burton,18:09,1:11:26,57,56,1,339,54,Rotherham Harriers & Ac
+2025,New course,52,Rotherham Harriers & AC,,complete,1:48:31,5,Jack Williams,19:08,1:30:34,56,59,-3,410,67,Rotherham Harriers & Ac
+2025,New course,52,Rotherham Harriers & AC,,complete,1:48:31,6,Gareth Sampson,17:56,1:48:30,59,55,4,309,39,Rotherham Harriers & Ac
+2025,New course,53,Swindon Harriers,B,complete,1:48:48,1,Isaac Mcadam,17:42,0:17:42,,64,,269,64,Swindon Harriers
+2025,New course,53,Swindon Harriers,B,complete,1:48:48,2,Isaac Mould,17:58,0:35:40,64,63,1,316,59,Swindon Harriers
+2025,New course,53,Swindon Harriers,B,complete,1:48:48,3,Simon Dill,19:05,0:54:45,63,66,-3,404,71,Swindon Harriers
+2025,New course,53,Swindon Harriers,B,complete,1:48:48,4,Josh Burns,19:05,1:13:50,66,63,3,404,61,Swindon Harriers
+2025,New course,53,Swindon Harriers,B,complete,1:48:48,5,Alex Bampton,16:59,1:30:49,63,60,3,147,19,Swindon Harriers
+2025,New course,53,Swindon Harriers,B,complete,1:48:48,6,M Harrisontosatto,17:59,1:48:48,60,56,4,320,42,Swindon Harriers
+2025,New course,54,Bedford & County AC,B,complete,1:48:54,1,Theo Beale,16:51,0:16:51,,42,,128,42,Bedford & County Ac
+2025,New course,54,Bedford & County AC,B,complete,1:48:54,2,Jacob Schuricht,17:54,0:34:45,42,50,-8,302,57,Bedford & County Ac
+2025,New course,54,Bedford & County AC,B,complete,1:48:54,3,Peter Benedickter,17:58,0:52:43,50,54,-4,316,52,Bedford & County Ac
+2025,New course,54,Bedford & County AC,B,complete,1:48:54,4,James Prior,19:17,1:12:00,54,58,-4,417,64,Bedford & County Ac
+2025,New course,54,Bedford & County AC,B,complete,1:48:54,5,Isaac Mitchell,18:23,1:30:23,58,57,1,356,53,Bedford & County Ac
+2025,New course,54,Bedford & County AC,B,complete,1:48:54,6,Craig Emmerson,18:31,1:48:54,57,57,0,365,50,Bedford & County Ac
+2025,New course,55,East Cheshire Harriers & Tameside AC,,complete,1:49:05,1,Joseph Hudak,17:01,0:17:01,,49,,152,49,East Cheshire Harriers & Tames
+2025,New course,55,East Cheshire Harriers & Tameside AC,,complete,1:49:05,2,B Kenyonbetts,17:36,0:34:37,49,48,1,249,46,East Cheshire Harriers & Tames
+2025,New course,55,East Cheshire Harriers & Tameside AC,,complete,1:49:05,3,Gavin Browne,17:39,0:52:16,48,46,2,262,44,East Cheshire Harriers & Tames
+2025,New course,55,East Cheshire Harriers & Tameside AC,,complete,1:49:05,4,Michael Holness,17:29,1:09:45,46,43,3,224,30,East Cheshire Harriers & Tames
+2025,New course,55,East Cheshire Harriers & Tameside AC,,complete,1:49:05,5,Howard Oldham,19:03,1:28:48,43,52,-9,402,63,East Cheshire Harriers & Tames
+2025,New course,55,East Cheshire Harriers & Tameside AC,,complete,1:49:05,6,Daniel Kavanagh,20:17,1:49:05,52,58,-6,448,70,East Cheshire Harriers & Tames
+2025,New course,56,Windsor Slough Eton & Hounslow AC,,complete,1:49:53,1,George Thomas,17:27,0:17:27,,57,,219,57,Windsor Slough Eton & Hounslow
+2025,New course,56,Windsor Slough Eton & Hounslow AC,,complete,1:49:53,2,Sarim Toqeer,17:28,0:34:55,57,52,5,221,42,Windsor Slough Eton & Hounslow
+2025,New course,56,Windsor Slough Eton & Hounslow AC,,complete,1:49:53,3,Ben Reynolds,17:26,0:52:21,52,50,2,216,37,Windsor Slough Eton & Hounslow
+2025,New course,56,Windsor Slough Eton & Hounslow AC,,complete,1:49:53,4,Jack Campbell,18:00,1:10:21,50,49,1,323,52,Windsor Slough Eton & Hounslow
+2025,New course,56,Windsor Slough Eton & Hounslow AC,,complete,1:49:53,5,Sam Thuo,18:37,1:28:58,49,54,-5,371,57,Windsor Slough Eton & Hounslow
+2025,New course,56,Windsor Slough Eton & Hounslow AC,,complete,1:49:53,6,Sohan Nath,20:55,1:49:53,54,59,-5,457,72,Windsor Slough Eton & Hounslow
+2025,New course,57,Notts AC,B,complete,1:50:11,1,Amdebrhan Berhe,17:30,0:17:30,,60,,230,59,Notts Ac
+2025,New course,57,Notts AC,B,complete,1:50:11,2,William Trease,17:42,0:35:12,60,59,1,269,51,Notts Ac
+2025,New course,57,Notts AC,B,complete,1:50:11,3,Finlay Hutchinson,18:25,0:53:37,59,60,-1,358,61,Notts Ac
+2025,New course,57,Notts AC,B,complete,1:50:11,4,Daniel Ryan,18:34,1:12:11,60,59,1,369,58,Notts Ac
+2025,New course,57,Notts AC,B,complete,1:50:11,5,Steve Long,19:05,1:31:16,59,61,-2,404,65,Notts Ac
+2025,New course,57,Notts AC,B,complete,1:50:11,6,Anthony Woodward,18:56,1:50:12,61,60,1,396,56,Notts Ac
+2025,New course,58,Trafford AC,,complete,1:50:21,1,Sam Jackson,17:06,0:17:06,,51,,161,51,Trafford Ac
+2025,New course,58,Trafford AC,,complete,1:50:21,2,Jeff Prest,18:23,0:35:29,51,60,-9,356,64,Trafford Ac
+2025,New course,58,Trafford AC,,complete,1:50:21,3,Finley Mayoh,18:20,0:53:49,60,61,-1,352,60,Trafford Ac
+2025,New course,58,Trafford AC,,complete,1:50:21,4,Seb Patrick,19:19,1:13:08,61,61,0,418,65,Trafford Ac
+2025,New course,58,Trafford AC,,complete,1:50:21,5,Michael Melarkey,18:30,1:31:38,61,62,-1,364,56,Trafford Ac
+2025,New course,58,Trafford AC,,complete,1:50:21,6,Simon O'meara,18:42,1:50:20,62,61,1,377,55,Trafford Ac
+2025,New course,59,Birmingham Running Athletics & Triathlon (BRAT),B,complete,1:50:33,1,Daniel Robinson,18:02,0:18:02,,72,,328,72,Birmingham Running Athletics &
+2025,New course,59,Birmingham Running Athletics & Triathlon (BRAT),B,complete,1:50:33,2,Joseph Read,18:44,0:36:46,72,71,1,379,67,Birmingham Running Athletics &
+2025,New course,59,Birmingham Running Athletics & Triathlon (BRAT),B,complete,1:50:33,3,Peter Brookes,18:29,0:55:15,71,68,3,361,62,Birmingham Running Athletics &
+2025,New course,59,Birmingham Running Athletics & Triathlon (BRAT),B,complete,1:50:33,4,Robert Vaughan,18:13,1:13:28,68,62,6,345,56,Birmingham Running Athletics &
+2025,New course,59,Birmingham Running Athletics & Triathlon (BRAT),B,complete,1:50:33,5,Abayomi Adedimeji,18:48,1:32:16,62,63,-1,385,58,Birmingham Running Athletics &
+2025,New course,59,Birmingham Running Athletics & Triathlon (BRAT),B,complete,1:50:33,6,Sam Collins,18:19,1:50:35,63,62,1,350,48,Birmingham Running Athletics &
+2025,New course,60,Lincoln Wellington AC,,complete,1:50:46,1,Shane Robinson,17:09,0:17:09,,52,,169,52,Lincoln Wellington Ac
+2025,New course,60,Lincoln Wellington AC,,complete,1:50:46,2,Henry Samkin,17:25,0:34:34,52,45,7,215,41,Lincoln Wellington Ac
+2025,New course,60,Lincoln Wellington AC,,complete,1:50:46,3,Tyler Morris,17:29,0:52:03,45,42,3,224,38,Lincoln Wellington Ac
+2025,New course,60,Lincoln Wellington AC,,complete,1:50:46,4,Danny Hickson,18:53,1:10:56,42,54,-12,394,60,Lincoln Wellington Ac
+2025,New course,60,Lincoln Wellington AC,,complete,1:50:46,5,Oliver Cooney,18:50,1:29:46,54,55,-1,391,59,Lincoln Wellington Ac
+2025,New course,60,Lincoln Wellington AC,,complete,1:50:46,6,Archie Richardson,21:01,1:50:47,55,63,-8,458,73,Lincoln Wellington Ac
+2025,New course,61,Warriors Pentathlon & AC,,complete,1:52:08,1,Oberon Kearney,17:38,0:17:38,,63,,257,62,Warriors Pentathlon & Ac
+2025,New course,61,Warriors Pentathlon & AC,,complete,1:52:08,2,A Haggardkearney,17:30,0:35:08,63,57,6,230,43,Warriors Pentathlon & Ac
+2025,New course,61,Warriors Pentathlon & AC,,complete,1:52:08,3,James Jones,19:22,0:54:30,57,65,-8,422,73,Warriors Pentathlon & Ac
+2025,New course,61,Warriors Pentathlon & AC,,complete,1:52:08,4,Jack Berry,19:51,1:14:21,65,65,0,438,69,Warriors Pentathlon & Ac
+2025,New course,61,Warriors Pentathlon & AC,,complete,1:52:08,5,Max Done,19:16,1:33:37,65,65,0,415,68,Warriors Pentathlon & Ac
+2025,New course,61,Warriors Pentathlon & AC,,complete,1:52:08,6,Noel Ford,18:31,1:52:08,65,64,1,365,50,Warriors Pentathlon & Ac
+2025,New course,62,Tipton Harriers,A,complete,1:52:39,1,Kane Salmonhodges,17:32,0:17:32,,61,,237,61,Tipton Harriers
+2025,New course,62,Tipton Harriers,A,complete,1:52:39,2,Tyler Kendrick,18:48,0:36:20,61,67,-6,385,69,Tipton Harriers
+2025,New course,62,Tipton Harriers,A,complete,1:52:39,3,Dylan Illidge,18:47,0:55:07,67,67,0,383,68,Tipton Harriers
+2025,New course,62,Tipton Harriers,A,complete,1:52:39,4,T Hynesoughton,18:48,1:13:55,67,64,3,385,59,Tipton Harriers
+2025,New course,62,Tipton Harriers,A,complete,1:52:39,5,Nicholas Castle,19:03,1:32:58,64,64,0,402,63,Tipton Harriers
+2025,New course,62,Tipton Harriers,A,complete,1:52:39,6,Tom Holden,19:39,1:52:37,64,65,-1,427,62,Tipton Harriers
+2025,New course,63,Nuneaton Harriers,,complete,1:52:47,1,Harry Robinson,17:11,0:17:11,,54,,175,54,Nuneaton Harriers
+2025,New course,63,Nuneaton Harriers,,complete,1:52:47,2,Jonathan Ritchie,19:31,0:36:42,54,69,-15,424,77,Nuneaton Harriers
+2025,New course,63,Nuneaton Harriers,,complete,1:52:47,3,Louie Paddison,18:58,0:55:40,69,70,-1,397,70,Nuneaton Harriers
+2025,New course,63,Nuneaton Harriers,,complete,1:52:47,4,Matiss Murphy,20:04,1:15:44,70,71,-1,440,70,Nuneaton Harriers
+2025,New course,63,Nuneaton Harriers,,complete,1:52:47,5,Toby Ward,18:26,1:34:10,71,68,3,360,54,Nuneaton Harriers
+2025,New course,63,Nuneaton Harriers,,complete,1:52:47,6,Myles Draper,18:37,1:52:47,68,66,2,371,53,Nuneaton Harriers
+2025,New course,64,Royal Sutton Coldfield AC,,complete,1:53:03,1,Alex Seabright,18:00,0:18:00,,71,,323,71,Royal Sutton Coldfield Ac
+2025,New course,64,Royal Sutton Coldfield AC,,complete,1:53:03,2,David Sutton,17:43,0:35:43,71,64,7,273,52,Royal Sutton Coldfield Ac
+2025,New course,64,Royal Sutton Coldfield AC,,complete,1:53:03,3,William Stead,18:40,0:54:23,64,64,0,374,64,Royal Sutton Coldfield Ac
+2025,New course,64,Royal Sutton Coldfield AC,,complete,1:53:03,4,Max Mccall,20:26,1:14:49,64,66,-2,452,73,Royal Sutton Coldfield Ac
+2025,New course,64,Royal Sutton Coldfield AC,,complete,1:53:03,5,Tony Davies,18:59,1:33:48,66,66,0,398,61,Royal Sutton Coldfield Ac
+2025,New course,64,Royal Sutton Coldfield AC,,complete,1:53:03,6,Thomas Lloyd,19:16,1:53:04,66,67,-1,415,60,Royal Sutton Coldfield Ac
+2025,New course,65,Charnwood AC,,complete,1:53:48,1,George Buttery,17:49,0:17:49,,67,,285,67,Charnwood A C
+2025,New course,65,Charnwood AC,,complete,1:53:48,2,Stephen Mears,18:44,0:36:33,67,68,-1,379,67,Charnwood A C
+2025,New course,65,Charnwood AC,,complete,1:53:48,3,David Locker,18:45,0:55:18,68,69,-1,381,67,Charnwood A C
+2025,New course,65,Charnwood AC,,complete,1:53:48,4,B Champneysdavies,19:44,1:15:02,69,69,0,433,68,Charnwood A C
+2025,New course,65,Charnwood AC,,complete,1:53:48,5,Luca Axton,19:47,1:34:49,69,69,0,435,72,Charnwood A C
+2025,New course,65,Charnwood AC,,complete,1:53:48,6,James Norman,19:00,1:53:49,69,68,1,400,57,Charnwood A C
+2025,New course,66,Liverpool Harriers & AC,B,complete,1:54:23,1,Mark Ryan,18:22,0:18:22,,74,,354,74,Liverpool Harriers & Ac
+2025,New course,66,Liverpool Harriers & AC,B,complete,1:54:23,2,Keelan Hopewell,18:34,0:36:56,74,74,0,369,65,Liverpool Harriers & Ac
+2025,New course,66,Liverpool Harriers & AC,B,complete,1:54:23,3,Ethan Dunn,18:47,0:55:43,74,71,3,383,68,Liverpool Harriers & Ac
+2025,New course,66,Liverpool Harriers & AC,B,complete,1:54:23,4,Richard Lysons,19:15,1:14:58,71,67,4,413,63,Liverpool Harriers & Ac
+2025,New course,66,Liverpool Harriers & AC,B,complete,1:54:23,5,Hywel Care,19:02,1:34:00,67,67,0,401,62,Liverpool Harriers & Ac
+2025,New course,66,Liverpool Harriers & AC,B,complete,1:54:23,6,Callum Grant,20:23,1:54:23,67,69,-2,451,71,Liverpool Harriers & Ac
+2025,New course,67,Knowle & Dorridge RC,,complete,1:56:14,1,Matt Hipwell,18:25,0:18:25,,75,,358,75,Knowle & Dorridge Rc
+2025,New course,67,Knowle & Dorridge RC,,complete,1:56:14,2,Gareth Wainwright,18:54,0:37:19,75,75,0,395,74,Knowle & Dorridge Rc
+2025,New course,67,Knowle & Dorridge RC,,complete,1:56:14,3,Chris Sharp,18:41,0:56:00,75,72,3,376,65,Knowle & Dorridge Rc
+2025,New course,67,Knowle & Dorridge RC,,complete,1:56:14,4,Luke Scarr,19:20,1:15:20,72,70,2,419,66,Knowle & Dorridge Rc
+2025,New course,67,Knowle & Dorridge RC,,complete,1:56:14,5,Alexander Hawkins,19:46,1:35:06,70,70,0,434,71,Knowle & Dorridge Rc
+2025,New course,67,Knowle & Dorridge RC,,complete,1:56:14,6,Torsten Roesler,21:08,1:56:14,70,70,0,459,74,Knowle & Dorridge Rc
+2025,New course,68,Halesowen A&CC,,complete,1:56:38,1,Ethan Jordan,19:50,0:19:50,,78,,437,78,Halesowen Acc
+2025,New course,68,Halesowen A&CC,,complete,1:56:38,2,Matthew Wilkinson,19:57,0:39:47,78,79,-1,439,78,Halesowen Acc
+2025,New course,68,Halesowen A&CC,,complete,1:56:38,3,Alex Taylor,18:43,0:58:30,79,75,4,378,66,Halesowen Acc
+2025,New course,68,Halesowen A&CC,,complete,1:56:38,4,Rob Mcwilliams,20:09,1:18:39,75,73,2,444,72,Halesowen Acc
+2025,New course,68,Halesowen A&CC,,complete,1:56:38,5,Daniel Hailetsegay,17:54,1:36:33,73,72,1,302,45,Halesowen Acc
+2025,New course,68,Halesowen A&CC,,complete,1:56:38,6,Ben Russell,20:05,1:56:38,72,71,1,441,69,Halesowen Acc
+2025,New course,69,Stroud & District AC,,complete,1:57:05,1,Lee Stopford,16:48,0:16:48,,40,,117,36,Stroud & District Ac
+2025,New course,69,Stroud & District AC,,complete,1:57:05,2,Thomas Moreton,18:16,0:35:04,40,56,-16,346,63,Stroud & District Ac
+2025,New course,69,Stroud & District AC,,complete,1:57:05,3,Max Benfield,19:07,0:54:11,56,63,-7,408,72,Stroud & District Ac
+2025,New course,69,Stroud & District AC,,complete,1:57:05,4,Jason Barry,20:49,1:15:00,63,68,-5,455,75,Stroud & District Ac
+2025,New course,69,Stroud & District AC,,complete,1:57:05,5,Jody Hogg,20:17,1:35:17,68,71,-3,448,74,Stroud & District Ac
+2025,New course,69,Stroud & District AC,,complete,1:57:05,6,Reuben Dahdouh,21:48,1:57:05,71,72,-1,462,76,Stroud & District Ac
+2025,New course,70,Severn AC,,complete,1:57:27,1,Archie Fox,18:07,0:18:07,,73,,334,73,Severn Ac
+2025,New course,70,Severn AC,,complete,1:57:27,2,Simon Guilor,18:39,0:36:46,73,72,1,373,66,Severn Ac
+2025,New course,70,Severn AC,,complete,1:57:27,3,David Nield,23:11,0:59:57,72,77,-5,465,78,Severn Ac
+2025,New course,70,Severn AC,,complete,1:57:27,4,Dan Nurse,19:10,1:19:07,77,74,3,411,62,Severn Ac
+2025,New course,70,Severn AC,,complete,1:57:27,5,Arron Hoyle,19:07,1:38:14,74,73,1,408,66,Severn Ac
+2025,New course,70,Severn AC,,complete,1:57:27,6,James Rose,19:13,1:57:27,73,73,0,412,59,Severn Ac
+2025,New course,71,Bournville Harriers,,complete,1:58:40,1,Tom Bunn,18:29,0:18:29,,76,,361,76,Bournville Harriers
+2025,New course,71,Bournville Harriers,,complete,1:58:40,2,Jonathan Stanforth,20:21,0:38:50,76,77,-1,450,79,Bournville Harriers
+2025,New course,71,Bournville Harriers,,complete,1:58:40,3,Peter Williams,20:12,0:59:02,77,76,1,446,75,Bournville Harriers
+2025,New course,71,Bournville Harriers,,complete,1:58:40,4,Jonathan Mould,20:07,1:19:09,76,75,1,443,71,Bournville Harriers
+2025,New course,71,Bournville Harriers,,complete,1:58:40,5,Cian Whelan,20:10,1:39:19,75,75,0,445,73,Bournville Harriers
+2025,New course,71,Bournville Harriers,,complete,1:58:40,6,James Ashley,19:20,1:58:39,75,74,1,419,61,Bournville Harriers
+2025,New course,72,Vale Royal AC,B,complete,1:58:58,1,Isaac Leydon,17:44,0:17:44,,66,,277,65,Vale Royal Ac
+2025,New course,72,Vale Royal AC,B,complete,1:58:58,2,Oliver Williams,18:59,0:36:43,66,70,-4,398,75,Vale Royal Ac
+2025,New course,72,Vale Royal AC,B,complete,1:58:58,3,Simon Lumsden,19:34,0:56:17,70,73,-3,425,74,Vale Royal Ac
+2025,New course,72,Vale Royal AC,B,complete,1:58:58,4,Matthew Haslam,19:37,1:15:54,73,72,1,426,67,Vale Royal Ac
+2025,New course,72,Vale Royal AC,B,complete,1:58:58,5,Tom Heaward,23:16,1:39:10,72,74,-2,466,77,Vale Royal Ac
+2025,New course,72,Vale Royal AC,B,complete,1:58:58,6,Stuart Doyle,19:49,1:58:59,74,75,-1,436,68,Vale Royal Ac
+2025,New course,73,Aldridge RC,,complete,2:03:05,1,Liam Harrold,18:45,0:18:45,,77,,381,77,Aldridge Rc
+2025,New course,73,Aldridge RC,,complete,2:03:05,2,Adam Smith,18:48,0:37:33,77,76,1,385,69,Aldridge Rc
+2025,New course,73,Aldridge RC,,complete,2:03:05,3,Nathan Whale,20:13,0:57:46,76,74,2,447,76,Aldridge Rc
+2025,New course,73,Aldridge RC,,complete,2:03:05,4,Mark Shaw,21:40,1:19:26,74,76,-2,461,76,Aldridge Rc
+2025,New course,73,Aldridge RC,,complete,2:03:05,5,Harshad Patel,22:04,1:41:30,76,76,0,463,76,Aldridge Rc
+2025,New course,73,Aldridge RC,,complete,2:03:05,6,Jonathan Boyes,21:35,2:03:05,76,76,0,460,75,Aldridge Rc
+2025,New course,74,Tipton Harriers,B,complete,2:05:00,1,Dean Bate,20:06,0:20:06,,79,,442,79,Tipton Harriers
+2025,New course,74,Tipton Harriers,B,complete,2:05:00,2,Roy Chatterjee,19:15,0:39:21,79,78,1,413,76,Tipton Harriers
+2025,New course,74,Tipton Harriers,B,complete,2:05:00,3,Dean Hill,20:49,1:00:10,78,78,0,455,77,Tipton Harriers
+2025,New course,74,Tipton Harriers,B,complete,2:05:00,4,Krisztian Karasz,20:44,1:20:54,78,77,1,454,74,Tipton Harriers
+2025,New course,74,Tipton Harriers,B,complete,2:05:00,5,Stuart Perkins,20:39,1:41:33,77,77,0,453,75,Tipton Harriers
+2025,New course,74,Tipton Harriers,B,complete,2:05:00,6,Laurence Heathcock,23:26,2:04:59,77,77,0,467,77,Tipton Harriers
+2025,New course,,Bromsgrove & Redditch,,incomplete,,1,Peter Ball,17:59,0:17:59,,70,,320,70,Bromsgrove & Redditch
+2025,New course,,Bromsgrove & Redditch,,incomplete,,2,David Gemmell,18:52,0:36:51,70,73,-3,393,73,Bromsgrove & Redditch
+2025,New course,,Derby AC (inc. Derby & County AC),,incomplete,,1,J Davies,17:10,0:17:10,,53,,171,53,Derby Ac
+2025,New course,,Derby AC (inc. Derby & County AC),,incomplete,,2,William Wright,18:48,0:35:58,53,65,-12,385,69,Derby Ac
+2025,New course,,Derby AC (inc. Derby & County AC),,incomplete,,3,Louis Dunne,18:10,0:54:08,65,62,3,341,59,Derby Ac

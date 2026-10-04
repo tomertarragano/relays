@@ -1,0 +1,488 @@
+﻿year,venue,team_pos,club,team,team_status,team_time,leg,runner,leg_time,cumulative_time,pos_before_leg,pos_after_leg,places_gained,rank_all_legs_that_year,rank_on_this_leg_that_year,club_as_printed
+2016,Sutton Park,1,Cardiff AAC,A,complete,1:45:52,1,Rowan Axe,17:27,0:17:27,,5,,16,5,Cardiff Aac
+2016,Sutton Park,1,Cardiff AAC,A,complete,1:45:52,2,Matthew Clowes,17:41,0:35:08,5,2,3,35,8,Cardiff Aac
+2016,Sutton Park,1,Cardiff AAC,A,complete,1:45:52,3,Carwyn Jones,17:57,0:53:05,2,3,-1,59,8,Cardiff Aac
+2016,Sutton Park,1,Cardiff AAC,A,complete,1:45:52,4,Ieuan Thomas,17:25,1:10:30,3,2,1,14,3,Cardiff Aac
+2016,Sutton Park,1,Cardiff AAC,A,complete,1:45:52,5,Michael Kallenbe,17:58,1:28:28,2,1,1,62,9,Cardiff Aac
+2016,Sutton Park,1,Cardiff AAC,A,complete,1:45:52,6,Tom Marshall,17:24,1:45:52,1,1,0,11,1,Cardiff Aac
+2016,Sutton Park,2,Swansea Harriers,A,complete,1:45:55,1,Danal Desta,17:13,0:17:13,,2,,7,2,Swansea Harriers
+2016,Sutton Park,2,Swansea Harriers,A,complete,1:45:55,2,Jack Gooch,18:04,0:35:17,2,6,-4,75,14,Swansea Harriers
+2016,Sutton Park,2,Swansea Harriers,A,complete,1:45:55,3,Guy Smith,17:59,0:53:16,6,5,1,64,9,Swansea Harriers
+2016,Sutton Park,2,Swansea Harriers,A,complete,1:45:55,4,Dewi Griffiths,16:49,1:10:05,5,1,4,2,1,Swansea Harriers
+2016,Sutton Park,2,Swansea Harriers,A,complete,1:45:55,5,Jonathan Tobin,18:26,1:28:31,1,2,-1,126,16,Swansea Harriers
+2016,Sutton Park,2,Swansea Harriers,A,complete,1:45:55,6,Jon Hopkins,17:24,1:45:55,2,2,0,11,1,Swansea Harriers
+2016,Sutton Park,3,Liverpool Harriers & AC,A,complete,1:46:20,1,Daniel Cliffe,17:19,0:17:19,,4,,10,4,Liverpool Harriers & AC
+2016,Sutton Park,3,Liverpool Harriers & AC,A,complete,1:46:20,2,John Ashcroft,17:40,0:34:59,4,1,3,31,6,Liverpool Harriers & AC
+2016,Sutton Park,3,Liverpool Harriers & AC,A,complete,1:46:20,3,Cameron Field,17:47,0:52:46,1,1,0,47,4,Liverpool Harriers & AC
+2016,Sutton Park,3,Liverpool Harriers & AC,A,complete,1:46:20,4,Dejene Gezimu,18:11,1:10:57,1,3,-2,89,18,Liverpool Harriers & AC
+2016,Sutton Park,3,Liverpool Harriers & AC,A,complete,1:46:20,5,Ben Stevenson,17:41,1:28:38,3,3,0,35,6,Liverpool Harriers & AC
+2016,Sutton Park,3,Liverpool Harriers & AC,A,complete,1:46:20,6,Matthew Jackson,17:42,1:46:20,3,3,0,39,6,Liverpool Harriers & AC
+2016,Sutton Park,4,Tonbridge AC,A,complete,1:46:29,1,Corey De'ath,18:23,0:18:23,,30,,121,30,Tonbridge AC
+2016,Sutton Park,4,Tonbridge AC,A,complete,1:46:29,2,James West,17:32,0:35:55,30,12,18,23,4,Tonbridge AC
+2016,Sutton Park,4,Tonbridge AC,A,complete,1:46:29,3,Alasdair Kinloch,18:01,0:53:56,12,10,2,69,12,Tonbridge AC
+2016,Sutton Park,4,Tonbridge AC,A,complete,1:46:29,4,Tom Holden,17:37,1:11:33,10,6,4,28,5,Tonbridge AC
+2016,Sutton Park,4,Tonbridge AC,A,complete,1:46:29,5,George Duggan,17:27,1:29:00,6,5,1,16,4,Tonbridge AC
+2016,Sutton Park,4,Tonbridge AC,A,complete,1:46:29,6,Christopher Olle,17:29,1:46:29,5,4,1,19,3,Tonbridge AC
+2016,Sutton Park,5,Derby AC (inc. Derby & County AC),,complete,1:46:45,1,Hedley Hardcastl,18:17,0:18:17,,28,,107,28,Derby AC
+2016,Sutton Park,5,Derby AC (inc. Derby & County AC),,complete,1:46:45,2,Matthew White,17:59,0:36:16,28,18,10,64,11,Derby AC
+2016,Sutton Park,5,Derby AC (inc. Derby & County AC),,complete,1:46:45,3,Hugo Milner,18:10,0:54:26,18,15,3,87,14,Derby AC
+2016,Sutton Park,5,Derby AC (inc. Derby & County AC),,complete,1:46:45,4,Ben Connor,17:05,1:11:31,15,5,10,3,2,Derby AC
+2016,Sutton Park,5,Derby AC (inc. Derby & County AC),,complete,1:46:45,5,Luke Gunn,17:44,1:29:15,5,7,-2,43,7,Derby AC
+2016,Sutton Park,5,Derby AC (inc. Derby & County AC),,complete,1:46:45,6,Richard Weir,17:30,1:46:45,7,5,2,20,4,Derby AC
+2016,Sutton Park,6,Notts AC,A,complete,1:47:07,1,Rob Keal,18:14,0:18:14,,25,,101,25,Notts AC
+2016,Sutton Park,6,Notts AC,A,complete,1:47:07,2,Tim Hartley,18:24,0:36:38,25,24,1,122,25,Notts AC
+2016,Sutton Park,6,Notts AC,A,complete,1:47:07,3,Stuart Spencer,17:50,0:54:28,24,16,8,50,5,Notts AC
+2016,Sutton Park,6,Notts AC,A,complete,1:47:07,4,Jonathan Thewlis,17:42,1:12:10,16,12,4,39,7,Notts AC
+2016,Sutton Park,6,Notts AC,A,complete,1:47:07,5,Alastair Watson,17:24,1:29:34,12,9,3,11,2,Notts AC
+2016,Sutton Park,6,Notts AC,A,complete,1:47:07,6,Douglas Musson,17:33,1:47:07,9,6,3,25,5,Notts AC
+2016,Sutton Park,7,Central AC,,complete,1:47:23,1,Dale Colley,18:16,0:18:16,,27,,104,27,Central AC
+2016,Sutton Park,7,Central AC,,complete,1:47:23,2,Alexander Hendry,18:11,0:36:27,27,21,6,89,18,Central AC
+2016,Sutton Park,7,Central AC,,complete,1:47:23,3,Alastair Hay,17:59,0:54:26,21,14,7,64,9,Central AC
+2016,Sutton Park,7,Central AC,,complete,1:47:23,4,Conan Mccaughey,18:12,1:12:38,14,16,-2,95,19,Central AC
+2016,Sutton Park,7,Central AC,,complete,1:47:23,5,Andrew Butchart,16:29,1:29:07,16,6,10,1,1,Central AC
+2016,Sutton Park,7,Central AC,,complete,1:47:23,6,Jamie Crowe,18:16,1:47:23,6,7,-1,104,11,Central AC
+2016,Sutton Park,8,Aldershot Farnham & District AC,A,complete,1:47:44,1,Joshua Grace,17:10,0:17:10,,1,,6,1,Aldershot Farnham & District
+2016,Sutton Park,8,Aldershot Farnham & District AC,A,complete,1:47:44,2,Ben Bradley,18:10,0:35:20,1,7,-6,87,17,Aldershot Farnham & District
+2016,Sutton Park,8,Aldershot Farnham & District AC,A,complete,1:47:44,3,Matthew Arnold,18:22,0:53:42,7,7,0,114,19,Aldershot Farnham & District
+2016,Sutton Park,8,Aldershot Farnham & District AC,A,complete,1:47:44,4,Jack Rowe,17:47,1:11:29,7,4,3,47,9,Aldershot Farnham & District
+2016,Sutton Park,8,Aldershot Farnham & District AC,A,complete,1:47:44,5,Jake Cvetkovic,17:53,1:29:22,4,8,-4,52,8,Aldershot Farnham & District
+2016,Sutton Park,8,Aldershot Farnham & District AC,A,complete,1:47:44,6,Joe Morwood,18:22,1:47:44,8,8,0,114,12,Aldershot Farnham & District
+2016,Sutton Park,9,Highgate Harriers,A,complete,1:47:58,1,Robel Bahelbi,17:34,0:17:34,,9,,26,9,Highgate Harriers
+2016,Sutton Park,9,Highgate Harriers,A,complete,1:47:58,2,Danny Russell,18:22,0:35:56,9,13,-4,114,23,Highgate Harriers
+2016,Sutton Park,9,Highgate Harriers,A,complete,1:47:58,3,Robert Wilson,18:33,0:54:29,13,17,-4,149,24,Highgate Harriers
+2016,Sutton Park,9,Highgate Harriers,A,complete,1:47:58,4,C Rainsford,18:04,1:12:33,17,15,2,75,14,Highgate Harriers
+2016,Sutton Park,9,Highgate Harriers,A,complete,1:47:58,5,Andy Maud,17:36,1:30:09,15,11,4,27,5,Highgate Harriers
+2016,Sutton Park,9,Highgate Harriers,A,complete,1:47:58,6,Shaun Dixon,17:49,1:47:58,11,9,2,49,7,Highgate Harriers
+2016,Sutton Park,10,Morpeth Harriers & AC,A,complete,1:48:07,1,Scott Beattie,17:38,0:17:38,,10,,29,10,Morpeth Harriers & AC
+2016,Sutton Park,10,Morpeth Harriers & AC,A,complete,1:48:07,2,Sam Hancox,18:44,0:36:22,10,20,-10,183,40,Morpeth Harriers & AC
+2016,Sutton Park,10,Morpeth Harriers & AC,A,complete,1:48:07,3,Nicholas Swinbur,17:46,0:54:08,20,11,9,44,2,Morpeth Harriers & AC
+2016,Sutton Park,10,Morpeth Harriers & AC,A,complete,1:48:07,4,Carl Avery,17:55,1:12:03,11,11,0,56,12,Morpeth Harriers & AC
+2016,Sutton Park,10,Morpeth Harriers & AC,A,complete,1:48:07,5,Peter Newton,17:58,1:30:01,11,10,1,62,9,Morpeth Harriers & AC
+2016,Sutton Park,10,Morpeth Harriers & AC,A,complete,1:48:07,6,Ian Hudspith,18:06,1:48:07,10,10,0,80,9,Morpeth Harriers & AC
+2016,Sutton Park,11,Bristol & West AC,A,complete,1:48:51,1,William Christof,17:56,0:17:56,,14,,57,14,Bristol & West Ac (Est.1882)
+2016,Sutton Park,11,Bristol & West AC,A,complete,1:48:51,2,Owain Jones,18:11,0:36:07,14,16,-2,89,18,Bristol & West Ac (Est.1882)
+2016,Sutton Park,11,Bristol & West AC,A,complete,1:48:51,3,Jarlath Mckenna,17:41,0:53:48,16,9,7,35,1,Bristol & West Ac (Est.1882)
+2016,Sutton Park,11,Bristol & West AC,A,complete,1:48:51,4,Stephen Mitchell,17:46,1:11:34,9,7,2,44,8,Bristol & West Ac (Est.1882)
+2016,Sutton Park,11,Bristol & West AC,A,complete,1:48:51,5,Daniel Studley,17:26,1:29:00,7,4,3,15,3,Bristol & West Ac (Est.1882)
+2016,Sutton Park,11,Bristol & West AC,A,complete,1:48:51,6,Richard Peters,19:51,1:48:51,4,11,-7,367,48,Bristol & West Ac (Est.1882)
+2016,Sutton Park,12,Southampton AC,A,complete,1:48:57,1,Mahamed Mahamed,17:17,0:17:17,,3,,9,3,Southampton AC
+2016,Sutton Park,12,Southampton AC,A,complete,1:48:57,2,Alex Wallclarke,17:54,0:35:11,3,3,0,55,10,Southampton AC
+2016,Sutton Park,12,Southampton AC,A,complete,1:48:57,3,Jamie Knapp,18:22,0:53:33,3,6,-3,114,19,Southampton AC
+2016,Sutton Park,12,Southampton AC,A,complete,1:48:57,4,Jonathan Roberts,18:06,1:11:39,6,8,-2,80,16,Southampton AC
+2016,Sutton Park,12,Southampton AC,A,complete,1:48:57,5,Ben Brewster,18:46,1:30:25,8,13,-5,188,21,Southampton AC
+2016,Sutton Park,12,Southampton AC,A,complete,1:48:57,6,Matthew Bennett,18:32,1:48:57,13,12,1,146,15,Southampton AC
+2016,Sutton Park,13,Sale Harriers Manchester,A,complete,1:48:58,1,Matthew Barnes,18:01,0:18:01,,16,,69,16,Sale Harriers Manchester
+2016,Sutton Park,13,Sale Harriers Manchester,A,complete,1:48:58,2,Matt Bond,17:15,0:35:16,16,5,11,8,3,Sale Harriers Manchester
+2016,Sutton Park,13,Sale Harriers Manchester,A,complete,1:48:58,3,Jamie Roden,17:46,0:53:02,5,2,3,44,2,Sale Harriers Manchester
+2016,Sutton Park,13,Sale Harriers Manchester,A,complete,1:48:58,4,Nigel Martin,18:40,1:11:42,2,9,-7,169,26,Sale Harriers Manchester
+2016,Sutton Park,13,Sale Harriers Manchester,A,complete,1:48:58,5,Joseph Vis,18:40,1:30:22,9,12,-3,169,19,Sale Harriers Manchester
+2016,Sutton Park,13,Sale Harriers Manchester,A,complete,1:48:58,6,Euan Gilchrist,18:36,1:48:58,12,13,-1,163,16,Sale Harriers Manchester
+2016,Sutton Park,14,Salford Harriers & AC,A,complete,1:49:05,1,Chris Livesey,18:24,0:18:24,,31,,122,31,Salford Harriers & AC
+2016,Sutton Park,14,Salford Harriers & AC,A,complete,1:49:05,2,Adam Slodowicz,18:29,0:36:53,31,30,1,135,26,Salford Harriers & AC
+2016,Sutton Park,14,Salford Harriers & AC,A,complete,1:49:05,3,Tom Cornthwaite,18:07,0:55:00,30,21,9,83,13,Salford Harriers & AC
+2016,Sutton Park,14,Salford Harriers & AC,A,complete,1:49:05,4,Carl Hardman,17:32,1:12:32,21,14,7,23,4,Salford Harriers & AC
+2016,Sutton Park,14,Salford Harriers & AC,A,complete,1:49:05,5,David Rigby,18:20,1:30:52,14,15,-1,111,12,Salford Harriers & AC
+2016,Sutton Park,14,Salford Harriers & AC,A,complete,1:49:05,6,Joseph Bailey,18:13,1:49:05,15,14,1,98,10,Salford Harriers & AC
+2016,Sutton Park,15,Lincoln Wellington AC,A,complete,1:49:13,1,Shane Robinson,18:46,0:18:46,,50,,188,50,Lincoln Wellington AC
+2016,Sutton Park,15,Lincoln Wellington AC,A,complete,1:49:13,2,Tom Straw,18:08,0:36:54,50,31,19,85,15,Lincoln Wellington AC
+2016,Sutton Park,15,Lincoln Wellington AC,A,complete,1:49:13,3,Matthew Bowser,17:53,0:54:47,31,19,12,52,6,Lincoln Wellington AC
+2016,Sutton Park,15,Lincoln Wellington AC,A,complete,1:49:13,4,Aaron Scott,17:52,1:12:39,19,17,2,51,10,Lincoln Wellington AC
+2016,Sutton Park,15,Lincoln Wellington AC,A,complete,1:49:13,5,Joe Wilkinson,18:07,1:30:46,17,14,3,83,11,Lincoln Wellington AC
+2016,Sutton Park,15,Lincoln Wellington AC,A,complete,1:49:13,6,Thomas Trimble,18:27,1:49:13,14,15,-1,129,13,Lincoln Wellington AC
+2016,Sutton Park,16,Birchfield Harriers,,complete,1:50:07,1,Alex Tovey,17:43,0:17:43,,13,,42,13,Birchfield Harriers
+2016,Sutton Park,16,Birchfield Harriers,,complete,1:50:07,2,Jack Hallas,18:22,0:36:05,13,15,-2,114,23,Birchfield Harriers
+2016,Sutton Park,16,Birchfield Harriers,,complete,1:50:07,3,Andrew Peat,18:33,0:54:38,15,18,-3,149,24,Birchfield Harriers
+2016,Sutton Park,16,Birchfield Harriers,,complete,1:50:07,4,William Richards,17:40,1:12:18,18,13,5,31,6,Birchfield Harriers
+2016,Sutton Park,16,Birchfield Harriers,,complete,1:50:07,5,Ridley Andrew,18:56,1:31:14,13,17,-4,210,23,Birchfield Harriers
+2016,Sutton Park,16,Birchfield Harriers,,complete,1:50:07,6,Thomas Dodd,18:53,1:50:07,17,16,1,204,20,Birchfield Harriers
+2016,Sutton Park,17,Cheltenham & County Harriers,A,complete,1:50:19,1,Oliver Mott,18:05,0:18:05,,20,,79,20,Cheltenham & County Harriers
+2016,Sutton Park,17,Cheltenham & County Harriers,A,complete,1:50:19,2,Graham Rush,17:07,0:35:12,20,4,16,4,1,Cheltenham & County Harriers
+2016,Sutton Park,17,Cheltenham & County Harriers,A,complete,1:50:19,3,Philip Wylie,17:56,0:53:08,4,4,0,57,7,Cheltenham & County Harriers
+2016,Sutton Park,17,Cheltenham & County Harriers,A,complete,1:50:19,4,Alex Lee,18:41,1:11:49,4,10,-6,172,27,Cheltenham & County Harriers
+2016,Sutton Park,17,Cheltenham & County Harriers,A,complete,1:50:19,5,Harry Bishop,19:12,1:31:01,10,16,-6,262,32,Cheltenham & County Harriers
+2016,Sutton Park,17,Cheltenham & County Harriers,A,complete,1:50:19,6,John Parker,19:18,1:50:19,16,17,-1,281,33,Cheltenham & County Harriers
+2016,Sutton Park,18,Leeds City AC,A,complete,1:50:21,1,Alan Buckley,17:57,0:17:57,,15,,59,15,Leeds City AC
+2016,Sutton Park,18,Leeds City AC,A,complete,1:50:21,2,Emile Cairess,17:40,0:35:37,15,8,7,31,6,Leeds City AC
+2016,Sutton Park,18,Leeds City AC,A,complete,1:50:21,3,Nathan Dunn,18:47,0:54:24,8,13,-5,191,29,Leeds City AC
+2016,Sutton Park,18,Leeds City AC,A,complete,1:50:21,4,J Woodcockshaw,18:35,1:12:59,13,18,-5,161,25,Leeds City AC
+2016,Sutton Park,18,Leeds City AC,A,complete,1:50:21,5,Simon Deakin,18:42,1:31:41,18,18,0,175,20,Leeds City AC
+2016,Sutton Park,18,Leeds City AC,A,complete,1:50:21,6,Jonathan Wills,18:40,1:50:21,18,18,0,169,18,Leeds City AC
+2016,Sutton Park,19,Cardiff AAC,B,complete,1:51:34,1,Ciaran Lewis,18:32,0:18:32,,39,,146,39,Cardiff Aac
+2016,Sutton Park,19,Cardiff AAC,B,complete,1:51:34,2,James Hunt,18:34,0:37:06,39,39,0,156,34,Cardiff Aac
+2016,Sutton Park,19,Cardiff AAC,B,complete,1:51:34,3,James Thie,18:27,0:55:33,39,24,15,129,22,Cardiff Aac
+2016,Sutton Park,19,Cardiff AAC,B,complete,1:51:34,4,Kevin Seaward,18:01,1:13:34,24,21,3,69,13,Cardiff Aac
+2016,Sutton Park,19,Cardiff AAC,B,complete,1:51:34,5,John Cove,18:20,1:31:54,21,19,2,111,12,Cardiff Aac
+2016,Sutton Park,19,Cardiff AAC,B,complete,1:51:34,6,Steve Morris,19:40,1:51:34,19,19,0,345,45,Cardiff Aac
+2016,Sutton Park,20,Bedford & County AC,A,complete,1:51:37,1,John Eves,18:37,0:18:37,,43,,164,43,Bedford & County AC
+2016,Sutton Park,20,Bedford & County AC,A,complete,1:51:37,2,Jack Douglas,18:59,0:37:36,43,47,-4,218,46,Bedford & County AC
+2016,Sutton Park,20,Bedford & County AC,A,complete,1:51:37,3,Stanley Willis,18:12,0:55:48,47,31,16,95,15,Bedford & County AC
+2016,Sutton Park,20,Bedford & County AC,A,complete,1:51:37,4,Jack Goodwin,18:06,1:13:54,31,23,8,80,16,Bedford & County AC
+2016,Sutton Park,20,Bedford & County AC,A,complete,1:51:37,5,William Mackay,18:34,1:32:28,23,21,2,156,17,Bedford & County AC
+2016,Sutton Park,20,Bedford & County AC,A,complete,1:51:37,6,Josh Lunn,19:09,1:51:37,21,20,1,246,26,Bedford & County AC
+2016,Sutton Park,21,Coventry Godiva Harriers,,complete,1:52:03,1,Toby Spencer,17:30,0:17:30,,7,,20,7,Coventry Godiva Harriers
+2016,Sutton Park,21,Coventry Godiva Harriers,,complete,1:52:03,2,James Griggs,18:57,0:36:27,7,22,-15,214,45,Coventry Godiva Harriers
+2016,Sutton Park,21,Coventry Godiva Harriers,,complete,1:52:03,3,Alistair Smith,18:21,0:54:48,22,20,2,113,18,Coventry Godiva Harriers
+2016,Sutton Park,21,Coventry Godiva Harriers,,complete,1:52:03,4,Harvey Speed,19:10,1:13:58,20,24,-4,252,36,Coventry Godiva Harriers
+2016,Sutton Park,21,Coventry Godiva Harriers,,complete,1:52:03,5,Oliver Paulin,19:09,1:33:07,24,25,-1,246,29,Coventry Godiva Harriers
+2016,Sutton Park,21,Coventry Godiva Harriers,,complete,1:52:03,6,Daniel Clarke,18:56,1:52:03,25,21,4,210,21,Coventry Godiva Harriers
+2016,Sutton Park,22,Newham & Essex Beagles AC,,complete,1:52:06,1,Niall Sheehan,18:26,0:18:26,,33,,126,33,Newham & Essex Beagles AC
+2016,Sutton Park,22,Newham & Essex Beagles AC,,complete,1:52:06,2,John Beattie,17:38,0:36:04,33,14,19,29,5,Newham & Essex Beagles AC
+2016,Sutton Park,22,Newham & Essex Beagles AC,,complete,1:52:06,3,Rory Chesser,18:17,0:54:21,14,12,2,107,17,Newham & Essex Beagles AC
+2016,Sutton Park,22,Newham & Essex Beagles AC,,complete,1:52:06,4,Patrick Chesser,18:43,1:13:04,12,20,-8,179,29,Newham & Essex Beagles AC
+2016,Sutton Park,22,Newham & Essex Beagles AC,,complete,1:52:06,5,Jake Waldron,19:20,1:32:24,20,20,0,290,36,Newham & Essex Beagles AC
+2016,Sutton Park,22,Newham & Essex Beagles AC,,complete,1:52:06,6,Wayne Bell,19:42,1:52:06,20,22,-2,351,47,Newham & Essex Beagles AC
+2016,Sutton Park,23,Bideford AAC,,complete,1:52:16,1,Shaun Antell,17:31,0:17:31,,8,,22,8,Bideford Aac
+2016,Sutton Park,23,Bideford AAC,,complete,1:52:16,2,Mark Jenkin,18:17,0:35:48,8,10,-2,107,22,Bideford Aac
+2016,Sutton Park,23,Bideford AAC,,complete,1:52:16,3,Aaron Richmond,17:59,0:53:47,10,8,2,64,9,Bideford Aac
+2016,Sutton Park,23,Bideford AAC,,complete,1:52:16,4,Daniel Mapp,19:16,1:13:03,8,19,-11,272,39,Bideford Aac
+2016,Sutton Park,23,Bideford AAC,,complete,1:52:16,5,Brendan Patton,19:38,1:32:41,19,22,-3,339,45,Bideford Aac
+2016,Sutton Park,23,Bideford AAC,,complete,1:52:16,6,Andrew Ingle,19:35,1:52:16,22,23,-1,332,43,Bideford Aac
+2016,Sutton Park,24,Tonbridge AC,B,complete,1:52:24,1,Michael Ellis,18:49,0:18:49,,52,,195,52,Tonbridge AC
+2016,Sutton Park,24,Tonbridge AC,B,complete,1:52:24,2,Ben Cole,18:11,0:37:00,52,35,17,89,18,Tonbridge AC
+2016,Sutton Park,24,Tonbridge AC,B,complete,1:52:24,3,Jamie Goodge,19:21,0:56:21,35,39,-4,293,50,Tonbridge AC
+2016,Sutton Park,24,Tonbridge AC,B,complete,1:52:24,4,Miles Weathersee,18:15,1:14:36,39,31,8,102,20,Tonbridge AC
+2016,Sutton Park,24,Tonbridge AC,B,complete,1:52:24,5,Stuart Brown,19:51,1:34:27,31,33,-2,367,55,Tonbridge AC
+2016,Sutton Park,24,Tonbridge AC,B,complete,1:52:24,6,Alex Howard,17:57,1:52:24,33,24,9,59,8,Tonbridge AC
+2016,Sutton Park,25,Aldershot Farnham & District AC,B,complete,1:52:32,1,Macgregor Cox,18:31,0:18:31,,38,,143,38,Aldershot Farnham & District
+2016,Sutton Park,25,Aldershot Farnham & District AC,B,complete,1:52:32,2,George Gathercol,18:34,0:37:05,38,38,0,156,34,Aldershot Farnham & District
+2016,Sutton Park,25,Aldershot Farnham & District AC,B,complete,1:52:32,3,Ian Bailey,18:34,0:55:39,38,25,13,156,27,Aldershot Farnham & District
+2016,Sutton Park,25,Aldershot Farnham & District AC,B,complete,1:52:32,4,Jack Wyllie,18:33,1:14:12,25,27,-2,149,24,Aldershot Farnham & District
+2016,Sutton Park,25,Aldershot Farnham & District AC,B,complete,1:52:32,5,Jack Boswell,19:03,1:33:15,27,26,1,225,25,Aldershot Farnham & District
+2016,Sutton Park,25,Aldershot Farnham & District AC,B,complete,1:52:32,6,Philip Sewell,19:17,1:52:32,26,25,1,278,31,Aldershot Farnham & District
+2016,Sutton Park,26,Border Harriers & AC,,complete,1:52:32,1,James Douglas,18:30,0:18:30,,37,,140,36,Border Harriers & AC
+2016,Sutton Park,26,Border Harriers & AC,,complete,1:52:32,2,Kevin Bell,19:00,0:37:30,37,44,-7,220,47,Border Harriers & AC
+2016,Sutton Park,26,Border Harriers & AC,,complete,1:52:32,3,Chris Steel,18:26,0:55:56,44,34,10,126,21,Border Harriers & AC
+2016,Sutton Park,26,Border Harriers & AC,,complete,1:52:32,4,Matthew Grieve,17:53,1:13:49,34,22,12,52,11,Border Harriers & AC
+2016,Sutton Park,26,Border Harriers & AC,,complete,1:52:32,5,Ross London,19:02,1:32:51,22,23,-1,224,24,Border Harriers & AC
+2016,Sutton Park,26,Border Harriers & AC,,complete,1:52:32,6,John Mason,19:41,1:52:32,23,26,-3,347,46,Border Harriers & AC
+2016,Sutton Park,27,Cambridge & Coleridge AC,A,complete,1:52:45,1,Paul Aste,18:30,0:18:30,,36,,140,36,Cambridge & Coleridge AC
+2016,Sutton Park,27,Cambridge & Coleridge AC,A,complete,1:52:45,2,Kieran Wood,17:41,0:36:11,36,17,19,35,8,Cambridge & Coleridge AC
+2016,Sutton Park,27,Cambridge & Coleridge AC,A,complete,1:52:45,3,Jordan Wood,19:17,0:55:28,17,23,-6,278,49,Cambridge & Coleridge AC
+2016,Sutton Park,27,Cambridge & Coleridge AC,A,complete,1:52:45,4,Escalantephillip,18:41,1:14:09,23,25,-2,172,27,Cambridge & Coleridge AC
+2016,Sutton Park,27,Cambridge & Coleridge AC,A,complete,1:52:45,5,Chris Darling,19:23,1:33:32,25,27,-2,298,37,Cambridge & Coleridge AC
+2016,Sutton Park,27,Cambridge & Coleridge AC,A,complete,1:52:45,6,Sullivan Smith,19:13,1:52:45,27,27,0,265,28,Cambridge & Coleridge AC
+2016,Sutton Park,28,Rotherham Harriers & AC,A,complete,1:53:05,1,Luke Cotter,17:42,0:17:42,,12,,39,12,Rotherham Harriers & AC
+2016,Sutton Park,28,Rotherham Harriers & AC,A,complete,1:53:05,2,Elliott Smales,19:09,0:36:51,12,28,-16,246,52,Rotherham Harriers & AC
+2016,Sutton Park,28,Rotherham Harriers & AC,A,complete,1:53:05,3,Kyle Craib,18:53,0:55:44,28,29,-1,204,35,Rotherham Harriers & AC
+2016,Sutton Park,28,Rotherham Harriers & AC,A,complete,1:53:05,4,Gareth Sampson,19:10,1:14:54,29,32,-3,252,36,Rotherham Harriers & AC
+2016,Sutton Park,28,Rotherham Harriers & AC,A,complete,1:53:05,5,Arron Larkin,19:04,1:33:58,32,30,2,229,27,Rotherham Harriers & AC
+2016,Sutton Park,28,Rotherham Harriers & AC,A,complete,1:53:05,6,Sam Clegg,19:07,1:53:05,30,28,2,239,24,Rotherham Harriers & AC
+2016,Sutton Park,29,Liverpool Harriers & AC,B,complete,1:53:11,1,Euan Martin,19:15,0:19:15,,66,,270,66,Liverpool Harriers & AC
+2016,Sutton Park,29,Liverpool Harriers & AC,B,complete,1:53:11,2,Liam Burthem,18:09,0:37:24,66,41,25,86,16,Liverpool Harriers & AC
+2016,Sutton Park,29,Liverpool Harriers & AC,B,complete,1:53:11,3,Richard Burney,18:50,0:56:14,41,37,4,199,32,Liverpool Harriers & AC
+2016,Sutton Park,29,Liverpool Harriers & AC,B,complete,1:53:11,4,Thomas Rogerson,18:46,1:15:00,37,33,4,188,31,Liverpool Harriers & AC
+2016,Sutton Park,29,Liverpool Harriers & AC,B,complete,1:53:11,5,Charla Hassan,18:54,1:33:54,33,29,4,208,22,Liverpool Harriers & AC
+2016,Sutton Park,29,Liverpool Harriers & AC,B,complete,1:53:11,6,Richard Evans,19:17,1:53:11,29,29,0,278,31,Liverpool Harriers & AC
+2016,Sutton Park,30,Swansea Harriers,B,complete,1:53:14,1,Chris Carpanini,18:34,0:18:34,,42,,156,42,Swansea Harriers
+2016,Sutton Park,30,Swansea Harriers,B,complete,1:53:14,2,Marc Hobbs,18:29,0:37:03,42,37,5,135,26,Swansea Harriers
+2016,Sutton Park,30,Swansea Harriers,B,complete,1:53:14,3,Phillip Matthews,19:21,0:56:24,37,41,-4,293,50,Swansea Harriers
+2016,Sutton Park,30,Swansea Harriers,B,complete,1:53:14,4,Ian Harris,19:08,1:15:32,41,39,2,244,35,Swansea Harriers
+2016,Sutton Park,30,Swansea Harriers,B,complete,1:53:14,5,Paul Tobin,19:03,1:34:35,39,35,4,225,25,Swansea Harriers
+2016,Sutton Park,30,Swansea Harriers,B,complete,1:53:14,6,Matthew Rees,18:39,1:53:14,35,30,5,167,17,Swansea Harriers
+2016,Sutton Park,31,Brighton & Hove AC,,complete,1:53:19,1,Stephen Ferroni,19:28,0:19:28,,73,,310,73,Brighton & Hove AC
+2016,Sutton Park,31,Brighton & Hove AC,,complete,1:53:19,2,William Gray,18:00,0:37:28,73,43,30,68,12,Brighton & Hove AC
+2016,Sutton Park,31,Brighton & Hove AC,,complete,1:53:19,3,Howard Bristow,18:13,0:55:41,43,27,16,98,16,Brighton & Hove AC
+2016,Sutton Park,31,Brighton & Hove AC,,complete,1:53:19,4,James Turner,18:47,1:14:28,27,29,-2,191,32,Brighton & Hove AC
+2016,Sutton Park,31,Brighton & Hove AC,,complete,1:53:19,5,Ian Crowewright,18:24,1:32:52,29,24,5,122,15,Brighton & Hove AC
+2016,Sutton Park,31,Brighton & Hove AC,,complete,1:53:19,6,Andrew Donno,20:27,1:53:19,24,31,-7,427,60,Brighton & Hove AC
+2016,Sutton Park,32,Birmingham Running Athletics & Triathlon (BRAT),,complete,1:53:31,1,Jack Gray,17:40,0:17:40,,11,,31,11,Birmingham Running Athletics &
+2016,Sutton Park,32,Birmingham Running Athletics & Triathlon (BRAT),,complete,1:53:31,2,Daniel Robinson,18:39,0:36:19,11,19,-8,167,37,Birmingham Running Athletics &
+2016,Sutton Park,32,Birmingham Running Athletics & Triathlon (BRAT),,complete,1:53:31,3,Steve Dunsby,19:21,0:55:40,19,26,-7,293,50,Birmingham Running Athletics &
+2016,Sutton Park,32,Birmingham Running Athletics & Triathlon (BRAT),,complete,1:53:31,4,Edward Banks,18:44,1:14:24,26,28,-2,183,30,Birmingham Running Athletics &
+2016,Sutton Park,32,Birmingham Running Athletics & Triathlon (BRAT),,complete,1:53:31,5,C Ashford,19:36,1:34:00,28,31,-3,333,42,Birmingham Running Athletics &
+2016,Sutton Park,32,Birmingham Running Athletics & Triathlon (BRAT),,complete,1:53:31,6,Simon Lanckham,19:31,1:53:31,31,32,-1,323,40,Birmingham Running Athletics &
+2016,Sutton Park,33,Hercules Wimbledon AC,,complete,1:53:44,1,Belal Ahmed,18:12,0:18:12,,23,,95,23,Hercules Wimbledon AC
+2016,Sutton Park,33,Hercules Wimbledon AC,,complete,1:53:44,2,Andrew Penney,19:19,0:37:31,23,45,-22,289,61,Hercules Wimbledon AC
+2016,Sutton Park,33,Hercules Wimbledon AC,,complete,1:53:44,3,Frederick Slemec,18:49,0:56:20,45,38,7,195,31,Hercules Wimbledon AC
+2016,Sutton Park,33,Hercules Wimbledon AC,,complete,1:53:44,4,Robert Tuer,19:46,1:16:06,38,43,-5,359,55,Hercules Wimbledon AC
+2016,Sutton Park,33,Hercules Wimbledon AC,,complete,1:53:44,5,Ben Toomer,18:22,1:34:28,43,34,9,114,14,Hercules Wimbledon AC
+2016,Sutton Park,33,Hercules Wimbledon AC,,complete,1:53:44,6,Richard Mcdowell,19:16,1:53:44,34,33,1,272,30,Hercules Wimbledon AC
+2016,Sutton Park,34,Barlick Fell Runners,,complete,1:53:59,1,Gary Shaw,18:57,0:18:57,,56,,214,56,Barlick Fell Runners
+2016,Sutton Park,34,Barlick Fell Runners,,complete,1:53:59,2,James Craig,19:10,0:38:07,56,57,-1,252,55,Barlick Fell Runners
+2016,Sutton Park,34,Barlick Fell Runners,,complete,1:53:59,3,Thomas Corrigan,18:59,0:57:06,57,50,7,218,38,Barlick Fell Runners
+2016,Sutton Park,34,Barlick Fell Runners,,complete,1:53:59,4,Matthew Lalor,19:14,1:16:20,50,45,5,267,38,Barlick Fell Runners
+2016,Sutton Park,34,Barlick Fell Runners,,complete,1:53:59,5,Ian Livesey,18:35,1:34:55,45,40,5,161,18,Barlick Fell Runners
+2016,Sutton Park,34,Barlick Fell Runners,,complete,1:53:59,6,Marc Hartley,19:04,1:53:59,40,34,6,229,23,Barlick Fell Runners
+2016,Sutton Park,35,Kent AC,A,complete,1:54:03,1,C Greenwood,18:33,0:18:33,,41,,149,41,Kent AC
+2016,Sutton Park,35,Kent AC,A,complete,1:54:03,2,James Connor,18:01,0:36:34,41,23,18,69,13,Kent AC
+2016,Sutton Park,35,Kent AC,A,complete,1:54:03,3,James Bowler,18:43,0:55:17,23,22,1,179,28,Kent AC
+2016,Sutton Park,35,Kent AC,A,complete,1:54:03,4,Adrian Lowther,19:16,1:14:33,22,30,-8,272,39,Kent AC
+2016,Sutton Park,35,Kent AC,A,complete,1:54:03,5,Daniel Ansell,20:18,1:34:51,30,37,-7,415,62,Kent AC
+2016,Sutton Park,35,Kent AC,A,complete,1:54:03,6,Neil Phillips,19:12,1:54:03,37,35,2,262,27,Kent AC
+2016,Sutton Park,36,Trafford AC,,complete,1:54:09,1,Zak Miller,18:02,0:18:02,,17,,73,17,Trafford AC
+2016,Sutton Park,36,Trafford AC,,complete,1:54:09,2,Daniel Lawton,18:43,0:36:45,17,26,-9,179,39,Trafford AC
+2016,Sutton Park,36,Trafford AC,,complete,1:54:09,3,Nathan Townsend,19:00,0:55:45,26,30,-4,220,39,Trafford AC
+2016,Sutton Park,36,Trafford AC,,complete,1:54:09,4,Andile Hlebo,18:27,1:14:12,30,26,4,129,22,Trafford AC
+2016,Sutton Park,36,Trafford AC,,complete,1:54:09,5,Jeff Prest,19:23,1:33:35,26,28,-2,298,37,Trafford AC
+2016,Sutton Park,36,Trafford AC,,complete,1:54:09,6,Mac O'malley,20:34,1:54:09,28,36,-8,434,62,Trafford AC
+2016,Sutton Park,37,Bedford & County AC,B,complete,1:54:10,1,Alexander Bellew,18:15,0:18:15,,26,,102,26,Bedford & County AC
+2016,Sutton Park,37,Bedford & County AC,B,complete,1:54:10,2,Jonathan Janes,18:37,0:36:52,26,29,-3,164,36,Bedford & County AC
+2016,Sutton Park,37,Bedford & County AC,B,complete,1:54:10,3,Benjamin Davies,18:50,0:55:42,29,28,1,199,32,Bedford & County AC
+2016,Sutton Park,37,Bedford & County AC,B,complete,1:54:10,4,William Mullins,19:30,1:15:12,28,35,-7,318,47,Bedford & County AC
+2016,Sutton Park,37,Bedford & County AC,B,complete,1:54:10,5,Matthew Bray,19:33,1:34:45,35,36,-1,325,40,Bedford & County AC
+2016,Sutton Park,37,Bedford & County AC,B,complete,1:54:10,6,Andrew Mcmulkin,19:25,1:54:10,36,37,-1,303,36,Bedford & County AC
+2016,Sutton Park,38,Horwich RMI Harriers,,complete,1:54:11,1,Simon Pymm,19:53,0:19:53,,78,,373,78,Horwich R M I Harriers
+2016,Sutton Park,38,Horwich RMI Harriers,,complete,1:54:11,2,Michael Cayton,18:31,0:38:24,78,59,19,143,30,Horwich R M I Harriers
+2016,Sutton Park,38,Horwich RMI Harriers,,complete,1:54:11,3,Gareth Booth,19:15,0:57:39,59,56,3,270,48,Horwich R M I Harriers
+2016,Sutton Park,38,Horwich RMI Harriers,,complete,1:54:11,4,C Farrell,18:04,1:15:43,56,42,14,75,14,Horwich R M I Harriers
+2016,Sutton Park,38,Horwich RMI Harriers,,complete,1:54:11,5,Alastair Murray,20:01,1:35:44,42,44,-2,389,59,Horwich R M I Harriers
+2016,Sutton Park,38,Horwich RMI Harriers,,complete,1:54:11,6,Ian Conroy,18:27,1:54:11,44,38,6,129,13,Horwich R M I Harriers
+2016,Sutton Park,39,Tipton Harriers,A,complete,1:54:19,1,Joe Smith,18:32,0:18:32,,40,,146,39,Tipton Harriers
+2016,Sutton Park,39,Tipton Harriers,A,complete,1:54:19,2,Mike Aspinall,19:05,0:37:37,40,48,-8,233,50,Tipton Harriers
+2016,Sutton Park,39,Tipton Harriers,A,complete,1:54:19,3,Ben Gamble,18:29,0:56:06,48,36,12,135,23,Tipton Harriers
+2016,Sutton Park,39,Tipton Harriers,A,complete,1:54:19,4,Jonathon Carter,19:07,1:15:13,36,36,0,239,34,Tipton Harriers
+2016,Sutton Park,39,Tipton Harriers,A,complete,1:54:19,5,Ian Williams,19:10,1:34:23,36,32,4,252,30,Tipton Harriers
+2016,Sutton Park,39,Tipton Harriers,A,complete,1:54:19,6,Shaun Barnsley,19:56,1:54:19,32,39,-7,381,50,Tipton Harriers
+2016,Sutton Park,40,Salford Harriers & AC,B,complete,1:54:27,1,Bruno Lima,18:03,0:18:03,,18,,74,18,Salford Harriers & AC
+2016,Sutton Park,40,Salford Harriers & AC,B,complete,1:54:27,2,Steven Snape,19:04,0:37:07,18,40,-22,229,49,Salford Harriers & AC
+2016,Sutton Park,40,Salford Harriers & AC,B,complete,1:54:27,3,Billy Mccartney,19:55,0:57:02,40,49,-9,376,64,Salford Harriers & AC
+2016,Sutton Park,40,Salford Harriers & AC,B,complete,1:54:27,4,Gary Priestley,18:18,1:15:20,49,37,12,110,21,Salford Harriers & AC
+2016,Sutton Park,40,Salford Harriers & AC,B,complete,1:54:27,5,Chris Tully,19:37,1:34:57,37,41,-4,337,44,Salford Harriers & AC
+2016,Sutton Park,40,Salford Harriers & AC,B,complete,1:54:27,6,Simon Bruton,19:30,1:54:27,41,40,1,318,38,Salford Harriers & AC
+2016,Sutton Park,41,Vale Royal AC,,complete,1:54:27,1,Jacobjohn Brown,19:07,0:19:07,,62,,239,62,Vale Royal AC
+2016,Sutton Park,41,Vale Royal AC,,complete,1:54:27,2,Ryan Moore,19:27,0:38:34,62,64,-2,308,66,Vale Royal AC
+2016,Sutton Park,41,Vale Royal AC,,complete,1:54:27,3,Josh Betteley,19:05,0:57:39,64,57,7,233,42,Vale Royal AC
+2016,Sutton Park,41,Vale Royal AC,,complete,1:54:27,4,Matthew Sheen,18:29,1:16:08,57,44,13,135,23,Vale Royal AC
+2016,Sutton Park,41,Vale Royal AC,,complete,1:54:27,5,Oliver Williams,19:06,1:35:14,44,42,2,236,28,Vale Royal AC
+2016,Sutton Park,41,Vale Royal AC,,complete,1:54:27,6,Cameron Weaver,19:13,1:54:27,42,41,1,265,28,Vale Royal AC
+2016,Sutton Park,42,Notts AC,B,complete,1:54:45,1,Matthew Williams,18:11,0:18:11,,21,,89,21,Notts AC
+2016,Sutton Park,42,Notts AC,B,complete,1:54:45,2,Freddie Hessian,18:30,0:36:41,21,25,-4,140,29,Notts AC
+2016,Sutton Park,42,Notts AC,B,complete,1:54:45,3,Jarratt Perkins,20:02,0:56:43,25,43,-18,391,66,Notts AC
+2016,Sutton Park,42,Notts AC,B,complete,1:54:45,4,Kevin Farrow,18:53,1:15:36,43,41,2,204,33,Notts AC
+2016,Sutton Park,42,Notts AC,B,complete,1:54:45,5,Paddy Clark,19:16,1:34:52,41,38,3,272,33,Notts AC
+2016,Sutton Park,42,Notts AC,B,complete,1:54:45,6,John Muddeman,19:53,1:54:45,38,42,-4,373,49,Notts AC
+2016,Sutton Park,43,Blackheath & Bromley Harriers AC,,complete,1:54:55,1,Philip Sesemann,17:28,0:17:28,,6,,18,6,Blackheath & Bromley Harriers
+2016,Sutton Park,43,Blackheath & Bromley Harriers AC,,complete,1:54:55,2,William Fuller,18:16,0:35:44,6,9,-3,104,21,Blackheath & Bromley Harriers
+2016,Sutton Park,43,Blackheath & Bromley Harriers AC,,complete,1:54:55,3,Peter Tucker,20:20,0:56:04,9,35,-26,416,72,Blackheath & Bromley Harriers
+2016,Sutton Park,43,Blackheath & Bromley Harriers AC,,complete,1:54:55,4,Danny Kennedy,19:30,1:15:34,35,40,-5,318,47,Blackheath & Bromley Harriers
+2016,Sutton Park,43,Blackheath & Bromley Harriers AC,,complete,1:54:55,5,Andrew Rayner,19:18,1:34:52,40,39,1,281,35,Blackheath & Bromley Harriers
+2016,Sutton Park,43,Blackheath & Bromley Harriers AC,,complete,1:54:55,6,William Ruiz,20:03,1:54:55,39,43,-4,392,51,Blackheath & Bromley Harriers
+2016,Sutton Park,44,Leeds City AC,B,complete,1:55:23,1,Michael Salter,18:42,0:18:42,,46,,175,46,Leeds City AC
+2016,Sutton Park,44,Leeds City AC,B,complete,1:55:23,2,Adam Osborne,19:18,0:38:00,46,55,-9,281,60,Leeds City AC
+2016,Sutton Park,44,Leeds City AC,B,complete,1:55:23,3,Patrick Vis,19:01,0:57:01,55,48,7,223,40,Leeds City AC
+2016,Sutton Park,44,Leeds City AC,B,complete,1:55:23,4,Leon Foster,19:36,1:16:37,48,47,1,333,50,Leeds City AC
+2016,Sutton Park,44,Leeds City AC,B,complete,1:55:23,5,Thomas Edwards,19:28,1:36:05,47,46,1,310,39,Leeds City AC
+2016,Sutton Park,44,Leeds City AC,B,complete,1:55:23,6,Michael Burrett,19:18,1:55:23,46,44,2,281,33,Leeds City AC
+2016,Sutton Park,45,Highgate Harriers,B,complete,1:55:47,1,Jonathan Laybour,18:28,0:18:28,,35,,134,35,Highgate Harriers
+2016,Sutton Park,45,Highgate Harriers,B,complete,1:55:47,2,Terence Fawden,19:11,0:37:39,35,49,-14,258,56,Highgate Harriers
+2016,Sutton Park,45,Highgate Harriers,B,complete,1:55:47,3,Benjamin Noad,19:10,0:56:49,49,44,5,252,44,Highgate Harriers
+2016,Sutton Park,45,Highgate Harriers,B,complete,1:55:47,4,A Machinpaley,20:28,1:17:17,44,51,-7,428,70,Highgate Harriers
+2016,Sutton Park,45,Highgate Harriers,B,complete,1:55:47,5,Dominic Smith,19:48,1:37:05,51,48,3,363,52,Highgate Harriers
+2016,Sutton Park,45,Highgate Harriers,B,complete,1:55:47,6,Peter Chambers,18:42,1:55:47,48,45,3,175,19,Highgate Harriers
+2016,Sutton Park,46,Windsor Slough Eton & Hounslow AC,,complete,1:55:54,1,Ricky Harvie,18:24,0:18:24,,32,,122,31,Windsor Slough Eton & Hounslow
+2016,Sutton Park,46,Windsor Slough Eton & Hounslow AC,,complete,1:55:54,2,Alexander Goodal,18:33,0:36:57,32,33,-1,149,32,Windsor Slough Eton & Hounslow
+2016,Sutton Park,46,Windsor Slough Eton & Hounslow AC,,complete,1:55:54,3,Kieran Wye,18:52,0:55:49,33,32,1,202,34,Windsor Slough Eton & Hounslow
+2016,Sutton Park,46,Windsor Slough Eton & Hounslow AC,,complete,1:55:54,4,Matthew Bradly,19:42,1:15:31,32,38,-6,351,53,Windsor Slough Eton & Hounslow
+2016,Sutton Park,46,Windsor Slough Eton & Hounslow AC,,complete,1:55:54,5,James Mcilroy,20:55,1:36:26,38,47,-9,454,71,Windsor Slough Eton & Hounslow
+2016,Sutton Park,46,Windsor Slough Eton & Hounslow AC,,complete,1:55:54,6,Simon Millett,19:28,1:55:54,47,46,1,310,37,Windsor Slough Eton & Hounslow
+2016,Sutton Park,47,Bristol & West AC,B,complete,1:56:16,1,Robert Stewart,19:00,0:19:00,,58,,220,58,Bristol & West Ac (Est.1882)
+2016,Sutton Park,47,Bristol & West AC,B,complete,1:56:16,2,Mark Edwards,18:49,0:37:49,58,51,7,195,42,Bristol & West Ac (Est.1882)
+2016,Sutton Park,47,Bristol & West AC,B,complete,1:56:16,3,Josh Moody,19:33,0:57:22,51,52,-1,325,56,Bristol & West Ac (Est.1882)
+2016,Sutton Park,47,Bristol & West AC,B,complete,1:56:16,4,Neville Gascoign,20:48,1:18:10,52,60,-8,449,75,Bristol & West Ac (Est.1882)
+2016,Sutton Park,47,Bristol & West AC,B,complete,1:56:16,5,Miles Chandler,19:10,1:37:20,60,52,8,252,30,Bristol & West Ac (Est.1882)
+2016,Sutton Park,47,Bristol & West AC,B,complete,1:56:16,6,Adam Speake,18:56,1:56:16,52,47,5,210,21,Bristol & West Ac (Est.1882)
+2016,Sutton Park,48,City Of Stoke AC,,complete,1:56:29,1,Ryan Holroyd,18:13,0:18:13,,24,,98,24,City Of Stoke AC
+2016,Sutton Park,48,City Of Stoke AC,,complete,1:56:29,2,Dean Richardson,18:49,0:37:02,24,36,-12,195,42,City Of Stoke AC
+2016,Sutton Park,48,City Of Stoke AC,,complete,1:56:29,3,Oliver Langford,18:48,0:55:50,36,33,3,194,30,City Of Stoke AC
+2016,Sutton Park,48,City Of Stoke AC,,complete,1:56:29,4,Louis Wrigley,19:18,1:15:08,33,34,-1,281,41,City Of Stoke AC
+2016,Sutton Park,48,City Of Stoke AC,,complete,1:56:29,5,Shajahan Janally,20:29,1:35:37,34,43,-9,429,65,City Of Stoke AC
+2016,Sutton Park,48,City Of Stoke AC,,complete,1:56:29,6,Thomas Hendricke,20:52,1:56:29,43,48,-5,451,68,City Of Stoke AC
+2016,Sutton Park,49,Leicester Coritanian AC,A,complete,1:56:57,1,Mark Powell,19:09,0:19:09,,64,,246,64,Leicester Coritanian AC
+2016,Sutton Park,49,Leicester Coritanian AC,A,complete,1:56:57,2,Chris Jordan,19:25,0:38:34,64,63,1,303,64,Leicester Coritanian AC
+2016,Sutton Park,49,Leicester Coritanian AC,A,complete,1:56:57,3,Gordon Lee,19:11,0:57:45,63,60,3,258,45,Leicester Coritanian AC
+2016,Sutton Park,49,Leicester Coritanian AC,A,complete,1:56:57,4,Chris Southam,20:01,1:17:46,60,57,3,389,61,Leicester Coritanian AC
+2016,Sutton Park,49,Leicester Coritanian AC,A,complete,1:56:57,5,O Freer,19:41,1:37:27,57,54,3,347,47,Leicester Coritanian AC
+2016,Sutton Park,49,Leicester Coritanian AC,A,complete,1:56:57,6,Jamie Short,19:30,1:56:57,54,49,5,318,38,Leicester Coritanian AC
+2016,Sutton Park,50,Bolton United Harriers & AC,,complete,1:57:02,1,Anthony Valentin,18:45,0:18:45,,49,,187,49,Bolton United Harriers & AC
+2016,Sutton Park,50,Bolton United Harriers & AC,,complete,1:57:02,2,Karl Darcy,18:42,0:37:27,49,42,7,175,38,Bolton United Harriers & AC
+2016,Sutton Park,50,Bolton United Harriers & AC,,complete,1:57:02,3,Martin Reid,19:29,0:56:56,42,46,-4,315,55,Bolton United Harriers & AC
+2016,Sutton Park,50,Bolton United Harriers & AC,,complete,1:57:02,4,John Knowles,19:26,1:16:22,46,46,0,306,43,Bolton United Harriers & AC
+2016,Sutton Park,50,Bolton United Harriers & AC,,complete,1:57:02,5,Jonothan Kay,19:41,1:36:03,46,45,1,347,47,Bolton United Harriers & AC
+2016,Sutton Park,50,Bolton United Harriers & AC,,complete,1:57:02,6,Simon Dally,20:59,1:57:02,45,50,-5,457,70,Bolton United Harriers & AC
+2016,Sutton Park,51,Oxford City AC,,complete,1:57:12,1,Aaron Burgess,19:20,0:19:20,,69,,290,69,Oxford City AC
+2016,Sutton Park,51,Oxford City AC,,complete,1:57:12,2,Dan Blake,19:26,0:38:46,69,68,1,306,65,Oxford City AC
+2016,Sutton Park,51,Oxford City AC,,complete,1:57:12,3,Julian Richardso,19:46,0:58:32,68,65,3,359,62,Oxford City AC
+2016,Sutton Park,51,Oxford City AC,,complete,1:57:12,4,Les Newell,19:28,1:18:00,65,59,6,310,44,Oxford City AC
+2016,Sutton Park,51,Oxford City AC,,complete,1:57:12,5,Ewan Gault,19:39,1:37:39,59,55,4,343,46,Oxford City AC
+2016,Sutton Park,51,Oxford City AC,,complete,1:57:12,6,Simon Fisher,19:33,1:57:12,55,51,4,325,41,Oxford City AC
+2016,Sutton Park,52,Owls AC Leicester,,complete,1:57:21,1,Tom Bell,19:05,0:19:05,,60,,233,60,Owls Ac Leicester
+2016,Sutton Park,52,Owls AC Leicester,,complete,1:57:21,2,Tom Mahon,19:20,0:38:25,60,60,0,290,62,Owls Ac Leicester
+2016,Sutton Park,52,Owls AC Leicester,,complete,1:57:21,3,Edward Highton,18:58,0:57:23,60,53,7,216,37,Owls Ac Leicester
+2016,Sutton Park,52,Owls AC Leicester,,complete,1:57:21,4,Chris Mcmillan,19:58,1:17:21,53,53,0,384,60,Owls Ac Leicester
+2016,Sutton Park,52,Owls AC Leicester,,complete,1:57:21,5,Tom Corby,19:51,1:37:12,53,49,4,367,55,Owls Ac Leicester
+2016,Sutton Park,52,Owls AC Leicester,,complete,1:57:21,6,Luke Ingram,20:09,1:57:21,49,52,-3,402,56,Owls Ac Leicester
+2016,Sutton Park,53,Sunderland Harriers & AC,,complete,1:57:27,1,Steven Mcmahon,18:50,0:18:50,,53,,199,53,Sunderland Harriers & AC
+2016,Sutton Park,53,Sunderland Harriers & AC,,complete,1:57:27,2,John Morley,19:09,0:37:59,53,54,-1,246,52,Sunderland Harriers & AC
+2016,Sutton Park,53,Sunderland Harriers & AC,,complete,1:57:27,3,Ian Ritchie,19:36,0:57:35,54,54,0,333,57,Sunderland Harriers & AC
+2016,Sutton Park,53,Sunderland Harriers & AC,,complete,1:57:27,4,Jack Tallentire,19:50,1:17:25,54,54,0,364,56,Sunderland Harriers & AC
+2016,Sutton Park,53,Sunderland Harriers & AC,,complete,1:57:27,5,Jake Jansen,19:52,1:37:17,54,50,4,371,57,Sunderland Harriers & AC
+2016,Sutton Park,53,Sunderland Harriers & AC,,complete,1:57:27,6,Jason Waite,20:10,1:57:27,50,53,-3,405,57,Sunderland Harriers & AC
+2016,Sutton Park,54,Southampton AC,B,complete,1:58:04,1,Abdi Mahamed,19:27,0:19:27,,72,,308,72,Southampton AC
+2016,Sutton Park,54,Southampton AC,B,complete,1:58:04,2,Max Costley,19:12,0:38:39,72,65,7,262,57,Southampton AC
+2016,Sutton Park,54,Southampton AC,B,complete,1:58:04,3,Christopher Hilt,20:15,0:58:54,65,69,-4,412,71,Southampton AC
+2016,Sutton Park,54,Southampton AC,B,complete,1:58:04,4,Jim Davies,19:43,1:18:37,69,65,4,354,54,Southampton AC
+2016,Sutton Park,54,Southampton AC,B,complete,1:58:04,5,Sam Costley,19:50,1:38:27,65,61,4,364,53,Southampton AC
+2016,Sutton Park,54,Southampton AC,B,complete,1:58:04,6,Matt Coffey,19:37,1:58:04,61,54,7,337,44,Southampton AC
+2016,Sutton Park,55,Hallamshire Harriers Sheffield,,complete,1:58:06,1,Tommy Horton,18:22,0:18:22,,29,,114,29,Hallamshire Harriers Sheffield
+2016,Sutton Park,55,Hallamshire Harriers Sheffield,,complete,1:58:06,2,Connor Milnes,18:33,0:36:55,29,32,-3,149,32,Hallamshire Harriers Sheffield
+2016,Sutton Park,55,Hallamshire Harriers Sheffield,,complete,1:58:06,3,Gavin Keight,22:40,0:59:35,32,73,-41,481,81,Hallamshire Harriers Sheffield
+2016,Sutton Park,55,Hallamshire Harriers Sheffield,,complete,1:58:06,4,Wyatt Hill,19:39,1:19:14,73,70,3,343,52,Hallamshire Harriers Sheffield
+2016,Sutton Park,55,Hallamshire Harriers Sheffield,,complete,1:58:06,5,Cameron Bell,19:45,1:38:59,70,63,7,357,50,Hallamshire Harriers Sheffield
+2016,Sutton Park,55,Hallamshire Harriers Sheffield,,complete,1:58:06,6,Dave Archer,19:07,1:58:06,63,55,8,239,24,Hallamshire Harriers Sheffield
+2016,Sutton Park,56,Rotherham Harriers & AC,B,complete,1:58:14,1,Jonny Johnson,18:56,0:18:56,,55,,210,55,Rotherham Harriers & AC
+2016,Sutton Park,56,Rotherham Harriers & AC,B,complete,1:58:14,2,Richard Harris,19:58,0:38:54,55,71,-16,384,74,Rotherham Harriers & AC
+2016,Sutton Park,56,Rotherham Harriers & AC,B,complete,1:58:14,3,Joseph Massingha,19:07,0:58:01,71,63,8,239,43,Rotherham Harriers & AC
+2016,Sutton Park,56,Rotherham Harriers & AC,B,complete,1:58:14,4,Aidan Johnson,19:28,1:17:29,63,55,8,310,44,Rotherham Harriers & AC
+2016,Sutton Park,56,Rotherham Harriers & AC,B,complete,1:58:14,5,Philip Hoole,19:50,1:37:19,55,51,4,364,53,Rotherham Harriers & AC
+2016,Sutton Park,56,Rotherham Harriers & AC,B,complete,1:58:14,6,Damian Worsdall,20:55,1:58:14,51,56,-5,454,69,Rotherham Harriers & AC
+2016,Sutton Park,57,Holmfirth Harriers AC,,complete,1:58:18,1,Christopher Law,19:08,0:19:08,,63,,244,63,Holmfirth Harriers AC
+2016,Sutton Park,57,Holmfirth Harriers AC,,complete,1:58:18,2,Aaron Kettlewell,18:54,0:38:02,63,56,7,208,44,Holmfirth Harriers AC
+2016,Sutton Park,57,Holmfirth Harriers AC,,complete,1:58:18,3,Alex Robinson,19:44,0:57:46,56,61,-5,356,60,Holmfirth Harriers AC
+2016,Sutton Park,57,Holmfirth Harriers AC,,complete,1:58:18,4,Kai Sunman,20:04,1:17:50,61,58,3,393,62,Holmfirth Harriers AC
+2016,Sutton Park,57,Holmfirth Harriers AC,,complete,1:58:18,5,Craig Boggon,20:04,1:37:54,58,57,1,393,60,Holmfirth Harriers AC
+2016,Sutton Park,57,Holmfirth Harriers AC,,complete,1:58:18,6,Philip Hewitt,20:24,1:58:18,57,57,0,421,59,Holmfirth Harriers AC
+2016,Sutton Park,58,Rossendale Harriers & AC,,complete,1:58:20,1,Christopher Fell,18:43,0:18:43,,47,,179,47,Rossendale Harriers & AC
+2016,Sutton Park,58,Rossendale Harriers & AC,,complete,1:58:20,2,Robert Webb,19:09,0:37:52,47,52,-5,246,52,Rossendale Harriers & AC
+2016,Sutton Park,58,Rossendale Harriers & AC,,complete,1:58:20,3,Grant Cunliffe,19:03,0:56:55,52,45,7,225,41,Rossendale Harriers & AC
+2016,Sutton Park,58,Rossendale Harriers & AC,,complete,1:58:20,4,Joseph Johnston,20:38,1:17:33,45,56,-11,438,72,Rossendale Harriers & AC
+2016,Sutton Park,58,Rossendale Harriers & AC,,complete,1:58:20,5,Dominic Walton,20:09,1:37:42,56,56,0,402,61,Rossendale Harriers & AC
+2016,Sutton Park,58,Rossendale Harriers & AC,,complete,1:58:20,6,Marcus Preedy,20:38,1:58:20,56,58,-2,438,63,Rossendale Harriers & AC
+2016,Sutton Park,59,Cheltenham & County Harriers,B,complete,1:58:23,1,Jonathan Barnes,19:25,0:19:25,,71,,303,71,Cheltenham & County Harriers
+2016,Sutton Park,59,Cheltenham & County Harriers,B,complete,1:58:23,2,William New,19:16,0:38:41,71,67,4,272,59,Cheltenham & County Harriers
+2016,Sutton Park,59,Cheltenham & County Harriers,B,complete,1:58:23,3,Marc Fallows,20:10,0:58:51,67,67,0,405,69,Cheltenham & County Harriers
+2016,Sutton Park,59,Cheltenham & County Harriers,B,complete,1:58:23,4,Liam Roarty,19:38,1:18:29,67,64,3,339,51,Cheltenham & County Harriers
+2016,Sutton Park,59,Cheltenham & County Harriers,B,complete,1:58:23,5,Marcus England,19:46,1:38:15,64,59,5,359,51,Cheltenham & County Harriers
+2016,Sutton Park,59,Cheltenham & County Harriers,B,complete,1:58:23,6,Mark James,20:08,1:58:23,59,59,0,399,54,Cheltenham & County Harriers
+2016,Sutton Park,60,Tipton Harriers,B,complete,1:58:44,1,Gareth Griffiths,19:18,0:19:18,,67,,281,67,Tipton Harriers
+2016,Sutton Park,60,Tipton Harriers,B,complete,1:58:44,2,Dean Bate,19:22,0:38:40,67,66,1,296,63,Tipton Harriers
+2016,Sutton Park,60,Tipton Harriers,B,complete,1:58:44,3,Luke Vine,19:47,0:58:27,66,64,2,362,63,Tipton Harriers
+2016,Sutton Park,60,Tipton Harriers,B,complete,1:58:44,4,Tom Holden,19:56,1:18:23,64,62,2,381,59,Tipton Harriers
+2016,Sutton Park,60,Tipton Harriers,B,complete,1:58:44,5,C Gillespie,19:34,1:37:57,62,58,4,330,41,Tipton Harriers
+2016,Sutton Park,60,Tipton Harriers,B,complete,1:58:44,6,James Booker,20:47,1:58:44,58,60,-2,448,67,Tipton Harriers
+2016,Sutton Park,61,City of Norwich AC,,complete,1:59:15,1,Piers Arnold,18:04,0:18:04,,19,,75,19,City Of Norwich AC
+2016,Sutton Park,61,City of Norwich AC,,complete,1:59:15,2,James Senior,18:44,0:36:48,19,27,-8,183,40,City Of Norwich AC
+2016,Sutton Park,61,City of Norwich AC,,complete,1:59:15,3,Spencer Goodall,19:43,0:56:31,27,42,-15,354,59,City Of Norwich AC
+2016,Sutton Park,61,City of Norwich AC,,complete,1:59:15,4,George Gay,20:14,1:16:45,42,49,-7,411,65,City Of Norwich AC
+2016,Sutton Park,61,City of Norwich AC,,complete,1:59:15,5,Alfie Bentley,20:40,1:37:25,49,53,-4,440,69,City Of Norwich AC
+2016,Sutton Park,61,City of Norwich AC,,complete,1:59:15,6,Jack Adcock,21:50,1:59:15,53,61,-8,478,79,City Of Norwich AC
+2016,Sutton Park,62,Tyne Bridge Harriers,,complete,1:59:38,1,Finn Brodie,18:27,0:18:27,,34,,129,34,Tyne Bridge Harriers
+2016,Sutton Park,62,Tyne Bridge Harriers,,complete,1:59:38,2,James Dunce,18:31,0:36:58,34,34,0,143,30,Tyne Bridge Harriers
+2016,Sutton Park,62,Tyne Bridge Harriers,,complete,1:59:38,3,Tom Charlton,19:24,0:56:22,34,40,-6,301,54,Tyne Bridge Harriers
+2016,Sutton Park,62,Tyne Bridge Harriers,,complete,1:59:38,4,Paul Turnbull,20:58,1:17:20,40,52,-12,456,77,Tyne Bridge Harriers
+2016,Sutton Park,62,Tyne Bridge Harriers,,complete,1:59:38,5,Alasdair Blain,21:01,1:38:21,52,60,-8,458,72,Tyne Bridge Harriers
+2016,Sutton Park,62,Tyne Bridge Harriers,,complete,1:59:38,6,Lee Cuthbertson,21:17,1:59:38,60,62,-2,468,75,Tyne Bridge Harriers
+2016,Sutton Park,63,Hermitage Harriers,,complete,1:59:43,1,Michael Trott,19:23,0:19:23,,70,,298,70,Hermitage Harriers
+2016,Sutton Park,63,Hermitage Harriers,,complete,1:59:43,2,Jason Williams,19:41,0:39:04,70,73,-3,347,70,Hermitage Harriers
+2016,Sutton Park,63,Hermitage Harriers,,complete,1:59:43,3,Carl Sommer,19:55,0:58:59,73,70,3,376,64,Hermitage Harriers
+2016,Sutton Park,63,Hermitage Harriers,,complete,1:59:43,4,Alex Percy,19:29,1:18:28,70,63,7,315,46,Hermitage Harriers
+2016,Sutton Park,63,Hermitage Harriers,,complete,1:59:43,5,Mark Kendrick,20:31,1:38:59,63,64,-1,430,66,Hermitage Harriers
+2016,Sutton Park,63,Hermitage Harriers,,complete,1:59:43,6,Ryan Twigg,20:44,1:59:43,64,63,1,446,65,Hermitage Harriers
+2016,Sutton Park,64,Corby AC,,complete,1:59:58,1,Isaac Akers,18:37,0:18:37,,44,,164,43,Corby AC
+2016,Sutton Park,64,Corby AC,,complete,1:59:58,2,Luke Montgomery,19:53,0:38:30,44,62,-18,373,71,Corby AC
+2016,Sutton Park,64,Corby AC,,complete,1:59:58,3,Troy Garrity,20:04,0:58:34,62,66,-4,393,67,Corby AC
+2016,Sutton Park,64,Corby AC,,complete,1:59:58,4,Sebastien Goodal,20:34,1:19:08,66,69,-3,434,71,Corby AC
+2016,Sutton Park,64,Corby AC,,complete,1:59:58,5,Jacob Akers,19:36,1:38:44,69,62,7,333,42,Corby AC
+2016,Sutton Park,64,Corby AC,,complete,1:59:58,6,Benn Lyman,21:14,1:59:58,62,64,-2,465,72,Corby AC
+2016,Sutton Park,65,Shrewsbury AC,,complete,2:00:08,1,James Hickinbott,19:33,0:19:33,,74,,325,74,Shrewsbury AC
+2016,Sutton Park,65,Shrewsbury AC,,complete,2:00:08,2,Luke Butler,20:16,0:39:49,74,78,-4,413,78,Shrewsbury AC
+2016,Sutton Park,65,Shrewsbury AC,,complete,2:00:08,3,Gabriel Morris,20:04,0:59:53,78,75,3,393,67,Shrewsbury AC
+2016,Sutton Park,65,Shrewsbury AC,,complete,2:00:08,4,Adam Roberts,20:20,1:20:13,75,73,2,416,66,Shrewsbury AC
+2016,Sutton Park,65,Shrewsbury AC,,complete,2:00:08,5,Brett Edwards,19:42,1:39:55,73,67,6,351,49,Shrewsbury AC
+2016,Sutton Park,65,Shrewsbury AC,,complete,2:00:08,6,Matt Hall,20:13,2:00:08,67,65,2,410,58,Shrewsbury AC
+2016,Sutton Park,66,Kent AC,B,complete,2:00:09,1,Tim Lawrence,19:38,0:19:38,,76,,339,76,Kent AC
+2016,Sutton Park,66,Kent AC,B,complete,2:00:09,2,Chris Minns,19:55,0:39:33,76,76,0,376,72,Kent AC
+2016,Sutton Park,66,Kent AC,B,complete,2:00:09,3,Lawrence Avery,19:45,0:59:18,76,72,4,357,61,Kent AC
+2016,Sutton Park,66,Kent AC,B,complete,2:00:09,4,Joe Hartley,20:12,1:19:30,72,71,1,409,64,Kent AC
+2016,Sutton Park,66,Kent AC,B,complete,2:00:09,5,Mark Hall,20:31,1:40:01,71,68,3,430,66,Kent AC
+2016,Sutton Park,66,Kent AC,B,complete,2:00:09,6,Stephen Compton,20:08,2:00:09,68,66,2,399,54,Kent AC
+2016,Sutton Park,67,Herne Hill Harriers,,complete,2:00:33,1,Simon Coombes,19:06,0:19:06,,61,,236,61,Herne Hill Harriers
+2016,Sutton Park,67,Herne Hill Harriers,,complete,2:00:33,2,Lascelles Hussey,18:29,0:37:35,61,46,15,135,26,Herne Hill Harriers
+2016,Sutton Park,67,Herne Hill Harriers,,complete,2:00:33,3,Jeff Cunningham,19:22,0:56:57,46,47,-1,296,53,Herne Hill Harriers
+2016,Sutton Park,67,Herne Hill Harriers,,complete,2:00:33,4,Deron Fagan,19:55,1:16:52,47,50,-3,376,58,Herne Hill Harriers
+2016,Sutton Park,67,Herne Hill Harriers,,complete,2:00:33,5,Dave Adam,22:56,1:39:48,50,66,-16,483,78,Herne Hill Harriers
+2016,Sutton Park,67,Herne Hill Harriers,,complete,2:00:33,6,Alex Hobley,20:45,2:00:33,66,67,-1,447,66,Herne Hill Harriers
+2016,Sutton Park,68,Royal Sutton Coldfield AC,,complete,2:00:47,1,Thomas Chew,19:55,0:19:55,,79,,376,79,Royal Sutton Coldfield AC
+2016,Sutton Park,68,Royal Sutton Coldfield AC,,complete,2:00:47,2,Oliver Harradenc,19:14,0:39:09,79,75,4,267,58,Royal Sutton Coldfield AC
+2016,Sutton Park,68,Royal Sutton Coldfield AC,,complete,2:00:47,3,Shaun Evans,18:33,0:57:42,75,58,17,149,24,Royal Sutton Coldfield AC
+2016,Sutton Park,68,Royal Sutton Coldfield AC,,complete,2:00:47,4,Mark Rickards,21:22,1:19:04,58,68,-10,472,80,Royal Sutton Coldfield AC
+2016,Sutton Park,68,Royal Sutton Coldfield AC,,complete,2:00:47,5,Alex Jones,20:25,1:39:29,68,65,3,424,63,Royal Sutton Coldfield AC
+2016,Sutton Park,68,Royal Sutton Coldfield AC,,complete,2:00:47,6,Alex Blackham,21:18,2:00:47,65,68,-3,469,76,Royal Sutton Coldfield AC
+2016,Sutton Park,69,Cambridge & Coleridge AC,B,complete,2:01:28,1,Ashley Brown,19:51,0:19:51,,77,,367,77,Cambridge & Coleridge AC
+2016,Sutton Park,69,Cambridge & Coleridge AC,B,complete,2:01:28,2,Max Schwiening,20:34,0:40:25,77,79,-2,434,80,Cambridge & Coleridge AC
+2016,Sutton Park,69,Cambridge & Coleridge AC,B,complete,2:01:28,3,Richard Park,20:37,1:01:02,79,78,1,437,75,Cambridge & Coleridge AC
+2016,Sutton Park,69,Cambridge & Coleridge AC,B,complete,2:01:28,4,Daniel Hurst,20:20,1:21:22,78,77,1,416,66,Cambridge & Coleridge AC
+2016,Sutton Park,69,Cambridge & Coleridge AC,B,complete,2:01:28,5,Kevin O'holleran,20:00,1:41:22,77,71,6,388,58,Cambridge & Coleridge AC
+2016,Sutton Park,69,Cambridge & Coleridge AC,B,complete,2:01:28,6,Istvan Jacso,20:06,2:01:28,71,69,2,397,52,Cambridge & Coleridge AC
+2016,Sutton Park,70,Charnwood AC,,complete,2:02:06,1,Mark Couldwell,19:18,0:19:18,,68,,281,67,Charnwood A C
+2016,Sutton Park,70,Charnwood AC,,complete,2:02:06,2,Stephen Mears,19:03,0:38:21,68,58,10,225,48,Charnwood A C
+2016,Sutton Park,70,Charnwood AC,,complete,2:02:06,3,Gary Burnett,19:38,0:57:59,58,62,-4,339,58,Charnwood A C
+2016,Sutton Park,70,Charnwood AC,,complete,2:02:06,4,Martin Makin,20:54,1:18:53,62,67,-5,452,76,Charnwood A C
+2016,Sutton Park,70,Charnwood AC,,complete,2:02:06,5,Adam Lockton,22:41,1:41:34,67,72,-5,482,77,Charnwood A C
+2016,Sutton Park,70,Charnwood AC,,complete,2:02:06,6,Tim Doran,20:32,2:02:06,72,70,2,433,61,Charnwood A C
+2016,Sutton Park,71,Barnet & District AC,,complete,2:02:08,1,Alexander Lepret,18:52,0:18:52,,54,,202,54,Barnet & District AC
+2016,Sutton Park,71,Barnet & District AC,,complete,2:02:08,2,Will Morris,20:16,0:39:08,54,74,-20,413,78,Barnet & District AC
+2016,Sutton Park,71,Barnet & District AC,,complete,2:02:08,3,Edward Price,20:40,0:59:48,74,74,0,440,76,Barnet & District AC
+2016,Sutton Park,71,Barnet & District AC,,complete,2:02:08,4,Thomas Butler,20:10,1:19:58,74,72,2,405,63,Barnet & District AC
+2016,Sutton Park,71,Barnet & District AC,,complete,2:02:08,5,Danny Digweed,22:37,1:42:35,72,75,-3,480,76,Barnet & District AC
+2016,Sutton Park,71,Barnet & District AC,,complete,2:02:08,6,Daniel Davies,19:33,2:02:08,75,71,4,325,41,Barnet & District AC
+2016,Sutton Park,72,Taunton AC,,complete,2:02:33,1,Archie Walton,18:58,0:18:58,,57,,216,57,Taunton AC
+2016,Sutton Park,72,Taunton AC,,complete,2:02:33,2,Ben Hawkins,19:29,0:38:27,57,61,-4,315,67,Taunton AC
+2016,Sutton Park,72,Taunton AC,,complete,2:02:33,3,Benjamin Jones,19:11,0:57:38,61,55,6,258,45,Taunton AC
+2016,Sutton Park,72,Taunton AC,,complete,2:02:33,4,Philip Roberts,20:40,1:18:18,55,61,-6,440,73,Taunton AC
+2016,Sutton Park,72,Taunton AC,,complete,2:02:33,5,Nicky Daniels,23:00,1:41:18,61,70,-9,484,79,Taunton AC
+2016,Sutton Park,72,Taunton AC,,complete,2:02:33,6,Keith Paul,21:15,2:02:33,70,72,-2,466,73,Taunton AC
+2016,Sutton Park,73,Heanor RC,,complete,2:02:41,1,Joe Rainsford,18:11,0:18:11,,22,,89,21,Heanor RC
+2016,Sutton Park,73,Heanor RC,,complete,2:02:41,2,Ben Rhodes,19:30,0:37:41,22,50,-28,318,68,Heanor RC
+2016,Sutton Park,73,Heanor RC,,complete,2:02:41,3,Paul Harpham,21:12,0:58:53,50,68,-18,462,78,Heanor RC
+2016,Sutton Park,73,Heanor RC,,complete,2:02:41,4,Shane Rice,19:52,1:18:45,68,66,2,371,57,Heanor RC
+2016,Sutton Park,73,Heanor RC,,complete,2:02:41,5,Paul Winfield,24:38,1:43:23,66,79,-13,485,80,Heanor RC
+2016,Sutton Park,73,Heanor RC,,complete,2:02:41,6,Stuart King,19:18,2:02:41,79,73,6,281,33,Heanor RC
+2016,Sutton Park,74,Leamington Cycling & AC,,complete,2:02:43,1,Callum Hanlon,19:04,0:19:04,,59,,229,59,Leamington Cycling & AC
+2016,Sutton Park,74,Leamington Cycling & AC,,complete,2:02:43,2,Philip Gould,19:56,0:39:00,59,72,-13,381,73,Leamington Cycling & AC
+2016,Sutton Park,74,Leamington Cycling & AC,,complete,2:02:43,3,Johnathon Brown,21:18,1:00:18,72,77,-5,469,79,Leamington Cycling & AC
+2016,Sutton Park,74,Leamington Cycling & AC,,complete,2:02:43,4,Paul Andrew,20:21,1:20:39,77,75,2,419,68,Leamington Cycling & AC
+2016,Sutton Park,74,Leamington Cycling & AC,,complete,2:02:43,5,Jamie Langley,20:25,1:41:04,75,69,6,424,63,Leamington Cycling & AC
+2016,Sutton Park,74,Leamington Cycling & AC,,complete,2:02:43,6,Dean Mawby,21:39,2:02:43,69,74,-5,475,78,Leamington Cycling & AC
+2016,Sutton Park,75,Sheffield RC,,complete,2:02:51,1,Michael Tanner,18:41,0:18:41,,45,,172,45,Sheffield RC
+2016,Sutton Park,75,Sheffield RC,,complete,2:02:51,2,Stuart Little,20:08,0:38:49,45,69,-24,399,76,Sheffield RC
+2016,Sutton Park,75,Sheffield RC,,complete,2:02:51,3,Joe Fowler,20:11,0:59:00,69,71,-2,408,70,Sheffield RC
+2016,Sutton Park,75,Sheffield RC,,complete,2:02:51,4,David Addenbrook,22:00,1:21:00,71,76,-5,479,81,Sheffield RC
+2016,Sutton Park,75,Sheffield RC,,complete,2:02:51,5,Robert Cassy,21:45,1:42:45,76,76,0,477,75,Sheffield RC
+2016,Sutton Park,75,Sheffield RC,,complete,2:02:51,6,Matthew Craig,20:06,2:02:51,76,75,1,397,52,Sheffield RC
+2016,Sutton Park,76,Dulwich Runners AC,,complete,2:03:25,1,Lewis Laylee,20:22,0:20:22,,81,,420,81,Dulwich Runners AC
+2016,Sutton Park,76,Dulwich Runners AC,,complete,2:03:25,2,Andy Bond,20:09,0:40:31,81,80,1,402,77,Dulwich Runners AC
+2016,Sutton Park,76,Dulwich Runners AC,,complete,2:03:25,3,Tony Tuohy,20:54,1:01:25,80,79,1,452,77,Dulwich Runners AC
+2016,Sutton Park,76,Dulwich Runners AC,,complete,2:03:25,4,Wayne Lashley,20:26,1:21:51,79,78,1,426,69,Dulwich Runners AC
+2016,Sutton Park,76,Dulwich Runners AC,,complete,2:03:25,5,Stephen Davies,20:31,1:42:22,78,74,4,430,66,Dulwich Runners AC
+2016,Sutton Park,76,Dulwich Runners AC,,complete,2:03:25,6,Mark Lacey,21:03,2:03:25,74,76,-2,460,71,Dulwich Runners AC
+2016,Sutton Park,77,Bournville Harriers,,complete,2:03:47,1,Paul Thompson,19:34,0:19:34,,75,,330,75,Bournville Harriers
+2016,Sutton Park,77,Bournville Harriers,,complete,2:03:47,2,C Collins,19:59,0:39:33,75,77,-2,386,75,Bournville Harriers
+2016,Sutton Park,77,Bournville Harriers,,complete,2:03:47,3,Henry Brocklehur,20:24,0:59:57,77,76,1,421,73,Bournville Harriers
+2016,Sutton Park,77,Bournville Harriers,,complete,2:03:47,4,Richard Keep,20:40,1:20:37,76,74,2,440,73,Bournville Harriers
+2016,Sutton Park,77,Bournville Harriers,,complete,2:03:47,5,Matthew Pollard,21:37,1:42:14,74,73,1,474,73,Bournville Harriers
+2016,Sutton Park,77,Bournville Harriers,,complete,2:03:47,6,Iain Jones,21:33,2:03:47,73,77,-4,473,77,Bournville Harriers
+2016,Sutton Park,78,Halesowen A&CC,,complete,2:03:59,1,Adam Cross,19:59,0:19:59,,80,,386,80,Halesowen Acc
+2016,Sutton Park,78,Halesowen A&CC,,complete,2:03:59,2,Peter Dear,21:13,0:41:12,80,81,-1,464,82,Halesowen Acc
+2016,Sutton Park,78,Halesowen A&CC,,complete,2:03:59,3,David Turvey,20:24,1:01:36,81,80,1,421,73,Halesowen Acc
+2016,Sutton Park,78,Halesowen A&CC,,complete,2:03:59,4,Andy Butler,21:01,1:22:37,80,79,1,458,78,Halesowen Acc
+2016,Sutton Park,78,Halesowen A&CC,,complete,2:03:59,5,Marc Turner,20:42,1:43:19,79,78,1,445,70,Halesowen Acc
+2016,Sutton Park,78,Halesowen A&CC,,complete,2:03:59,6,Roger Mallard,20:40,2:03:59,78,78,0,440,64,Halesowen Acc
+2016,Sutton Park,79,Wolverhampton & Bilston,,complete,2:07:23,1,Jack Bonser,20:50,0:20:50,,82,,450,82,Wolverhampton & Bilston
+2016,Sutton Park,79,Wolverhampton & Bilston,,complete,2:07:23,2,Elliot Jones,21:08,0:41:58,82,82,0,461,81,Wolverhampton & Bilston
+2016,Sutton Park,79,Wolverhampton & Bilston,,complete,2:07:23,3,James Lewis,21:19,1:03:17,82,81,1,471,80,Wolverhampton & Bilston
+2016,Sutton Park,79,Wolverhampton & Bilston,,complete,2:07:23,4,Jack Parr,21:12,1:24:29,81,82,-1,462,79,Wolverhampton & Bilston
+2016,Sutton Park,79,Wolverhampton & Bilston,,complete,2:07:23,5,James Toddington,21:39,1:46:08,82,80,2,475,74,Wolverhampton & Bilston
+2016,Sutton Park,79,Wolverhampton & Bilston,,complete,2:07:23,6,Harry Cresswell,21:15,2:07:23,80,79,1,466,73,Wolverhampton & Bilston
+2016,Sutton Park,,Lincoln Wellington AC,B,incomplete,,1,Joshua Stone,19:11,0:19:11,,65,,258,65,Lincoln Wellington AC
+2016,Sutton Park,,Lincoln Wellington AC,B,incomplete,,2,Ryan Page,19:40,0:38:51,65,70,-5,345,69,Lincoln Wellington AC
+2016,Sutton Park,,Lincoln Wellington AC,B,incomplete,,3,Ronny Wilson,18:53,0:57:44,70,59,11,204,35,Lincoln Wellington AC
+2016,Sutton Park,,Lincoln Wellington AC,B,incomplete,,4,Undeclared,25:39,1:23:23,59,80,-21,486,82,Lincoln Wellington AC
+2016,Sutton Park,,Reading AC,,incomplete,,1,Matthew Rainbow,18:44,0:18:44,,48,,183,48,Reading AC
+2016,Sutton Park,,Reading AC,,incomplete,,2,Jonathan Davies,17:09,0:35:53,48,11,37,5,2,Reading AC
+2016,Sutton Park,,Reading AC,,incomplete,,3,Daniel Ray,28:42,1:04:35,11,82,-71,487,82,Reading AC
+2016,Sutton Park,,Reading AC,,incomplete,,4,David Lewis,19:24,1:23:59,82,81,1,301,42,Reading AC
+2016,Sutton Park,,Reading AC,,incomplete,,5,Edward Stockdale,19:16,1:43:15,81,77,4,272,33,Reading AC
+2016,Sutton Park,,Sale Harriers Manchester,B,incomplete,,1,Daniel Kashi,18:47,0:18:47,,51,,191,51,Sale Harriers Manchester
+2016,Sutton Park,,Sale Harriers Manchester,B,incomplete,,2,Chris Prior,19:06,0:37:53,51,53,-2,236,51,Sale Harriers Manchester
+2016,Sutton Park,,Sale Harriers Manchester,B,incomplete,,3,Paul Green,19:14,0:57:07,53,51,2,267,47,Sale Harriers Manchester
+2016,Sutton Park,,Sale Harriers Manchester,B,incomplete,,4,James Wignall,19:32,1:16:39,51,48,3,324,49,Sale Harriers Manchester

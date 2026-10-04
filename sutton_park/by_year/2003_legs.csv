@@ -1,0 +1,389 @@
+﻿year,venue,team_pos,club,team,team_status,team_time,leg,runner,leg_time,cumulative_time,pos_before_leg,pos_after_leg,places_gained,rank_all_legs_that_year,rank_on_this_leg_that_year,club_as_printed
+2003,Sutton Park,1,Belgrave Harriers,,complete,1:45:22,1,P Freary,17:26,0:17:26,,3,,12,3,Belgrave Harriers
+2003,Sutton Park,1,Belgrave Harriers,,complete,1:45:22,2,D Anderson,17:14,0:34:40,3,1,2,5,3,Belgrave Harriers
+2003,Sutton Park,1,Belgrave Harriers,,complete,1:45:22,3,S Barden,17:25,0:52:05,1,1,0,11,3,Belgrave Harriers
+2003,Sutton Park,1,Belgrave Harriers,,complete,1:45:22,4,M Miles,17:09,1:09:14,1,1,0,4,2,Belgrave Harriers
+2003,Sutton Park,1,Belgrave Harriers,,complete,1:45:22,5,M Dent,18:28,1:27:42,1,1,0,112,9,Belgrave Harriers
+2003,Sutton Park,1,Belgrave Harriers,,complete,1:45:22,6,S Sharp,17:40,1:45:22,1,1,0,33,4,Belgrave Harriers
+2003,Sutton Park,2,Salford Harriers & AC,,complete,1:46:21,1,A Morgan-Lee,17:37,0:17:37,,9,,29,9,Salford Harriers
+2003,Sutton Park,2,Salford Harriers & AC,,complete,1:46:21,2,N Wilkinson,17:24,0:35:01,9,3,6,10,4,Salford Harriers
+2003,Sutton Park,2,Salford Harriers & AC,,complete,1:46:21,3,W Burns,17:56,0:52:57,3,2,1,57,10,Salford Harriers
+2003,Sutton Park,2,Salford Harriers & AC,,complete,1:46:21,4,J Brown,17:51,1:10:48,2,2,0,51,7,Salford Harriers
+2003,Sutton Park,2,Salford Harriers & AC,,complete,1:46:21,5,A Jones,17:34,1:28:22,2,2,0,26,2,Salford Harriers
+2003,Sutton Park,2,Salford Harriers & AC,,complete,1:46:21,6,T Abyu,17:59,1:46:21,2,2,0,63,8,Salford Harriers
+2003,Sutton Park,3,Bedford & County AC,,complete,1:47:21,1,M Janes,18:05,0:18:05,,28,,77,28,Bedford & County AC
+2003,Sutton Park,3,Bedford & County AC,,complete,1:47:21,2,H Lobb,17:41,0:35:46,28,8,20,35,8,Bedford & County AC
+2003,Sutton Park,3,Bedford & County AC,,complete,1:47:21,3,N Miller,18:29,0:54:15,8,13,-5,115,19,Bedford & County AC
+2003,Sutton Park,3,Bedford & County AC,,complete,1:47:21,4,G VanHest,17:01,1:11:16,13,3,10,3,1,Bedford & County AC
+2003,Sutton Park,3,Bedford & County AC,,complete,1:47:21,5,D Deed,18:08,1:29:24,3,3,0,85,6,Bedford & County AC
+2003,Sutton Park,3,Bedford & County AC,,complete,1:47:21,6,S Body,17:57,1:47:21,3,3,0,58,7,Bedford & County AC
+2003,Sutton Park,4,Morpeth Harriers & AC,,complete,1:47:25,1,T Ranger,17:31,0:17:31,,5,,18,5,Morpeth H & AC
+2003,Sutton Park,4,Morpeth Harriers & AC,,complete,1:47:25,2,D Samuels,18:21,0:35:52,5,12,-7,101,20,Morpeth H & AC
+2003,Sutton Park,4,Morpeth Harriers & AC,,complete,1:47:25,3,N McCormick,17:32,0:53:24,12,5,7,20,4,Morpeth H & AC
+2003,Sutton Park,4,Morpeth Harriers & AC,,complete,1:47:25,4,M Morris,18:01,1:11:25,5,4,1,71,10,Morpeth H & AC
+2003,Sutton Park,4,Morpeth Harriers & AC,,complete,1:47:25,5,T Wall,18:32,1:29:57,4,6,-2,119,10,Morpeth H & AC
+2003,Sutton Park,4,Morpeth Harriers & AC,,complete,1:47:25,6,M Hudspith,17:28,1:47:25,6,4,2,14,2,Morpeth H & AC
+2003,Sutton Park,5,Birchfield Harriers,,complete,1:47:36,1,M Whitehouse,17:32,0:17:32,,6,,20,6,Birchfield Harriers
+2003,Sutton Park,5,Birchfield Harriers,,complete,1:47:36,2,M Bouldstridge,18:47,0:36:19,6,18,-12,157,32,Birchfield Harriers
+2003,Sutton Park,5,Birchfield Harriers,,complete,1:47:36,3,R Birchall,17:22,0:53:41,18,6,12,9,2,Birchfield Harriers
+2003,Sutton Park,5,Birchfield Harriers,,complete,1:47:36,4,A Swearman,18:15,1:11:56,6,7,-1,91,15,Birchfield Harriers
+2003,Sutton Park,5,Birchfield Harriers,,complete,1:47:36,5,E Wander,17:31,1:29:27,7,4,3,18,1,Birchfield Harriers
+2003,Sutton Park,5,Birchfield Harriers,,complete,1:47:36,6,P Hinch,18:09,1:47:36,4,5,-1,86,9,Birchfield Harriers
+2003,Sutton Park,6,Sale Harriers Manchester,,complete,1:48:10,1,D Agustus,18:01,0:18:01,,25,,71,25,Sale Harriers
+2003,Sutton Park,6,Sale Harriers Manchester,,complete,1:48:10,2,S Bailey,17:55,0:35:56,25,14,11,56,12,Sale Harriers
+2003,Sutton Park,6,Sale Harriers Manchester,,complete,1:48:10,3,P Green,17:47,0:53:43,14,7,7,44,9,Sale Harriers
+2003,Sutton Park,6,Sale Harriers Manchester,,complete,1:48:10,4,S North,18:05,1:11:48,7,6,1,77,11,Sale Harriers
+2003,Sutton Park,6,Sale Harriers Manchester,,complete,1:48:10,5,G Raven,18:06,1:29:54,6,5,1,80,4,Sale Harriers
+2003,Sutton Park,6,Sale Harriers Manchester,,complete,1:48:10,6,G Comish,18:16,1:48:10,5,6,-1,95,10,Sale Harriers
+2003,Sutton Park,7,Windsor Slough Eton & Hounslow AC,,complete,1:48:21,1,M.Draper,17:35,0:17:35,,7,,27,7,"Windsor, Slough Eton & Hounslo"
+2003,Sutton Park,7,Windsor Slough Eton & Hounslow AC,,complete,1:48:21,2,S Overall,17:57,0:35:32,7,5,2,58,13,"Windsor, Slough Eton & Hounslo"
+2003,Sutton Park,7,Windsor Slough Eton & Hounslow AC,,complete,1:48:21,3,P Wicks,18:33,0:54:05,5,12,-7,124,20,"Windsor, Slough Eton & Hounslo"
+2003,Sutton Park,7,Windsor Slough Eton & Hounslow AC,,complete,1:48:21,4,B Whitby,18:27,1:12:32,12,11,1,109,17,"Windsor, Slough Eton & Hounslo"
+2003,Sutton Park,7,Windsor Slough Eton & Hounslow AC,,complete,1:48:21,5,C Bannon,18:23,1:30:55,11,9,2,104,7,"Windsor, Slough Eton & Hounslo"
+2003,Sutton Park,7,Windsor Slough Eton & Hounslow AC,,complete,1:48:21,6,S Haughian,17:26,1:48:21,9,7,2,12,1,"Windsor, Slough Eton & Hounslo"
+2003,Sutton Park,8,Aldershot Farnham & District AC,,complete,1:48:27,1,E Jackson,17:46,0:17:46,,15,,42,15,Aldershot Farnham & District
+2003,Sutton Park,8,Aldershot Farnham & District AC,,complete,1:48:27,2,J Ellis,18:05,0:35:51,15,11,4,77,16,Aldershot Farnham & District
+2003,Sutton Park,8,Aldershot Farnham & District AC,,complete,1:48:27,3,E Robinson,17:57,0:53:48,11,8,3,58,11,Aldershot Farnham & District
+2003,Sutton Park,8,Aldershot Farnham & District AC,,complete,1:48:27,4,S Ablitt,18:51,1:12:39,8,12,-4,165,21,Aldershot Farnham & District
+2003,Sutton Park,8,Aldershot Farnham & District AC,,complete,1:48:27,5,N Anderson,17:59,1:30:38,12,8,4,63,3,Aldershot Farnham & District
+2003,Sutton Park,8,Aldershot Farnham & District AC,,complete,1:48:27,6,R Vint,17:49,1:48:27,8,8,0,47,6,Aldershot Farnham & District
+2003,Sutton Park,9,London Irish AC,,complete,1:49:33,1,J Downes,17:49,0:17:49,,16,,47,16,London Irish AC
+2003,Sutton Park,9,London Irish AC,,complete,1:49:33,2,P Byrne,18:00,0:35:49,16,10,6,69,14,London Irish AC
+2003,Sutton Park,9,London Irish AC,,complete,1:49:33,3,J Brooks,17:32,0:53:21,10,4,6,20,4,London Irish AC
+2003,Sutton Park,9,London Irish AC,,complete,1:49:33,4,J Creane,19:05,1:12:26,4,10,-6,192,27,London Irish AC
+2003,Sutton Park,9,London Irish AC,,complete,1:49:33,5,R Maddams,19:23,1:31:49,10,14,-4,227,28,London Irish AC
+2003,Sutton Park,9,London Irish AC,,complete,1:49:33,6,D Wardle,17:44,1:49:33,14,9,5,36,5,London Irish AC
+2003,Sutton Park,10,Notts AC,,complete,1:49:36,1,I Boneham,17:45,0:17:45,,13,,39,13,Notts AC
+2003,Sutton Park,10,Notts AC,,complete,1:49:36,2,N Talbot,17:28,0:35:13,13,4,9,14,5,Notts AC
+2003,Sutton Park,10,Notts AC,,complete,1:49:36,3,J Hayden,18:04,0:53:17,4,3,1,75,13,Notts AC
+2003,Sutton Park,10,Notts AC,,complete,1:49:36,4,C Warburyton,18:14,1:11:31,3,5,-2,90,14,Notts AC
+2003,Sutton Park,10,Notts AC,,complete,1:49:36,5,M Wakefield,19:03,1:30:34,5,7,-2,185,17,Notts AC
+2003,Sutton Park,10,Notts AC,,complete,1:49:36,6,K Hope,19:02,1:49:36,7,10,-3,182,25,Notts AC
+2003,Sutton Park,11,Leeds City AC,,complete,1:50:01,1,M Burrett,18:27,0:18:27,,35,,109,35,Leeds City AC
+2003,Sutton Park,11,Leeds City AC,,complete,1:50:01,2,G Hull,18:19,0:36:46,35,25,10,99,19,Leeds City AC
+2003,Sutton Park,11,Leeds City AC,,complete,1:50:01,3,M Hilton,17:40,0:54:26,25,14,11,33,7,Leeds City AC
+2003,Sutton Park,11,Leeds City AC,,complete,1:50:01,4,S Deakin,17:50,1:12:16,14,9,5,50,6,Leeds City AC
+2003,Sutton Park,11,Leeds City AC,,complete,1:50:01,5,D Bilton,19:20,1:31:36,9,11,-2,223,25,Leeds City AC
+2003,Sutton Park,11,Leeds City AC,,complete,1:50:01,6,M Roscoe,18:25,1:50:01,11,11,0,107,11,Leeds City AC
+2003,Sutton Park,12,Cardiff AAC,,complete,1:50:09,1,S Jones,18:35,0:18:35,,42,,133,41,Cardiff AAC
+2003,Sutton Park,12,Cardiff AAC,,complete,1:50:09,2,R Kinsey,18:32,0:37:07,42,34,8,119,24,Cardiff AAC
+2003,Sutton Park,12,Cardiff AAC,,complete,1:50:09,3,A Jones,17:58,0:55:05,34,23,11,61,12,Cardiff AAC
+2003,Sutton Park,12,Cardiff AAC,,complete,1:50:09,4,M Jennings,18:10,1:13:15,23,17,6,87,12,Cardiff AAC
+2003,Sutton Park,12,Cardiff AAC,,complete,1:50:09,5,N Lane,18:23,1:31:38,17,12,5,104,7,Cardiff AAC
+2003,Sutton Park,12,Cardiff AAC,,complete,1:50:09,6,J Thie,18:31,1:50:09,12,12,0,118,14,Cardiff AAC
+2003,Sutton Park,13,Owls AC Leicester,,complete,1:50:34,1,N Mapp,17:54,0:17:54,,19,,54,18,Owls AC
+2003,Sutton Park,13,Owls AC Leicester,,complete,1:50:34,2,R Faulkner,17:44,0:35:38,19,7,12,36,9,Owls AC
+2003,Sutton Park,13,Owls AC Leicester,,complete,1:50:34,3,R Bromley,18:26,0:54:04,7,11,-4,108,18,Owls AC
+2003,Sutton Park,13,Owls AC Leicester,,complete,1:50:34,4,C O'Neill,18:55,1:12:59,11,15,-4,172,24,Owls AC
+2003,Sutton Park,13,Owls AC Leicester,,complete,1:50:34,5,V Schmitt,19:02,1:32:01,15,15,0,182,16,Owls AC
+2003,Sutton Park,13,Owls AC Leicester,,complete,1:50:34,6,P Miles,18:33,1:50:34,15,13,2,124,16,Owls AC
+2003,Sutton Park,14,Telford AC,,complete,1:51:05,1,M Flint,18:21,0:18:21,,33,,101,33,Telford AC
+2003,Sutton Park,14,Telford AC,,complete,1:51:05,2,C Davies,16:25,0:34:46,33,2,31,1,1,Telford AC
+2003,Sutton Park,14,Telford AC,,complete,1:51:05,3,D Lewis,19:05,0:53:51,2,9,-7,192,31,Telford AC
+2003,Sutton Park,14,Telford AC,,complete,1:51:05,4,C Rimmer,18:54,1:12:45,9,13,-4,170,22,Telford AC
+2003,Sutton Park,14,Telford AC,,complete,1:51:05,5,D Mansbridge,19:34,1:32:19,13,16,-3,251,31,Telford AC
+2003,Sutton Park,14,Telford AC,,complete,1:51:05,6,T.Bailey,18:46,1:51:05,16,14,2,156,20,Telford AC
+2003,Sutton Park,15,Tipton Harriers,,complete,1:51:13,1,I Mitchell,17:52,0:17:52,,17,,52,17,Tipton Harriers
+2003,Sutton Park,15,Tipton Harriers,,complete,1:51:13,2,S Cotton,18:34,0:36:26,17,19,-2,130,25,Tipton Harriers
+2003,Sutton Park,15,Tipton Harriers,,complete,1:51:13,3,P Moore,19:07,0:55:33,19,27,-8,196,33,Tipton Harriers
+2003,Sutton Park,15,Tipton Harriers,,complete,1:51:13,4,P Nicholls,17:59,1:13:32,27,19,8,63,9,Tipton Harriers
+2003,Sutton Park,15,Tipton Harriers,,complete,1:51:13,5,A Keene,19:13,1:32:45,19,20,-1,207,20,Tipton Harriers
+2003,Sutton Park,15,Tipton Harriers,,complete,1:51:13,6,M Williams,18:28,1:51:13,20,15,5,112,12,Tipton Harriers
+2003,Sutton Park,16,Hallamshire Harriers Sheffield,,complete,1:51:27,1,J Heap,18:24,0:18:24,,34,,106,34,Hallamshire H Sheffield
+2003,Sutton Park,16,Hallamshire Harriers Sheffield,,complete,1:51:27,2,O Williams,18:41,0:37:05,34,32,2,144,28,Hallamshire H Sheffield
+2003,Sutton Park,16,Hallamshire Harriers Sheffield,,complete,1:51:27,3,J Ward,17:32,0:54:37,32,16,16,20,4,Hallamshire H Sheffield
+2003,Sutton Park,16,Hallamshire Harriers Sheffield,,complete,1:51:27,4,D Teasdale,18:59,1:13:36,16,21,-5,178,26,Hallamshire H Sheffield
+2003,Sutton Park,16,Hallamshire Harriers Sheffield,,complete,1:51:27,5,M Bishop,19:01,1:32:37,21,19,2,179,15,Hallamshire H Sheffield
+2003,Sutton Park,16,Hallamshire Harriers Sheffield,,complete,1:51:27,6,A Dyson,18:50,1:51:27,19,16,3,163,22,Hallamshire H Sheffield
+2003,Sutton Park,17,Westbury Harriers,,complete,1:51:34,1,M Palmer,18:06,0:18:06,,29,,80,29,Westbury Harriers
+2003,Sutton Park,17,Westbury Harriers,,complete,1:51:34,2,M Shore,18:02,0:36:08,29,16,13,73,15,Westbury Harriers
+2003,Sutton Park,17,Westbury Harriers,,complete,1:51:34,3,M O'Doherty,18:37,0:54:45,16,18,-2,138,22,Westbury Harriers
+2003,Sutton Park,17,Westbury Harriers,,complete,1:51:34,4,R Jones,18:32,1:13:17,18,18,0,119,18,Westbury Harriers
+2003,Sutton Park,17,Westbury Harriers,,complete,1:51:34,5,R Gordon,19:48,1:33:05,18,21,-3,274,34,Westbury Harriers
+2003,Sutton Park,17,Westbury Harriers,,complete,1:51:34,6,S Everington,18:29,1:51:34,21,17,4,115,13,Westbury Harriers
+2003,Sutton Park,18,Shaftesbury Barnet Harriers,,complete,1:51:42,1,K Kyereme,18:32,0:18:32,,37,,119,37,Shaftesbury Barnet Harriers
+2003,Sutton Park,18,Shaftesbury Barnet Harriers,,complete,1:51:42,2,M Hula,18:15,0:36:47,37,26,11,91,17,Shaftesbury Barnet Harriers
+2003,Sutton Park,18,Shaftesbury Barnet Harriers,,complete,1:51:42,3,E Malloch,18:11,0:54:58,26,20,6,88,16,Shaftesbury Barnet Harriers
+2003,Sutton Park,18,Shaftesbury Barnet Harriers,,complete,1:51:42,4,A Magnall,18:36,1:13:34,20,20,0,136,19,Shaftesbury Barnet Harriers
+2003,Sutton Park,18,Shaftesbury Barnet Harriers,,complete,1:51:42,5,J Trapnore,18:06,1:31:40,20,13,7,80,4,Shaftesbury Barnet Harriers
+2003,Sutton Park,18,Shaftesbury Barnet Harriers,,complete,1:51:42,6,E Mayers,20:02,1:51:42,13,18,-5,296,37,Shaftesbury Barnet Harriers
+2003,Sutton Park,19,Newham & Essex Beagles AC,,complete,1:52:04,1,S Major,18:00,0:18:00,,24,,69,24,Newham & Essex Beagles
+2003,Sutton Park,19,Newham & Essex Beagles AC,,complete,1:52:04,2,M Warmby,17:47,0:35:47,24,9,15,44,10,Newham & Essex Beagles
+2003,Sutton Park,19,Newham & Essex Beagles AC,,complete,1:52:04,3,B Hellmers,18:45,0:54:32,9,15,-6,151,25,Newham & Essex Beagles
+2003,Sutton Park,19,Newham & Essex Beagles AC,,complete,1:52:04,4,N Adams,19:07,1:13:39,15,22,-7,196,28,Newham & Essex Beagles
+2003,Sutton Park,19,Newham & Essex Beagles AC,,complete,1:52:04,5,A Barber,18:51,1:32:30,22,18,4,165,14,Newham & Essex Beagles
+2003,Sutton Park,19,Newham & Essex Beagles AC,,complete,1:52:04,6,A Ali,19:34,1:52:04,18,19,-1,251,31,Newham & Essex Beagles
+2003,Sutton Park,20,Harrow AC,,complete,1:52:17,1,A Bowden,17:30,0:17:30,,4,,16,4,Harrow AC
+2003,Sutton Park,20,Harrow AC,,complete,1:52:17,2,D Branfoot,18:48,0:36:18,4,17,-13,160,33,Harrow AC
+2003,Sutton Park,20,Harrow AC,,complete,1:52:17,3,A Baddeley,17:45,0:54:03,17,10,7,39,8,Harrow AC
+2003,Sutton Park,20,Harrow AC,,complete,1:52:17,4,M McIntosh,19:55,1:13:58,10,23,-13,282,45,Harrow AC
+2003,Sutton Park,20,Harrow AC,,complete,1:52:17,5,M Bryant,19:32,1:33:30,23,22,1,246,30,Harrow AC
+2003,Sutton Park,20,Harrow AC,,complete,1:52:17,6,D Leggate,18:47,1:52:17,22,20,2,157,21,Harrow AC
+2003,Sutton Park,21,Medway & Maidstone AC,,complete,1:52:29,1,P Curran,19:03,0:19:03,,50,,185,50,Medway & Maidstone AC
+2003,Sutton Park,21,Medway & Maidstone AC,,complete,1:52:29,2,M Coleman,17:33,0:36:36,50,23,27,25,7,Medway & Maidstone AC
+2003,Sutton Park,21,Medway & Maidstone AC,,complete,1:52:29,3,A Thomas,18:33,0:55:09,23,24,-1,124,20,Medway & Maidstone AC
+2003,Sutton Park,21,Medway & Maidstone AC,,complete,1:52:29,4,B Royden,17:46,1:12:55,24,14,10,42,4,Medway & Maidstone AC
+2003,Sutton Park,21,Medway & Maidstone AC,,complete,1:52:29,5,T Alexander,20:53,1:33:48,14,23,-9,355,54,Medway & Maidstone AC
+2003,Sutton Park,21,Medway & Maidstone AC,,complete,1:52:29,6,G Williams,18:41,1:52:29,23,21,2,144,17,Medway & Maidstone AC
+2003,Sutton Park,22,Wells City Harriers,,complete,1:52:45,1,A Hennessy,17:58,0:17:58,,20,,61,20,Wells City Harriers
+2003,Sutton Park,22,Wells City Harriers,,complete,1:52:45,2,F Tickner,18:55,0:36:53,20,28,-8,172,36,Wells City Harriers
+2003,Sutton Park,22,Wells City Harriers,,complete,1:52:45,3,B Tickner,18:06,0:54:59,28,21,7,80,14,Wells City Harriers
+2003,Sutton Park,22,Wells City Harriers,,complete,1:52:45,4,C Morris,18:13,1:13:12,21,16,5,89,13,Wells City Harriers
+2003,Sutton Park,22,Wells City Harriers,,complete,1:52:45,5,E Richards,19:13,1:32:25,16,17,-1,207,20,Wells City Harriers
+2003,Sutton Park,22,Wells City Harriers,,complete,1:52:45,6,R Parfitt,20:20,1:52:45,17,22,-5,318,41,Wells City Harriers
+2003,Sutton Park,23,Bingley Harriers & AC,,complete,1:52:56,1,M Watson,17:38,0:17:38,,11,,32,11,Bingley Harriers & AC
+2003,Sutton Park,23,Bingley Harriers & AC,,complete,1:52:56,2,P Tedd,18:48,0:36:26,11,20,-9,160,33,Bingley Harriers & AC
+2003,Sutton Park,23,Bingley Harriers & AC,,complete,1:52:56,3,A Johnson,19:45,0:56:11,20,30,-10,266,46,Bingley Harriers & AC
+2003,Sutton Park,23,Bingley Harriers & AC,,complete,1:52:56,4,J Cordingley,18:39,1:14:50,30,25,5,140,20,Bingley Harriers & AC
+2003,Sutton Park,23,Bingley Harriers & AC,,complete,1:52:56,5,MacDonald,19:08,1:33:58,25,24,1,202,19,Bingley Harriers & AC
+2003,Sutton Park,23,Bingley Harriers & AC,,complete,1:52:56,6,J Convery,18:58,1:52:56,24,23,1,176,24,Bingley Harriers & AC
+2003,Sutton Park,24,Kent AC,,complete,1:53:13,1,L Reilly,19:01,0:19:01,,48,,179,48,Kent AC
+2003,Sutton Park,24,Kent AC,,complete,1:53:13,2,P Lazo,20:30,0:39:31,48,59,-11,333,60,Kent AC
+2003,Sutton Park,24,Kent AC,,complete,1:53:13,3,A Dunwoody,18:40,0:58:11,59,52,7,143,23,Kent AC
+2003,Sutton Park,24,Kent AC,,complete,1:53:13,4,J Mays,17:48,1:15:59,52,32,20,46,5,Kent AC
+2003,Sutton Park,24,Kent AC,,complete,1:53:13,5,N Pollock,18:33,1:34:32,32,27,5,124,11,Kent AC
+2003,Sutton Park,24,Kent AC,,complete,1:53:13,6,K Ouou,18:41,1:53:13,27,24,3,144,17,Kent AC
+2003,Sutton Park,25,Preston Harriers,,complete,1:53:15,1,C Livesey,17:21,0:17:21,,2,,7,2,Preston Harriers
+2003,Sutton Park,25,Preston Harriers,,complete,1:53:15,2,E Simpson,18:36,0:35:57,2,15,-13,136,26,Preston Harriers
+2003,Sutton Park,25,Preston Harriers,,complete,1:53:15,3,M Livingstone,18:53,0:54:50,15,19,-4,169,30,Preston Harriers
+2003,Sutton Park,25,Preston Harriers,,complete,1:53:15,4,B Dewhurst,20:16,1:15:06,19,27,-8,314,53,Preston Harriers
+2003,Sutton Park,25,Preston Harriers,,complete,1:53:15,5,S Hallas,19:14,1:34:20,27,26,1,212,22,Preston Harriers
+2003,Sutton Park,25,Preston Harriers,,complete,1:53:15,6,S Smith,18:55,1:53:15,26,25,1,172,23,Preston Harriers
+2003,Sutton Park,26,Blackheath & Bromley Harriers AC,,complete,1:53:18,1,A Rayner,18:04,0:18:04,,27,,75,27,Blackheath & Bromley H AC
+2003,Sutton Park,26,Blackheath & Bromley Harriers AC,,complete,1:53:18,2,B Foster,19:13,0:37:17,27,37,-10,207,44,Blackheath & Bromley H AC
+2003,Sutton Park,26,Blackheath & Bromley Harriers AC,,complete,1:53:18,3,M Skinner,17:21,0:54:38,37,17,20,7,1,Blackheath & Bromley H AC
+2003,Sutton Park,26,Blackheath & Bromley Harriers AC,,complete,1:53:18,4,M Steinle,17:32,1:12:10,17,8,9,20,3,Blackheath & Bromley H AC
+2003,Sutton Park,26,Blackheath & Bromley Harriers AC,,complete,1:53:18,5,J Atkinson,19:20,1:31:30,8,10,-2,223,25,Blackheath & Bromley H AC
+2003,Sutton Park,26,Blackheath & Bromley Harriers AC,,complete,1:53:18,6,K Daniel,21:48,1:53:18,10,26,-16,376,56,Blackheath & Bromley H AC
+2003,Sutton Park,27,Thames Hare & Hounds,,complete,1:53:33,1,A Weir,18:15,0:18:15,,30,,91,30,Thames Hare & Hounds
+2003,Sutton Park,27,Thames Hare & Hounds,,complete,1:53:33,2,L Matthews,19:51,0:38:06,30,48,-18,278,54,Thames Hare & Hounds
+2003,Sutton Park,27,Thames Hare & Hounds,,complete,1:53:33,3,N Altmann,18:17,0:56:23,48,34,14,97,17,Thames Hare & Hounds
+2003,Sutton Park,27,Thames Hare & Hounds,,complete,1:53:33,4,A Kennis,19:34,1:15:57,34,31,3,251,38,Thames Hare & Hounds
+2003,Sutton Park,27,Thames Hare & Hounds,,complete,1:53:33,5,D Symons,19:59,1:35:56,31,36,-5,292,38,Thames Hare & Hounds
+2003,Sutton Park,27,Thames Hare & Hounds,,complete,1:53:33,6,P Sly,17:37,1:53:33,36,27,9,29,3,Thames Hare & Hounds
+2003,Sutton Park,28,Trafford AC,,complete,1:53:54,1,I Salisbury,19:02,0:19:02,,49,,182,49,Trafford AC
+2003,Sutton Park,28,Trafford AC,,complete,1:53:54,2,M Sawrey,18:45,0:37:47,49,42,7,151,31,Trafford AC
+2003,Sutton Park,28,Trafford AC,,complete,1:53:54,3,C Doyle,19:22,0:57:09,42,41,1,225,39,Trafford AC
+2003,Sutton Park,28,Trafford AC,,complete,1:53:54,4,M Hutchinson,18:57,1:16:06,41,34,7,175,25,Trafford AC
+2003,Sutton Park,28,Trafford AC,,complete,1:53:54,5,C Leigh,18:39,1:34:45,34,28,6,140,13,Trafford AC
+2003,Sutton Park,28,Trafford AC,,complete,1:53:54,6,M Murray,19:09,1:53:54,28,28,0,203,28,Trafford AC
+2003,Sutton Park,29,Coventry Godiva Harriers,,complete,1:54:03,1,M Lole,17:54,0:17:54,,18,,54,18,Coventry Godiva Harriers
+2003,Sutton Park,29,Coventry Godiva Harriers,,complete,1:54:03,2,J White,19:12,0:37:06,18,33,-15,205,42,Coventry Godiva Harriers
+2003,Sutton Park,29,Coventry Godiva Harriers,,complete,1:54:03,3,G Deacon,18:07,0:55:13,33,25,8,84,15,Coventry Godiva Harriers
+2003,Sutton Park,29,Coventry Godiva Harriers,,complete,1:54:03,4,J McKeown,19:32,1:14:45,25,24,1,246,34,Coventry Godiva Harriers
+2003,Sutton Park,29,Coventry Godiva Harriers,,complete,1:54:03,5,I Jones,19:34,1:34:19,24,25,-1,251,31,Coventry Godiva Harriers
+2003,Sutton Park,29,Coventry Godiva Harriers,,complete,1:54:03,6,M Taylor,19:44,1:54:03,25,29,-4,262,33,Coventry Godiva Harriers
+2003,Sutton Park,30,Woodford Green AC with Essex Ladies,,complete,1:54:32,1,A Walker,19:15,0:19:15,,54,,214,54,Woodford Green & Essex Ladies
+2003,Sutton Park,30,Woodford Green AC with Essex Ladies,,complete,1:54:32,2,T Snow,18:44,0:37:59,54,47,7,149,29,Woodford Green & Essex Ladies
+2003,Sutton Park,30,Woodford Green AC with Essex Ladies,,complete,1:54:32,3,C Reynolds,19:30,0:57:29,47,47,0,243,42,Woodford Green & Essex Ladies
+2003,Sutton Park,30,Woodford Green AC with Essex Ladies,,complete,1:54:32,4,A Brown,19:44,1:17:13,47,47,0,262,41,Woodford Green & Essex Ladies
+2003,Sutton Park,30,Woodford Green AC with Essex Ladies,,complete,1:54:32,5,K Murphy,18:34,1:35:47,47,33,14,130,12,Woodford Green & Essex Ladies
+2003,Sutton Park,30,Woodford Green AC with Essex Ladies,,complete,1:54:32,6,M Shone,18:45,1:54:32,33,30,3,151,19,Woodford Green & Essex Ladies
+2003,Sutton Park,31,Holmfirth Harriers AC,,complete,1:54:36,1,M Buckingham,17:45,0:17:45,,14,,39,13,Holmfirth Harriers AC
+2003,Sutton Park,31,Holmfirth Harriers AC,,complete,1:54:36,2,S Pickering,19:07,0:36:52,14,27,-13,196,41,Holmfirth Harriers AC
+2003,Sutton Park,31,Holmfirth Harriers AC,,complete,1:54:36,3,M Pierson,18:47,0:55:39,27,28,-1,157,28,Holmfirth Harriers AC
+2003,Sutton Park,31,Holmfirth Harriers AC,,complete,1:54:36,4,M Dewhirst,19:39,1:15:18,28,29,-1,259,39,Holmfirth Harriers AC
+2003,Sutton Park,31,Holmfirth Harriers AC,,complete,1:54:36,5,P Yates,19:31,1:34:49,29,29,0,245,29,Holmfirth Harriers AC
+2003,Sutton Park,31,Holmfirth Harriers AC,,complete,1:54:36,6,J Heywood,19:47,1:54:36,29,31,-2,272,35,Holmfirth Harriers AC
+2003,Sutton Park,32,Charnwood AC,,complete,1:55:04,1,P Richardson,17:18,0:17:18,,1,,6,1,Charnwood AC
+2003,Sutton Park,32,Charnwood AC,,complete,1:55:04,2,S Mears,19:37,0:36:55,1,29,-28,256,52,Charnwood AC
+2003,Sutton Park,32,Charnwood AC,,complete,1:55:04,3,D Guess,20:20,0:57:15,29,42,-13,318,57,Charnwood AC
+2003,Sutton Park,32,Charnwood AC,,complete,1:55:04,4,C Maud,19:32,1:16:47,42,45,-3,246,34,Charnwood AC
+2003,Sutton Park,32,Charnwood AC,,complete,1:55:04,5,R Brown,19:45,1:36:32,45,38,7,266,33,Charnwood AC
+2003,Sutton Park,32,Charnwood AC,,complete,1:55:04,6,T Hartley,18:32,1:55:04,38,32,6,119,15,Charnwood AC
+2003,Sutton Park,33,Swindon Harriers,,complete,1:55:15,1,A Fulford,18:48,0:18:48,,46,,160,46,Swindon Harriers
+2003,Sutton Park,33,Swindon Harriers,,complete,1:55:15,2,R Karn,19:04,0:37:52,46,43,3,190,40,Swindon Harriers
+2003,Sutton Park,33,Swindon Harriers,,complete,1:55:15,3,A Hawkins,18:45,0:56:37,43,36,7,151,25,Swindon Harriers
+2003,Sutton Park,33,Swindon Harriers,,complete,1:55:15,4,J Scragg,19:07,1:15:44,36,30,6,196,28,Swindon Harriers
+2003,Sutton Park,33,Swindon Harriers,,complete,1:55:15,5,S Paddock,19:57,1:35:41,30,32,-2,286,35,Swindon Harriers
+2003,Sutton Park,33,Swindon Harriers,,complete,1:55:15,6,M Harris,19:34,1:55:15,32,33,-1,251,31,Swindon Harriers
+2003,Sutton Park,34,Liverpool Harriers & AC,,complete,1:55:58,1,R Burney,18:34,0:18:34,,40,,130,40,Liverpool Harriers & AC
+2003,Sutton Park,34,Liverpool Harriers & AC,,complete,1:55:58,2,J Horman,19:12,0:37:46,40,41,-1,205,42,Liverpool Harriers & AC
+2003,Sutton Park,34,Liverpool Harriers & AC,,complete,1:55:58,3,P Walsh,19:09,0:56:55,41,38,3,203,34,Liverpool Harriers & AC
+2003,Sutton Park,34,Liverpool Harriers & AC,,complete,1:55:58,4,R Cole,19:44,1:16:39,38,42,-4,262,41,Liverpool Harriers & AC
+2003,Sutton Park,34,Liverpool Harriers & AC,,complete,1:55:58,5,R Shearer,19:17,1:35:56,42,35,7,218,23,Liverpool Harriers & AC
+2003,Sutton Park,34,Liverpool Harriers & AC,,complete,1:55:58,6,A Clarke,20:02,1:55:58,35,34,1,296,37,Liverpool Harriers & AC
+2003,Sutton Park,35,Derby AC (inc. Derby & County AC),,complete,1:56:11,1,L Gunn,17:59,0:17:59,,22,,63,21,Derby AC
+2003,Sutton Park,35,Derby AC (inc. Derby & County AC),,complete,1:56:11,2,A Pilcher,19:54,0:37:53,22,44,-22,281,56,Derby AC
+2003,Sutton Park,35,Derby AC (inc. Derby & County AC),,complete,1:56:11,3,T Lawrence,19:15,0:57:08,44,40,4,214,36,Derby AC
+2003,Sutton Park,35,Derby AC (inc. Derby & County AC),,complete,1:56:11,4,R Weir,18:54,1:16:02,40,33,7,170,22,Derby AC
+2003,Sutton Park,35,Derby AC (inc. Derby & County AC),,complete,1:56:11,5,P Bains,20:24,1:36:26,33,37,-4,326,46,Derby AC
+2003,Sutton Park,35,Derby AC (inc. Derby & County AC),,complete,1:56:11,6,R Wilson,19:45,1:56:11,37,35,2,266,34,Derby AC
+2003,Sutton Park,36,Bolton United Harriers & AC,,complete,1:56:12,1,I Bowles,19:03,0:19:03,,51,,185,50,Bolton United Harriers & AC
+2003,Sutton Park,36,Bolton United Harriers & AC,,complete,1:56:12,2,C Iddon,18:51,0:37:54,51,45,6,165,35,Bolton United Harriers & AC
+2003,Sutton Park,36,Bolton United Harriers & AC,,complete,1:56:12,3,H Hammond,19:25,0:57:19,45,43,2,231,40,Bolton United Harriers & AC
+2003,Sutton Park,36,Bolton United Harriers & AC,,complete,1:56:12,4,T Ellis,19:27,1:16:46,43,44,-1,237,32,Bolton United Harriers & AC
+2003,Sutton Park,36,Bolton United Harriers & AC,,complete,1:56:12,5,I Selby,20:02,1:36:48,44,40,4,296,39,Bolton United Harriers & AC
+2003,Sutton Park,36,Bolton United Harriers & AC,,complete,1:56:12,6,D Shaw,19:24,1:56:12,40,36,4,230,30,Bolton United Harriers & AC
+2003,Sutton Park,37,Southampton Running Club,,complete,1:56:22,1,R Finch,18:02,0:18:02,,26,,73,26,Southampton Running Club
+2003,Sutton Park,37,Southampton Running Club,,complete,1:56:22,2,J Maskell,19:14,0:37:16,26,36,-10,212,45,Southampton Running Club
+2003,Sutton Park,37,Southampton Running Club,,complete,1:56:22,3,M Toomey,19:41,0:56:57,36,39,-3,261,45,Southampton Running Club
+2003,Sutton Park,37,Southampton Running Club,,complete,1:56:22,4,P Davies,19:39,1:16:36,39,40,-1,259,39,Southampton Running Club
+2003,Sutton Park,37,Southampton Running Club,,complete,1:56:22,5,I Robertson,19:19,1:35:55,40,34,6,222,24,Southampton Running Club
+2003,Sutton Park,37,Southampton Running Club,,complete,1:56:22,6,M West,20:27,1:56:22,34,37,-3,329,44,Southampton Running Club
+2003,Sutton Park,38,Barrow & Furness Striders AC,,complete,1:56:28,1,P Miller,19:23,0:19:23,,57,,227,57,Barrow & Furness Striders AC
+2003,Sutton Park,38,Barrow & Furness Striders AC,,complete,1:56:28,2,D Shaw,21:09,0:40:32,57,63,-6,364,63,Barrow & Furness Striders AC
+2003,Sutton Park,38,Barrow & Furness Striders AC,,complete,1:56:28,3,R Parrington,18:50,0:59:22,63,61,2,163,29,Barrow & Furness Striders AC
+2003,Sutton Park,38,Barrow & Furness Striders AC,,complete,1:56:28,4,C Winward,17:53,1:17:15,61,48,13,53,8,Barrow & Furness Striders AC
+2003,Sutton Park,38,Barrow & Furness Striders AC,,complete,1:56:28,5,C Brogan,19:58,1:37:13,48,42,6,290,37,Barrow & Furness Striders AC
+2003,Sutton Park,38,Barrow & Furness Striders AC,,complete,1:56:28,6,R Atkinson,19:15,1:56:28,42,38,4,214,29,Barrow & Furness Striders AC
+2003,Sutton Park,39,Exeter Harriers,,complete,1:56:37,1,M Feighan,18:39,0:18:39,,44,,140,44,Exeter Harriers
+2003,Sutton Park,39,Exeter Harriers,,complete,1:56:37,2,B Rigler,18:58,0:37:37,44,40,4,176,37,Exeter Harriers
+2003,Sutton Park,39,Exeter Harriers,,complete,1:56:37,3,M Cowan,18:41,0:56:18,40,33,7,144,24,Exeter Harriers
+2003,Sutton Park,39,Exeter Harriers,,complete,1:56:37,4,J O'Keefe,20:11,1:16:29,33,38,-5,308,50,Exeter Harriers
+2003,Sutton Park,39,Exeter Harriers,,complete,1:56:37,5,M Barrett,20:05,1:36:34,38,39,-1,302,40,Exeter Harriers
+2003,Sutton Park,39,Exeter Harriers,,complete,1:56:37,6,T Jones,20:03,1:56:37,39,39,0,300,39,Exeter Harriers
+2003,Sutton Park,40,Elswick Harriers,,complete,1:56:45,1,R McLeod,17:37,0:17:37,,10,,29,9,Elswick Harriers
+2003,Sutton Park,40,Elswick Harriers,,complete,1:56:45,2,S Horn,18:15,0:35:52,10,13,-3,91,17,Elswick Harriers
+2003,Sutton Park,40,Elswick Harriers,,complete,1:56:45,3,I Ellis,19:13,0:55:05,13,22,-9,207,35,Elswick Harriers
+2003,Sutton Park,40,Elswick Harriers,,complete,1:56:45,4,J Bell,20:05,1:15:10,22,28,-6,302,49,Elswick Harriers
+2003,Sutton Park,40,Elswick Harriers,,complete,1:56:45,5,M McLeod,20:07,1:35:17,28,30,-2,305,42,Elswick Harriers
+2003,Sutton Park,40,Elswick Harriers,,complete,1:56:45,6,M Ketley,21:28,1:56:45,30,40,-10,371,54,Elswick Harriers
+2003,Sutton Park,41,City Of Sheffield & Dearne AC,,complete,1:56:48,1,A Kilding,18:35,0:18:35,,43,,133,41,City Of Sheffield AC
+2003,Sutton Park,41,City Of Sheffield & Dearne AC,,complete,1:56:48,2,J Cordwell,18:28,0:37:03,43,31,12,112,23,City Of Sheffield AC
+2003,Sutton Park,41,City Of Sheffield & Dearne AC,,complete,1:56:48,3,I Hough,20:20,0:57:23,31,46,-15,318,57,City Of Sheffield AC
+2003,Sutton Park,41,City Of Sheffield & Dearne AC,,complete,1:56:48,4,A O'Gorman,19:13,1:16:36,46,41,5,207,30,City Of Sheffield AC
+2003,Sutton Park,41,City Of Sheffield & Dearne AC,,complete,1:56:48,5,J Kallhauge,21:05,1:37:41,41,46,-5,361,58,City Of Sheffield AC
+2003,Sutton Park,41,City Of Sheffield & Dearne AC,,complete,1:56:48,6,S Millward,19:07,1:56:48,46,41,5,196,27,City Of Sheffield AC
+2003,Sutton Park,42,City of Norwich AC,,complete,1:57:11,1,B Whitworth,18:35,0:18:35,,41,,133,41,City Of Norwich AC
+2003,Sutton Park,42,City of Norwich AC,,complete,1:57:11,2,W Lincoln,19:59,0:38:34,41,54,-13,292,58,City Of Norwich AC
+2003,Sutton Park,42,City of Norwich AC,,complete,1:57:11,3,N Hodge,19:27,0:58:01,54,50,4,237,41,City Of Norwich AC
+2003,Sutton Park,42,City of Norwich AC,,complete,1:57:11,4,L Hubbard,20:45,1:18:46,50,57,-7,347,61,City Of Norwich AC
+2003,Sutton Park,42,City of Norwich AC,,complete,1:57:11,5,C Jones,19:22,1:38:08,57,51,6,225,27,City Of Norwich AC
+2003,Sutton Park,42,City of Norwich AC,,complete,1:57:11,6,C Hobson,19:03,1:57:11,51,42,9,185,26,City Of Norwich AC
+2003,Sutton Park,43,East Cheshire Harriers & Tameside AC,,complete,1:57:16,1,S Heaton,19:04,0:19:04,,52,,190,52,East Cheshire H Tameside AC
+2003,Sutton Park,43,East Cheshire Harriers & Tameside AC,,complete,1:57:16,2,G Matthews,19:23,0:38:27,52,50,2,227,46,East Cheshire H Tameside AC
+2003,Sutton Park,43,East Cheshire Harriers & Tameside AC,,complete,1:57:16,3,E Shaw,20:11,0:58:38,50,56,-6,308,55,East Cheshire H Tameside AC
+2003,Sutton Park,43,East Cheshire Harriers & Tameside AC,,complete,1:57:16,4,C Birchall,18:19,1:16:57,56,46,10,99,16,East Cheshire H Tameside AC
+2003,Sutton Park,43,East Cheshire Harriers & Tameside AC,,complete,1:57:16,5,A Schofield,20:19,1:37:16,46,43,3,317,44,East Cheshire H Tameside AC
+2003,Sutton Park,43,East Cheshire Harriers & Tameside AC,,complete,1:57:16,6,D Vaughan,20:00,1:57:16,43,43,0,295,36,East Cheshire H Tameside AC
+2003,Sutton Park,44,Keighley & Craven AC,,complete,1:57:43,1,W Smith,17:59,0:17:59,,21,,63,21,Keighley & Craven AC
+2003,Sutton Park,44,Keighley & Craven AC,,complete,1:57:43,2,C Loftus,19:27,0:37:26,21,38,-17,237,49,Keighley & Craven AC
+2003,Sutton Park,44,Keighley & Craven AC,,complete,1:57:43,3,L Helliwell,19:18,0:56:44,38,37,1,220,38,Keighley & Craven AC
+2003,Sutton Park,44,Keighley & Craven AC,,complete,1:57:43,4,A Jones,19:32,1:16:16,37,35,2,246,34,Keighley & Craven AC
+2003,Sutton Park,44,Keighley & Craven AC,,complete,1:57:43,5,L Spencer,20:34,1:36:50,35,41,-6,334,48,Keighley & Craven AC
+2003,Sutton Park,44,Keighley & Craven AC,,complete,1:57:43,6,L Broadley,20:53,1:57:43,41,44,-3,355,51,Keighley & Craven AC
+2003,Sutton Park,45,Leicester Coritanian AC,,complete,1:57:47,1,P Makepeace,18:16,0:18:16,,31,,95,31,Leicester Coritanians
+2003,Sutton Park,45,Leicester Coritanian AC,,complete,1:57:47,2,M Geele,18:21,0:36:37,31,24,7,101,20,Leicester Coritanians
+2003,Sutton Park,45,Leicester Coritanian AC,,complete,1:57:47,3,M Axton,19:58,0:56:35,24,35,-11,290,54,Leicester Coritanians
+2003,Sutton Park,45,Leicester Coritanian AC,,complete,1:57:47,4,R Mason,19:57,1:16:32,35,39,-4,286,47,Leicester Coritanians
+2003,Sutton Park,45,Leicester Coritanian AC,,complete,1:57:47,5,J Masterson,20:54,1:37:26,39,45,-6,357,55,Leicester Coritanians
+2003,Sutton Park,45,Leicester Coritanian AC,,complete,1:57:47,6,C Austin,20:21,1:57:47,45,45,0,322,42,Leicester Coritanians
+2003,Sutton Park,46,City Of Stoke AC,,complete,1:57:59,1,M Jones,18:33,0:18:33,,38,,124,38,City Of Stoke AC
+2003,Sutton Park,46,City Of Stoke AC,,complete,1:57:59,2,R Whalley,17:00,0:35:33,38,6,32,2,2,City Of Stoke AC
+2003,Sutton Park,46,City Of Stoke AC,,complete,1:57:59,3,A Prophett,20:26,0:55:59,6,29,-23,327,59,City Of Stoke AC
+2003,Sutton Park,46,City Of Stoke AC,,complete,1:57:59,4,P Hodgkinson,20:21,1:16:20,29,37,-8,322,56,City Of Stoke AC
+2003,Sutton Park,46,City Of Stoke AC,,complete,1:57:59,5,J Prince,20:58,1:37:18,37,44,-7,358,56,City Of Stoke AC
+2003,Sutton Park,46,City Of Stoke AC,,complete,1:57:59,6,A Thiemicke,20:41,1:57:59,44,46,-2,342,48,City Of Stoke AC
+2003,Sutton Park,47,Kingston Upon Hull AC,,complete,1:58:12,1,T Neill,18:43,0:18:43,,45,,148,45,Kingston Upon Hull AC
+2003,Sutton Park,47,Kingston Upon Hull AC,,complete,1:58:12,2,C Scrowston,19:50,0:38:33,45,53,-8,277,53,Kingston Upon Hull AC
+2003,Sutton Park,47,Kingston Upon Hull AC,,complete,1:58:12,3,C Smale,19:06,0:57:39,53,48,5,195,32,Kingston Upon Hull AC
+2003,Sutton Park,47,Kingston Upon Hull AC,,complete,1:58:12,4,M Turner,20:13,1:17:52,48,50,-2,311,51,Kingston Upon Hull AC
+2003,Sutton Park,47,Kingston Upon Hull AC,,complete,1:58:12,5,J Frost,20:08,1:38:00,50,48,2,306,43,Kingston Upon Hull AC
+2003,Sutton Park,47,Kingston Upon Hull AC,,complete,1:58:12,6,A Wileman,20:12,1:58:12,48,48,0,310,40,Kingston Upon Hull AC
+2003,Sutton Park,48,Wigan Phoenix,,complete,1:59:11,1,J Worthington,19:26,0:19:26,,59,,235,59,Wigan Phoenix
+2003,Sutton Park,48,Wigan Phoenix,,complete,1:59:11,2,M O'Neill,19:25,0:38:51,59,56,3,231,47,Wigan Phoenix
+2003,Sutton Park,48,Wigan Phoenix,,complete,1:59:11,3,R Howarth,19:45,0:58:36,56,55,1,266,46,Wigan Phoenix
+2003,Sutton Park,48,Wigan Phoenix,,complete,1:59:11,4,M Laithwaite,19:49,1:18:25,55,53,2,276,44,Wigan Phoenix
+2003,Sutton Park,48,Wigan Phoenix,,complete,1:59:11,5,M Manir,20:20,1:38:45,53,55,-2,318,45,Wigan Phoenix
+2003,Sutton Park,48,Wigan Phoenix,,complete,1:59:11,6,P Derbyshire,20:26,1:59:11,55,49,6,327,43,Wigan Phoenix
+2003,Sutton Park,49,Wolverhampton & Bilston,,complete,1:59:19,1,T Warrinder,18:51,0:18:51,,47,,165,47,Wolverhampton & Bilston
+2003,Sutton Park,49,Wolverhampton & Bilston,,complete,1:59:19,2,I Grindley,20:58,0:39:49,47,60,-13,358,62,Wolverhampton & Bilston
+2003,Sutton Park,49,Wolverhampton & Bilston,,complete,1:59:19,3,D Foley,19:57,0:59:46,60,62,-2,286,53,Wolverhampton & Bilston
+2003,Sutton Park,49,Wolverhampton & Bilston,,complete,1:59:19,4,D Smith,19:48,1:19:34,62,59,3,274,43,Wolverhampton & Bilston
+2003,Sutton Park,49,Wolverhampton & Bilston,,complete,1:59:19,5,N Share,19:07,1:38:41,59,54,5,196,18,Wolverhampton & Bilston
+2003,Sutton Park,49,Wolverhampton & Bilston,,complete,1:59:19,6,C Edem,20:38,1:59:19,54,50,4,340,47,Wolverhampton & Bilston
+2003,Sutton Park,50,Bristol AC,,complete,1:59:22,1,G Davenport,17:59,0:17:59,,23,,63,21,Bristol AC
+2003,Sutton Park,50,Bristol AC,,complete,1:59:22,2,N Leighton,18:37,0:36:36,23,22,1,138,27,Bristol AC
+2003,Sutton Park,50,Bristol AC,,complete,1:59:22,3,D Awde,18:45,0:55:21,22,26,-4,151,25,Bristol AC
+2003,Sutton Park,50,Bristol AC,,complete,1:59:22,4,M Dickinson,19:32,1:14:53,26,26,0,246,34,Bristol AC
+2003,Sutton Park,50,Bristol AC,,complete,1:59:22,5,P Parry,20:43,1:35:36,26,31,-5,345,51,Bristol AC
+2003,Sutton Park,50,Bristol AC,,complete,1:59:22,6,S Reynolds,23:46,1:59:22,31,51,-20,382,59,Bristol AC
+2003,Sutton Park,51,Brighton & Hove AC,,complete,1:59:38,1,M Bristow,19:25,0:19:25,,58,,231,58,Brighton & Hove City AC
+2003,Sutton Park,51,Brighton & Hove AC,,complete,1:59:38,2,R Shannon,19:03,0:38:28,58,51,7,185,39,Brighton & Hove City AC
+2003,Sutton Park,51,Brighton & Hove AC,,complete,1:59:38,3,D Boyce,19:47,0:58:15,51,53,-2,272,50,Brighton & Hove City AC
+2003,Sutton Park,51,Brighton & Hove AC,,complete,1:59:38,4,P Ilott,19:29,1:17:44,53,49,4,242,33,Brighton & Hove City AC
+2003,Sutton Park,51,Brighton & Hove AC,,complete,1:59:38,5,J Painter,20:35,1:38:19,49,52,-3,336,49,Brighton & Hove City AC
+2003,Sutton Park,51,Brighton & Hove AC,,complete,1:59:38,6,S Dabson,21:19,1:59:38,52,52,0,366,53,Brighton & Hove City AC
+2003,Sutton Park,52,York Acorn,,complete,1:59:50,1,A Hilton,18:33,0:18:33,,39,,124,38,York Acorn
+2003,Sutton Park,52,York Acorn,,complete,1:59:50,2,A Burt,19:59,0:38:32,39,52,-13,292,58,York Acorn
+2003,Sutton Park,52,York Acorn,,complete,1:59:50,3,M Raynes,20:44,0:59:16,52,60,-8,346,61,York Acorn
+2003,Sutton Park,52,York Acorn,,complete,1:59:50,4,P Goble,19:25,1:18:41,60,56,4,231,31,York Acorn
+2003,Sutton Park,52,York Acorn,,complete,1:59:50,5,A Normandale,20:35,1:39:16,56,57,-1,336,49,York Acorn
+2003,Sutton Park,52,York Acorn,,complete,1:59:50,6,R Duncan,20:34,1:59:50,57,53,4,334,46,York Acorn
+2003,Sutton Park,53,Nuneaton Harriers,,complete,2:00:25,1,G Lee,17:44,0:17:44,,12,,36,12,Nuneaton Harriers
+2003,Sutton Park,53,Nuneaton Harriers,,complete,2:00:25,2,D Boughey,19:26,0:37:10,12,35,-23,235,48,Nuneaton Harriers
+2003,Sutton Park,53,Nuneaton Harriers,,complete,2:00:25,3,C Talbot,20:13,0:57:23,35,45,-10,311,56,Nuneaton Harriers
+2003,Sutton Park,53,Nuneaton Harriers,,complete,2:00:25,4,T Sugden,20:37,1:18:00,45,51,-6,339,59,Nuneaton Harriers
+2003,Sutton Park,53,Nuneaton Harriers,,complete,2:00:25,5,G Sears,20:48,1:38:48,51,56,-5,350,52,Nuneaton Harriers
+2003,Sutton Park,53,Nuneaton Harriers,,complete,2:00:25,6,N Wilson,21:37,2:00:25,56,54,2,374,55,Nuneaton Harriers
+2003,Sutton Park,54,Redhill Road Runners,,complete,2:00:27,1,M Clapp,19:17,0:19:17,,55,,218,55,Redhillroad Runners
+2003,Sutton Park,54,Redhill Road Runners,,complete,2:00:27,2,A Wetheerill,19:01,0:38:18,55,49,6,179,38,Redhillroad Runners
+2003,Sutton Park,54,Redhill Road Runners,,complete,2:00:27,3,T Smith,19:46,0:58:04,49,51,-2,271,49,Redhillroad Runners
+2003,Sutton Park,54,Redhill Road Runners,,complete,2:00:27,4,N Cobb,20:49,1:18:53,51,58,-7,351,62,Redhillroad Runners
+2003,Sutton Park,54,Redhill Road Runners,,complete,2:00:27,5,L Stubbs,20:28,1:39:21,58,58,0,330,47,Redhillroad Runners
+2003,Sutton Park,54,Redhill Road Runners,,complete,2:00:27,6,M McHale,21:06,2:00:27,58,55,3,362,52,Redhillroad Runners
+2003,Sutton Park,55,Leamington Cycling & AC,,complete,2:01:12,1,N Edwards,18:30,0:18:30,,36,,117,36,Leamington C & AC
+2003,Sutton Park,55,Leamington Cycling & AC,,complete,2:01:12,2,C Edwards,19:28,0:37:58,36,46,-10,240,50,Leamington C & AC
+2003,Sutton Park,55,Leamington Cycling & AC,,complete,2:01:12,3,J Muddeman,19:45,0:57:43,46,49,-3,266,46,Leamington C & AC
+2003,Sutton Park,55,Leamington Cycling & AC,,complete,2:01:12,4,B Matthews,20:18,1:18:01,49,52,-3,316,55,Leamington C & AC
+2003,Sutton Park,55,Leamington Cycling & AC,,complete,2:01:12,5,S Kinson,20:06,1:38:07,52,50,2,304,41,Leamington C & AC
+2003,Sutton Park,55,Leamington Cycling & AC,,complete,2:01:12,6,R Hancock,23:05,2:01:12,50,56,-6,380,58,Leamington C & AC
+2003,Sutton Park,56,Horwich RMI Harriers,,complete,2:02:08,1,P Muller,19:18,0:19:18,,56,,220,56,Horwich Rmi Harriers
+2003,Sutton Park,56,Horwich RMI Harriers,,complete,2:02:08,2,A Selby,19:28,0:38:46,56,55,1,240,50,Horwich Rmi Harriers
+2003,Sutton Park,56,Horwich RMI Harriers,,complete,2:02:08,3,C Rigby,19:30,0:58:16,55,54,1,243,42,Horwich Rmi Harriers
+2003,Sutton Park,56,Horwich RMI Harriers,,complete,2:02:08,4,A Neary,20:16,1:18:32,54,54,0,314,53,Horwich Rmi Harriers
+2003,Sutton Park,56,Horwich RMI Harriers,,complete,2:02:08,5,B Bolland,23:07,1:41:39,54,60,-6,381,63,Horwich Rmi Harriers
+2003,Sutton Park,56,Horwich RMI Harriers,,complete,2:02:08,6,P Dewhurst,20:29,2:02:08,60,57,3,332,45,Horwich Rmi Harriers
+2003,Sutton Park,57,Cheltenham & County Harriers,,complete,2:03:18,1,T Lowe,18:18,0:18:18,,32,,98,32,Cheltenham & County Harriers
+2003,Sutton Park,57,Cheltenham & County Harriers,,complete,2:03:18,2,J Wilkie,18:44,0:37:02,32,30,2,149,29,Cheltenham & County Harriers
+2003,Sutton Park,57,Cheltenham & County Harriers,,complete,2:03:18,3,C Hughes,19:15,0:56:17,30,32,-2,214,36,Cheltenham & County Harriers
+2003,Sutton Park,57,Cheltenham & County Harriers,,complete,2:03:18,4,M Warley,20:02,1:16:19,32,36,-4,296,48,Cheltenham & County Harriers
+2003,Sutton Park,57,Cheltenham & County Harriers,,complete,2:03:18,5,D Jordan,21:26,1:37:45,36,47,-11,370,60,Cheltenham & County Harriers
+2003,Sutton Park,57,Cheltenham & County Harriers,,complete,2:03:18,6,B Cox,25:33,2:03:18,47,58,-11,385,62,Cheltenham & County Harriers
+2003,Sutton Park,58,Sphinx AC,,complete,2:03:37,1,E O'Neill,20:09,0:20:09,,64,,307,63,Sphinx AC
+2003,Sutton Park,58,Sphinx AC,,complete,2:03:37,2,S Boon,19:55,0:40:04,64,61,3,282,57,Sphinx AC
+2003,Sutton Park,58,Sphinx AC,,complete,2:03:37,3,A Bagley,20:28,1:00:32,61,63,-2,330,60,Sphinx AC
+2003,Sutton Park,58,Sphinx AC,,complete,2:03:37,4,G Patton,21:13,1:21:45,63,62,1,365,63,Sphinx AC
+2003,Sutton Park,58,Sphinx AC,,complete,2:03:37,5,L Timms,21:03,1:42:48,62,61,1,360,57,Sphinx AC
+2003,Sutton Park,58,Sphinx AC,,complete,2:03:37,6,C Stokes,20:49,2:03:37,61,59,2,351,49,Sphinx AC
+2003,Sutton Park,59,Severn AC,,complete,2:05:33,1,J Lilley,19:37,0:19:37,,60,,256,60,Severn AC
+2003,Sutton Park,59,Severn AC,,complete,2:05:33,2,S Hale,19:51,0:39:28,60,58,2,278,54,Severn AC
+2003,Sutton Park,59,Severn AC,,complete,2:05:33,3,D Lander,19:37,0:59:05,58,59,-1,256,44,Severn AC
+2003,Sutton Park,59,Severn AC,,complete,2:05:33,4,C Harvey,20:35,1:19:40,59,60,-1,336,58,Severn AC
+2003,Sutton Park,59,Severn AC,,complete,2:05:33,5,A Brown,21:19,1:40:59,60,59,1,366,59,Severn AC
+2003,Sutton Park,59,Severn AC,,complete,2:05:33,6,R Cytlau,24:34,2:05:33,59,60,-1,383,60,Severn AC
+2003,Sutton Park,60,Halesowen A&CC,,complete,2:06:44,1,M Clay,20:03,0:20:03,,63,,300,62,Halesowen A & Cc
+2003,Sutton Park,60,Halesowen A&CC,,complete,2:06:44,2,N Hazelwood,21:22,0:41:25,63,65,-2,368,64,Halesowen A & Cc
+2003,Sutton Park,60,Halesowen A&CC,,complete,2:06:44,3,R Bradley,22:04,1:03:29,65,65,0,378,65,Halesowen A & Cc
+2003,Sutton Park,60,Halesowen A&CC,,complete,2:06:44,4,D Turvey,20:15,1:23:44,65,64,1,313,52,Halesowen A & Cc
+2003,Sutton Park,60,Halesowen A&CC,,complete,2:06:44,5,A Turvey,20:51,1:44:35,64,63,1,353,53,Halesowen A & Cc
+2003,Sutton Park,60,Halesowen A&CC,,complete,2:06:44,6,S Millington,22:09,2:06:44,63,61,2,379,57,Halesowen A & Cc
+2003,Sutton Park,61,Birmingham Rowheath AC,,complete,2:06:52,1,R Gray,20:42,0:20:42,,67,,344,66,Birmingham Rowheath AC
+2003,Sutton Park,61,Birmingham Rowheath AC,,complete,2:06:52,2,H Fowler,21:24,0:42:06,67,66,1,369,65,Birmingham Rowheath AC
+2003,Sutton Park,61,Birmingham Rowheath AC,,complete,2:06:52,3,P Hurcombe,21:40,1:03:46,66,66,0,375,64,Birmingham Rowheath AC
+2003,Sutton Park,61,Birmingham Rowheath AC,,complete,2:06:52,4,M Easter,20:21,1:24:07,66,65,1,322,56,Birmingham Rowheath AC
+2003,Sutton Park,61,Birmingham Rowheath AC,,complete,2:06:52,5,N Price,21:54,1:46:01,65,64,1,377,62,Birmingham Rowheath AC
+2003,Sutton Park,61,Birmingham Rowheath AC,,complete,2:06:52,6,E McGrath,20:51,2:06:52,64,62,2,353,50,Birmingham Rowheath AC
+2003,Sutton Park,62,Les Croupiers,,complete,2:09:09,1,M McGeoch,20:21,0:20:21,,65,,322,64,Les Croupiers
+2003,Sutton Park,62,Les Croupiers,,complete,2:09:09,2,N Dukes,20:45,0:41:06,65,64,1,347,61,Les Croupiers
+2003,Sutton Park,62,Les Croupiers,,complete,2:09:09,3,P Cook,19:53,1:00:59,64,64,0,280,51,Les Croupiers
+2003,Sutton Park,62,Les Croupiers,,complete,2:09:09,4,B Johnston,21:33,1:22:32,64,63,1,372,64,Les Croupiers
+2003,Sutton Park,62,Les Croupiers,,complete,2:09:09,5,D Coles,21:36,1:44:08,63,62,1,373,61,Les Croupiers
+2003,Sutton Park,62,Les Croupiers,,complete,2:09:09,6,J Crofts,25:01,2:09:09,62,63,-1,384,61,Les Croupiers
+2003,Sutton Park,,Altrincham & District AC,,incomplete,,1,D Norman,17:36,0:17:36,,8,,28,8,Altrincham & District AC
+2003,Sutton Park,,Border Harriers & AC,,disqualified,1:58:09,1,S Angus,19:38,0:19:38,,61,,,,Border Harriers
+2003,Sutton Park,,Border Harriers & AC,,disqualified,1:58:09,2,J Scott,20:42,0:40:20,61,62,-1,,,Border Harriers
+2003,Sutton Park,,Cannock & Stafford AC,,incomplete,,1,C Powner,19:05,0:19:05,,53,,192,53,Cannock & Stafford
+2003,Sutton Park,,Cannock & Stafford AC,,incomplete,,2,T Humphries,17:30,0:36:35,53,21,32,16,6,Cannock & Stafford
+2003,Sutton Park,,Cannock & Stafford AC,,incomplete,,3,B Taylor,20:46,0:57:21,21,44,-23,349,62,Cannock & Stafford
+2003,Sutton Park,,Mansfield Harriers,,incomplete,,1,D O'Keefe,20:41,0:20:41,,66,,342,65,Mansfield Harriers
+2003,Sutton Park,,Mansfield Harriers,,incomplete,,2,L Garrett,18:27,0:39:08,66,57,9,109,22,Mansfield Harriers
+2003,Sutton Park,,Mansfield Harriers,,incomplete,,3,M Jenkins,19:56,0:59:04,57,58,-1,285,52,Mansfield Harriers
+2003,Sutton Park,,Mansfield Harriers,,incomplete,,4,D Quinlan,20:38,1:19:42,58,61,-3,340,60,Mansfield Harriers
+2003,Sutton Park,,Mansfield Harriers,,incomplete,,5,K Wilson,35:32,1:55:14,61,65,-4,386,64,Mansfield Harriers
+2003,Sutton Park,,Tamworth AC,,incomplete,,1,A Wright,19:44,0:19:44,,62,,262,61,Tamworth AC
+2003,Sutton Park,,Tamworth AC,,incomplete,,2,P Moores,17:49,0:37:33,62,39,23,47,11,Tamworth AC
+2003,Sutton Park,,Tamworth AC,,incomplete,,3,T Orton,21:06,0:58:39,39,57,-18,362,63,Tamworth AC
+2003,Sutton Park,,Tamworth AC,,incomplete,,4,M Greenwood,19:55,1:18:34,57,55,2,282,45,Tamworth AC
+2003,Sutton Park,,Tamworth AC,,incomplete,,5,P Tasker,19:57,1:38:31,55,53,2,286,35,Tamworth AC
